@@ -1,0 +1,6054 @@
+{
+  "pokemon_0": {
+    "name": "Missingno.",
+    "image_url": "https://cdn.poketwo.net/images/0.png"
+  },
+  "pokemon_1": {
+    "name": "Bulbasaur",
+    "image_url": "https://cdn.poketwo.net/images/1.png"
+  },
+  "pokemon_2": {
+    "name": "Ivysaur",
+    "image_url": "https://cdn.poketwo.net/images/2.png"
+  },
+  "pokemon_3": {
+    "name": "Venusaur",
+    "image_url": "https://cdn.poketwo.net/images/3.png"
+  },
+  "pokemon_3_female": {
+    "name": "Venusaur",
+    "image_url": "https://cdn.poketwo.net/images/3F.png"
+  },
+  "pokemon_4": {
+    "name": "Charmander",
+    "image_url": "https://cdn.poketwo.net/images/4.png"
+  },
+  "pokemon_5": {
+    "name": "Charmeleon",
+    "image_url": "https://cdn.poketwo.net/images/5.png"
+  },
+  "pokemon_6": {
+    "name": "Charizard",
+    "image_url": "https://cdn.poketwo.net/images/6.png"
+  },
+  "pokemon_7": {
+    "name": "Squirtle",
+    "image_url": "https://cdn.poketwo.net/images/7.png"
+  },
+  "pokemon_8": {
+    "name": "Wartortle",
+    "image_url": "https://cdn.poketwo.net/images/8.png"
+  },
+  "pokemon_9": {
+    "name": "Blastoise",
+    "image_url": "https://cdn.poketwo.net/images/9.png"
+  },
+  "pokemon_10": {
+    "name": "Caterpie",
+    "image_url": "https://cdn.poketwo.net/images/10.png"
+  },
+  "pokemon_11": {
+    "name": "Metapod",
+    "image_url": "https://cdn.poketwo.net/images/11.png"
+  },
+  "pokemon_12_female": {
+    "name": "Butterfree",
+    "image_url": "https://cdn.poketwo.net/images/12F.png"
+  },
+  "pokemon_12": {
+    "name": "Butterfree",
+    "image_url": "https://cdn.poketwo.net/images/12.png"
+  },
+  "pokemon_13": {
+    "name": "Weedle",
+    "image_url": "https://cdn.poketwo.net/images/13.png"
+  },
+  "pokemon_14": {
+    "name": "Kakuna",
+    "image_url": "https://cdn.poketwo.net/images/14.png"
+  },
+  "pokemon_15": {
+    "name": "Beedrill",
+    "image_url": "https://cdn.poketwo.net/images/15.png"
+  },
+  "pokemon_16": {
+    "name": "Pidgey",
+    "image_url": "https://cdn.poketwo.net/images/16.png"
+  },
+  "pokemon_17": {
+    "name": "Pidgeotto",
+    "image_url": "https://cdn.poketwo.net/images/17.png"
+  },
+  "pokemon_18": {
+    "name": "Pidgeot",
+    "image_url": "https://cdn.poketwo.net/images/18.png"
+  },
+  "pokemon_19": {
+    "name": "Rattata",
+    "image_url": "https://cdn.poketwo.net/images/19.png"
+  },
+  "pokemon_19_female": {
+    "name": "Rattata",
+    "image_url": "https://cdn.poketwo.net/images/19F.png"
+  },
+  "pokemon_20_female": {
+    "name": "Raticate",
+    "image_url": "https://cdn.poketwo.net/images/20F.png"
+  },
+  "pokemon_20": {
+    "name": "Raticate",
+    "image_url": "https://cdn.poketwo.net/images/20.png"
+  },
+  "pokemon_21": {
+    "name": "Spearow",
+    "image_url": "https://cdn.poketwo.net/images/21.png"
+  },
+  "pokemon_22": {
+    "name": "Fearow",
+    "image_url": "https://cdn.poketwo.net/images/22.png"
+  },
+  "pokemon_23": {
+    "name": "Ekans",
+    "image_url": "https://cdn.poketwo.net/images/23.png"
+  },
+  "pokemon_24": {
+    "name": "Arbok",
+    "image_url": "https://cdn.poketwo.net/images/24.png"
+  },
+  "pokemon_25": {
+    "name": "Pikachu",
+    "image_url": "https://cdn.poketwo.net/images/25.png"
+  },
+  "pokemon_25_female": {
+    "name": "Pikachu",
+    "image_url": "https://cdn.poketwo.net/images/25F.png"
+  },
+  "pokemon_26_female": {
+    "name": "Raichu",
+    "image_url": "https://cdn.poketwo.net/images/26F.png"
+  },
+  "pokemon_26": {
+    "name": "Raichu",
+    "image_url": "https://cdn.poketwo.net/images/26.png"
+  },
+  "pokemon_27": {
+    "name": "Sandshrew",
+    "image_url": "https://cdn.poketwo.net/images/27.png"
+  },
+  "pokemon_28": {
+    "name": "Sandslash",
+    "image_url": "https://cdn.poketwo.net/images/28.png"
+  },
+  "pokemon_29_female": {
+    "name": "Nidoran♀️",
+    "image_url": "https://cdn.poketwo.net/images/29.png"
+  },
+  "pokemon_30": {
+    "name": "Nidorina",
+    "image_url": "https://cdn.poketwo.net/images/30.png"
+  },
+  "pokemon_31": {
+    "name": "Nidoqueen",
+    "image_url": "https://cdn.poketwo.net/images/31.png"
+  },
+  "pokemon_32_male": {
+    "name": "Nidoran♂️",
+    "image_url": "https://cdn.poketwo.net/images/32.png"
+  },
+  "pokemon_33": {
+    "name": "Nidorino",
+    "image_url": "https://cdn.poketwo.net/images/33.png"
+  },
+  "pokemon_34": {
+    "name": "Nidoking",
+    "image_url": "https://cdn.poketwo.net/images/34.png"
+  },
+  "pokemon_35": {
+    "name": "Clefairy",
+    "image_url": "https://cdn.poketwo.net/images/35.png"
+  },
+  "pokemon_36": {
+    "name": "Clefable",
+    "image_url": "https://cdn.poketwo.net/images/36.png"
+  },
+  "pokemon_37": {
+    "name": "Vulpix",
+    "image_url": "https://cdn.poketwo.net/images/37.png"
+  },
+  "pokemon_38": {
+    "name": "Ninetales",
+    "image_url": "https://cdn.poketwo.net/images/38.png"
+  },
+  "pokemon_39": {
+    "name": "Jigglypuff",
+    "image_url": "https://cdn.poketwo.net/images/39.png"
+  },
+  "pokemon_40": {
+    "name": "Wigglytuff",
+    "image_url": "https://cdn.poketwo.net/images/40.png"
+  },
+  "pokemon_41": {
+    "name": "Zubat",
+    "image_url": "https://cdn.poketwo.net/images/41.png"
+  },
+  "pokemon_41_female": {
+    "name": "Zubat",
+    "image_url": "https://cdn.poketwo.net/images/41F.png"
+  },
+  "pokemon_42_female": {
+    "name": "Golbat",
+    "image_url": "https://cdn.poketwo.net/images/42F.png"
+  },
+  "pokemon_43": {
+    "name": "Oddish",
+    "image_url": "https://cdn.poketwo.net/images/43.png"
+  },
+  "pokemon_44_female": {
+    "name": "Gloom",
+    "image_url": "https://cdn.poketwo.net/images/44F.png"
+  },
+  "pokemon_44": {
+    "name": "Gloom",
+    "image_url": "https://cdn.poketwo.net/images/44.png"
+  },
+  "pokemon_45": {
+    "name": "Vileplume",
+    "image_url": "https://cdn.poketwo.net/images/45.png"
+  },
+  "pokemon_45_female": {
+    "name": "Vileplume",
+    "image_url": "https://cdn.poketwo.net/images/45F.png"
+  },
+  "pokemon_46": {
+    "name": "Paras",
+    "image_url": "https://cdn.poketwo.net/images/46.png"
+  },
+  "pokemon_47": {
+    "name": "Parasect",
+    "image_url": "https://cdn.poketwo.net/images/47.png"
+  },
+  "pokemon_48": {
+    "name": "Venonat",
+    "image_url": "https://cdn.poketwo.net/images/48.png"
+  },
+  "pokemon_49": {
+    "name": "Venomoth",
+    "image_url": "https://cdn.poketwo.net/images/49.png"
+  },
+  "pokemon_50": {
+    "name": "Diglett",
+    "image_url": "https://cdn.poketwo.net/images/50.png"
+  },
+  "pokemon_51": {
+    "name": "Dugtrio",
+    "image_url": "https://cdn.poketwo.net/images/51.png"
+  },
+  "pokemon_52": {
+    "name": "Meowth",
+    "image_url": "https://cdn.poketwo.net/images/52.png"
+  },
+  "pokemon_53": {
+    "name": "Persian",
+    "image_url": "https://cdn.poketwo.net/images/53.png"
+  },
+  "pokemon_54": {
+    "name": "Psyduck",
+    "image_url": "https://cdn.poketwo.net/images/54.png"
+  },
+  "pokemon_55": {
+    "name": "Golduck",
+    "image_url": "https://cdn.poketwo.net/images/55.png"
+  },
+  "pokemon_56": {
+    "name": "Mankey",
+    "image_url": "https://cdn.poketwo.net/images/56.png"
+  },
+  "pokemon_57": {
+    "name": "Primeape",
+    "image_url": "https://cdn.poketwo.net/images/57.png"
+  },
+  "pokemon_58": {
+    "name": "Growlithe",
+    "image_url": "https://cdn.poketwo.net/images/58.png"
+  },
+  "pokemon_59": {
+    "name": "Arcanine",
+    "image_url": "https://cdn.poketwo.net/images/59.png"
+  },
+  "pokemon_60": {
+    "name": "Poliwag",
+    "image_url": "https://cdn.poketwo.net/images/60.png"
+  },
+  "pokemon_61": {
+    "name": "Poliwhirl",
+    "image_url": "https://cdn.poketwo.net/images/61.png"
+  },
+  "pokemon_62": {
+    "name": "Poliwrath",
+    "image_url": "https://cdn.poketwo.net/images/62.png"
+  },
+  "pokemon_63": {
+    "name": "Abra",
+    "image_url": "https://cdn.poketwo.net/images/63.png"
+  },
+  "pokemon_64": {
+    "name": "Kadabra",
+    "image_url": "https://cdn.poketwo.net/images/64.png"
+  },
+  "pokemon_64_female": {
+    "name": "Kadabra",
+    "image_url": "https://cdn.poketwo.net/images/64F.png"
+  },
+  "pokemon_65_female": {
+    "name": "Alakazam",
+    "image_url": "https://cdn.poketwo.net/images/65F.png"
+  },
+  "pokemon_66": {
+    "name": "Machop",
+    "image_url": "https://cdn.poketwo.net/images/66.png"
+  },
+  "pokemon_67": {
+    "name": "Machoke",
+    "image_url": "https://cdn.poketwo.net/images/67.png"
+  },
+  "pokemon_68": {
+    "name": "Machamp",
+    "image_url": "https://cdn.poketwo.net/images/68.png"
+  },
+  "pokemon_69": {
+    "name": "Bellsprout",
+    "image_url": "https://cdn.poketwo.net/images/69.png"
+  },
+  "pokemon_70": {
+    "name": "Weepinbell",
+    "image_url": "https://cdn.poketwo.net/images/70.png"
+  },
+  "pokemon_71": {
+    "name": "Victreebel",
+    "image_url": "https://cdn.poketwo.net/images/71.png"
+  },
+  "pokemon_72": {
+    "name": "Tentacool",
+    "image_url": "https://cdn.poketwo.net/images/72.png"
+  },
+  "pokemon_73": {
+    "name": "Tentacruel",
+    "image_url": "https://cdn.poketwo.net/images/73.png"
+  },
+  "pokemon_74": {
+    "name": "Geodude",
+    "image_url": "https://cdn.poketwo.net/images/74.png"
+  },
+  "pokemon_75": {
+    "name": "Graveler",
+    "image_url": "https://cdn.poketwo.net/images/75.png"
+  },
+  "pokemon_76": {
+    "name": "Golem",
+    "image_url": "https://cdn.poketwo.net/images/76.png"
+  },
+  "pokemon_77": {
+    "name": "Ponyta",
+    "image_url": "https://cdn.poketwo.net/images/77.png"
+  },
+  "pokemon_78": {
+    "name": "Rapidash",
+    "image_url": "https://cdn.poketwo.net/images/78.png"
+  },
+  "pokemon_79": {
+    "name": "Slowpoke",
+    "image_url": "https://cdn.poketwo.net/images/79.png"
+  },
+  "pokemon_80": {
+    "name": "Slowbro",
+    "image_url": "https://cdn.poketwo.net/images/80.png"
+  },
+  "pokemon_81": {
+    "name": "Magnemite",
+    "image_url": "https://cdn.poketwo.net/images/81.png"
+  },
+  "pokemon_82": {
+    "name": "Magneton",
+    "image_url": "https://cdn.poketwo.net/images/82.png"
+  },
+  "pokemon_83": {
+    "name": "Farfetch'd",
+    "image_url": "https://cdn.poketwo.net/images/83.png"
+  },
+  "pokemon_84_female": {
+    "name": "Doduo",
+    "image_url": "https://cdn.poketwo.net/images/84F.png"
+  },
+  "pokemon_84": {
+    "name": "Doduo",
+    "image_url": "https://cdn.poketwo.net/images/84.png"
+  },
+  "pokemon_85": {
+    "name": "Dodrio",
+    "image_url": "https://cdn.poketwo.net/images/85.png"
+  },
+  "pokemon_85_female": {
+    "name": "Dodrio",
+    "image_url": "https://cdn.poketwo.net/images/85F.png"
+  },
+  "pokemon_86": {
+    "name": "Seel",
+    "image_url": "https://cdn.poketwo.net/images/86.png"
+  },
+  "pokemon_87": {
+    "name": "Dewgong",
+    "image_url": "https://cdn.poketwo.net/images/87.png"
+  },
+  "pokemon_88": {
+    "name": "Grimer",
+    "image_url": "https://cdn.poketwo.net/images/88.png"
+  },
+  "pokemon_89": {
+    "name": "Muk",
+    "image_url": "https://cdn.poketwo.net/images/89.png"
+  },
+  "pokemon_90": {
+    "name": "Shellder",
+    "image_url": "https://cdn.poketwo.net/images/90.png"
+  },
+  "pokemon_91": {
+    "name": "Cloyster",
+    "image_url": "https://cdn.poketwo.net/images/91.png"
+  },
+  "pokemon_92": {
+    "name": "Gastly",
+    "image_url": "https://cdn.poketwo.net/images/92.png"
+  },
+  "pokemon_93": {
+    "name": "Haunter",
+    "image_url": "https://cdn.poketwo.net/images/93.png"
+  },
+  "pokemon_94": {
+    "name": "Gengar",
+    "image_url": "https://cdn.poketwo.net/images/94.png"
+  },
+  "pokemon_95": {
+    "name": "Onix",
+    "image_url": "https://cdn.poketwo.net/images/95.png"
+  },
+  "pokemon_96": {
+    "name": "Drowzee",
+    "image_url": "https://cdn.poketwo.net/images/96.png"
+  },
+  "pokemon_97": {
+    "name": "Hypno",
+    "image_url": "https://cdn.poketwo.net/images/97.png"
+  },
+  "pokemon_97_female": {
+    "name": "Hypno",
+    "image_url": "https://cdn.poketwo.net/images/97F.png"
+  },
+  "pokemon_98": {
+    "name": "Krabby",
+    "image_url": "https://cdn.poketwo.net/images/98.png"
+  },
+  "pokemon_99": {
+    "name": "Kingler",
+    "image_url": "https://cdn.poketwo.net/images/99.png"
+  },
+  "pokemon_100": {
+    "name": "Voltorb",
+    "image_url": "https://cdn.poketwo.net/images/100.png"
+  },
+  "pokemon_101": {
+    "name": "Electrode",
+    "image_url": "https://cdn.poketwo.net/images/101.png"
+  },
+  "pokemon_102": {
+    "name": "Exeggcute",
+    "image_url": "https://cdn.poketwo.net/images/102.png"
+  },
+  "pokemon_103": {
+    "name": "Exeggutor",
+    "image_url": "https://cdn.poketwo.net/images/103.png"
+  },
+  "pokemon_104": {
+    "name": "Cubone",
+    "image_url": "https://cdn.poketwo.net/images/104.png"
+  },
+  "pokemon_105": {
+    "name": "Marowak",
+    "image_url": "https://cdn.poketwo.net/images/105.png"
+  },
+  "pokemon_106": {
+    "name": "Hitmonlee",
+    "image_url": "https://cdn.poketwo.net/images/106.png"
+  },
+  "pokemon_107": {
+    "name": "Hitmonchan",
+    "image_url": "https://cdn.poketwo.net/images/107.png"
+  },
+  "pokemon_108": {
+    "name": "Lickitung",
+    "image_url": "https://cdn.poketwo.net/images/108.png"
+  },
+  "pokemon_109": {
+    "name": "Koffing",
+    "image_url": "https://cdn.poketwo.net/images/109.png"
+  },
+  "pokemon_110": {
+    "name": "Weezing",
+    "image_url": "https://cdn.poketwo.net/images/110.png"
+  },
+  "pokemon_111_female": {
+    "name": "Rhyhorn",
+    "image_url": "https://cdn.poketwo.net/images/111F.png"
+  },
+  "pokemon_111": {
+    "name": "Rhyhorn",
+    "image_url": "https://cdn.poketwo.net/images/111.png"
+  },
+  "pokemon_112": {
+    "name": "Rhydon",
+    "image_url": "https://cdn.poketwo.net/images/112.png"
+  },
+  "pokemon_112_female": {
+    "name": "Rhydon",
+    "image_url": "https://cdn.poketwo.net/images/112F.png"
+  },
+  "pokemon_113": {
+    "name": "Chansey",
+    "image_url": "https://cdn.poketwo.net/images/113.png"
+  },
+  "pokemon_114": {
+    "name": "Tangela",
+    "image_url": "https://cdn.poketwo.net/images/114.png"
+  },
+  "pokemon_115": {
+    "name": "Kangaskhan",
+    "image_url": "https://cdn.poketwo.net/images/115.png"
+  },
+  "pokemon_116": {
+    "name": "Horsea",
+    "image_url": "https://cdn.poketwo.net/images/116.png"
+  },
+  "pokemon_117": {
+    "name": "Seadra",
+    "image_url": "https://cdn.poketwo.net/images/117.png"
+  },
+  "pokemon_118_female": {
+    "name": "Goldeen",
+    "image_url": "https://cdn.poketwo.net/images/118F.png"
+  },
+  "pokemon_118": {
+    "name": "Goldeen",
+    "image_url": "https://cdn.poketwo.net/images/118.png"
+  },
+  "pokemon_119": {
+    "name": "Seaking",
+    "image_url": "https://cdn.poketwo.net/images/119.png"
+  },
+  "pokemon_119_female": {
+    "name": "Seaking",
+    "image_url": "https://cdn.poketwo.net/images/119F.png"
+  },
+  "pokemon_120": {
+    "name": "Staryu",
+    "image_url": "https://cdn.poketwo.net/images/120.png"
+  },
+  "pokemon_121": {
+    "name": "Starmie",
+    "image_url": "https://cdn.poketwo.net/images/121.png"
+  },
+  "pokemon_122": {
+    "name": "Mr. Mime",
+    "image_url": "https://cdn.poketwo.net/images/122.png"
+  },
+  "pokemon_123_female": {
+    "name": "Scyther",
+    "image_url": "https://cdn.poketwo.net/images/123F.png"
+  },
+  "pokemon_123": {
+    "name": "Scyther",
+    "image_url": "https://cdn.poketwo.net/images/123.png"
+  },
+  "pokemon_124": {
+    "name": "Jynx",
+    "image_url": "https://cdn.poketwo.net/images/124.png"
+  },
+  "pokemon_125": {
+    "name": "Electabuzz",
+    "image_url": "https://cdn.poketwo.net/images/125.png"
+  },
+  "pokemon_126": {
+    "name": "Magmar",
+    "image_url": "https://cdn.poketwo.net/images/126.png"
+  },
+  "pokemon_127": {
+    "name": "Pinsir",
+    "image_url": "https://cdn.poketwo.net/images/127.png"
+  },
+  "pokemon_128": {
+    "name": "Tauros",
+    "image_url": "https://cdn.poketwo.net/images/128.png"
+  },
+  "pokemon_129": {
+    "name": "Magikarp",
+    "image_url": "https://cdn.poketwo.net/images/129.png"
+  },
+  "pokemon_129_female": {
+    "name": "Magikarp",
+    "image_url": "https://cdn.poketwo.net/images/129F.png"
+  },
+  "pokemon_130_female": {
+    "name": "Gyarados",
+    "image_url": "https://cdn.poketwo.net/images/130F.png"
+  },
+  "pokemon_131": {
+    "name": "Lapras",
+    "image_url": "https://cdn.poketwo.net/images/131.png"
+  },
+  "pokemon_132": {
+    "name": "Ditto",
+    "image_url": "https://cdn.poketwo.net/images/132.png"
+  },
+  "pokemon_133_female": {
+    "name": "Eevee",
+    "image_url": "https://cdn.poketwo.net/images/133F.png"
+  },
+  "pokemon_133": {
+    "name": "Eevee",
+    "image_url": "https://cdn.poketwo.net/images/133.png"
+  },
+  "pokemon_134": {
+    "name": "Vaporeon",
+    "image_url": "https://cdn.poketwo.net/images/134.png"
+  },
+  "pokemon_135": {
+    "name": "Jolteon",
+    "image_url": "https://cdn.poketwo.net/images/135.png"
+  },
+  "pokemon_136": {
+    "name": "Flareon",
+    "image_url": "https://cdn.poketwo.net/images/136.png"
+  },
+  "pokemon_137": {
+    "name": "Porygon",
+    "image_url": "https://cdn.poketwo.net/images/137.png"
+  },
+  "pokemon_138": {
+    "name": "Omanyte",
+    "image_url": "https://cdn.poketwo.net/images/138.png"
+  },
+  "pokemon_139": {
+    "name": "Omastar",
+    "image_url": "https://cdn.poketwo.net/images/139.png"
+  },
+  "pokemon_140": {
+    "name": "Kabuto",
+    "image_url": "https://cdn.poketwo.net/images/140.png"
+  },
+  "pokemon_141": {
+    "name": "Kabutops",
+    "image_url": "https://cdn.poketwo.net/images/141.png"
+  },
+  "pokemon_142": {
+    "name": "Aerodactyl",
+    "image_url": "https://cdn.poketwo.net/images/142.png"
+  },
+  "pokemon_143": {
+    "name": "Snorlax",
+    "image_url": "https://cdn.poketwo.net/images/143.png"
+  },
+  "pokemon_144": {
+    "name": "Articuno",
+    "image_url": "https://cdn.poketwo.net/images/144.png"
+  },
+  "pokemon_145": {
+    "name": "Zapdos",
+    "image_url": "https://cdn.poketwo.net/images/145.png"
+  },
+  "pokemon_146": {
+    "name": "Moltres",
+    "image_url": "https://cdn.poketwo.net/images/146.png"
+  },
+  "pokemon_147": {
+    "name": "Dratini",
+    "image_url": "https://cdn.poketwo.net/images/147.png"
+  },
+  "pokemon_148": {
+    "name": "Dragonair",
+    "image_url": "https://cdn.poketwo.net/images/148.png"
+  },
+  "pokemon_149": {
+    "name": "Dragonite",
+    "image_url": "https://cdn.poketwo.net/images/149.png"
+  },
+  "pokemon_150": {
+    "name": "Mewtwo",
+    "image_url": "https://cdn.poketwo.net/images/150.png"
+  },
+  "pokemon_151": {
+    "name": "Mew",
+    "image_url": "https://cdn.poketwo.net/images/151.png"
+  },
+  "pokemon_152": {
+    "name": "Chikorita",
+    "image_url": "https://cdn.poketwo.net/images/152.png"
+  },
+  "pokemon_153": {
+    "name": "Bayleef",
+    "image_url": "https://cdn.poketwo.net/images/153.png"
+  },
+  "pokemon_154": {
+    "name": "Meganium",
+    "image_url": "https://cdn.poketwo.net/images/154.png"
+  },
+  "pokemon_154_female": {
+    "name": "Meganium",
+    "image_url": "https://cdn.poketwo.net/images/154F.png"
+  },
+  "pokemon_155": {
+    "name": "Cyndaquil",
+    "image_url": "https://cdn.poketwo.net/images/155.png"
+  },
+  "pokemon_156": {
+    "name": "Quilava",
+    "image_url": "https://cdn.poketwo.net/images/156.png"
+  },
+  "pokemon_157": {
+    "name": "Typhlosion",
+    "image_url": "https://cdn.poketwo.net/images/157.png"
+  },
+  "pokemon_158": {
+    "name": "Totodile",
+    "image_url": "https://cdn.poketwo.net/images/158.png"
+  },
+  "pokemon_159": {
+    "name": "Croconaw",
+    "image_url": "https://cdn.poketwo.net/images/159.png"
+  },
+  "pokemon_160": {
+    "name": "Feraligatr",
+    "image_url": "https://cdn.poketwo.net/images/160.png"
+  },
+  "pokemon_161": {
+    "name": "Sentret",
+    "image_url": "https://cdn.poketwo.net/images/161.png"
+  },
+  "pokemon_162": {
+    "name": "Furret",
+    "image_url": "https://cdn.poketwo.net/images/162.png"
+  },
+  "pokemon_163": {
+    "name": "Hoothoot",
+    "image_url": "https://cdn.poketwo.net/images/163.png"
+  },
+  "pokemon_164": {
+    "name": "Noctowl",
+    "image_url": "https://cdn.poketwo.net/images/164.png"
+  },
+  "pokemon_165_female": {
+    "name": "Ledyba",
+    "image_url": "https://cdn.poketwo.net/images/165F.png"
+  },
+  "pokemon_165": {
+    "name": "Ledyba",
+    "image_url": "https://cdn.poketwo.net/images/165.png"
+  },
+  "pokemon_166": {
+    "name": "Ledian",
+    "image_url": "https://cdn.poketwo.net/images/166.png"
+  },
+  "pokemon_167": {
+    "name": "Spinarak",
+    "image_url": "https://cdn.poketwo.net/images/167.png"
+  },
+  "pokemon_168": {
+    "name": "Ariados",
+    "image_url": "https://cdn.poketwo.net/images/168.png"
+  },
+  "pokemon_169": {
+    "name": "Crobat",
+    "image_url": "https://cdn.poketwo.net/images/169.png"
+  },
+  "pokemon_170": {
+    "name": "Chinchou",
+    "image_url": "https://cdn.poketwo.net/images/170.png"
+  },
+  "pokemon_171": {
+    "name": "Lanturn",
+    "image_url": "https://cdn.poketwo.net/images/171.png"
+  },
+  "pokemon_172": {
+    "name": "Pichu",
+    "image_url": "https://cdn.poketwo.net/images/172.png"
+  },
+  "pokemon_173": {
+    "name": "Cleffa",
+    "image_url": "https://cdn.poketwo.net/images/173.png"
+  },
+  "pokemon_174": {
+    "name": "Igglybuff",
+    "image_url": "https://cdn.poketwo.net/images/174.png"
+  },
+  "pokemon_175": {
+    "name": "Togepi",
+    "image_url": "https://cdn.poketwo.net/images/175.png"
+  },
+  "pokemon_176": {
+    "name": "Togetic",
+    "image_url": "https://cdn.poketwo.net/images/176.png"
+  },
+  "pokemon_177": {
+    "name": "Natu",
+    "image_url": "https://cdn.poketwo.net/images/177.png"
+  },
+  "pokemon_178": {
+    "name": "Xatu",
+    "image_url": "https://cdn.poketwo.net/images/178.png"
+  },
+  "pokemon_178_female": {
+    "name": "Xatu",
+    "image_url": "https://cdn.poketwo.net/images/178F.png"
+  },
+  "pokemon_179": {
+    "name": "Mareep",
+    "image_url": "https://cdn.poketwo.net/images/179.png"
+  },
+  "pokemon_180": {
+    "name": "Flaaffy",
+    "image_url": "https://cdn.poketwo.net/images/180.png"
+  },
+  "pokemon_181": {
+    "name": "Ampharos",
+    "image_url": "https://cdn.poketwo.net/images/181.png"
+  },
+  "pokemon_182": {
+    "name": "Bellossom",
+    "image_url": "https://cdn.poketwo.net/images/182.png"
+  },
+  "pokemon_183": {
+    "name": "Marill",
+    "image_url": "https://cdn.poketwo.net/images/183.png"
+  },
+  "pokemon_184": {
+    "name": "Azumarill",
+    "image_url": "https://cdn.poketwo.net/images/184.png"
+  },
+  "pokemon_185_female": {
+    "name": "Sudowoodo",
+    "image_url": "https://cdn.poketwo.net/images/185F.png"
+  },
+  "pokemon_185": {
+    "name": "Sudowoodo",
+    "image_url": "https://cdn.poketwo.net/images/185.png"
+  },
+  "pokemon_186": {
+    "name": "Politoed",
+    "image_url": "https://cdn.poketwo.net/images/186.png"
+  },
+  "pokemon_187": {
+    "name": "Hoppip",
+    "image_url": "https://cdn.poketwo.net/images/187.png"
+  },
+  "pokemon_186_female": {
+    "name": "Politoed",
+    "image_url": "https://cdn.poketwo.net/images/186F.png"
+  },
+  "pokemon_188": {
+    "name": "Skiploom",
+    "image_url": "https://cdn.poketwo.net/images/188.png"
+  },
+  "pokemon_189": {
+    "name": "Jumpluff",
+    "image_url": "https://cdn.poketwo.net/images/189.png"
+  },
+  "pokemon_190_female": {
+    "name": "Aipom",
+    "image_url": "https://cdn.poketwo.net/images/190F.png"
+  },
+  "pokemon_190": {
+    "name": "Aipom",
+    "image_url": "https://cdn.poketwo.net/images/190.png"
+  },
+  "pokemon_191": {
+    "name": "Sunkern",
+    "image_url": "https://cdn.poketwo.net/images/191.png"
+  },
+  "pokemon_192": {
+    "name": "Sunflora",
+    "image_url": "https://cdn.poketwo.net/images/192.png"
+  },
+  "pokemon_193": {
+    "name": "Yanma",
+    "image_url": "https://cdn.poketwo.net/images/193.png"
+  },
+  "pokemon_194": {
+    "name": "Wooper",
+    "image_url": "https://cdn.poketwo.net/images/194.png"
+  },
+  "pokemon_194_female": {
+    "name": "Wooper",
+    "image_url": "https://cdn.poketwo.net/images/194F.png"
+  },
+  "pokemon_195_female": {
+    "name": "Quagsire",
+    "image_url": "https://cdn.poketwo.net/images/195F.png"
+  },
+  "pokemon_196": {
+    "name": "Espeon",
+    "image_url": "https://cdn.poketwo.net/images/196.png"
+  },
+  "pokemon_195": {
+    "name": "Quagsire",
+    "image_url": "https://cdn.poketwo.net/images/195.png"
+  },
+  "pokemon_197": {
+    "name": "Umbreon",
+    "image_url": "https://cdn.poketwo.net/images/197.png"
+  },
+  "pokemon_198": {
+    "name": "Murkrow",
+    "image_url": "https://cdn.poketwo.net/images/198.png"
+  },
+  "pokemon_198_female": {
+    "name": "Murkrow",
+    "image_url": "https://cdn.poketwo.net/images/198F.png"
+  },
+  "pokemon_199": {
+    "name": "Slowking",
+    "image_url": "https://cdn.poketwo.net/images/199.png"
+  },
+  "pokemon_200": {
+    "name": "Misdreavus",
+    "image_url": "https://cdn.poketwo.net/images/200.png"
+  },
+  "pokemon_201": {
+    "name": "Unown",
+    "image_url": "https://cdn.poketwo.net/images/201.png"
+  },
+  "pokemon_202_female": {
+    "name": "Wobbuffet",
+    "image_url": "https://cdn.poketwo.net/images/202F.png"
+  },
+  "pokemon_202": {
+    "name": "Wobbuffet",
+    "image_url": "https://cdn.poketwo.net/images/202.png"
+  },
+  "pokemon_203": {
+    "name": "Girafarig",
+    "image_url": "https://cdn.poketwo.net/images/203.png"
+  },
+  "pokemon_204": {
+    "name": "Pineco",
+    "image_url": "https://cdn.poketwo.net/images/204.png"
+  },
+  "pokemon_203_female": {
+    "name": "Girafarig",
+    "image_url": "https://cdn.poketwo.net/images/203F.png"
+  },
+  "pokemon_205": {
+    "name": "Forretress",
+    "image_url": "https://cdn.poketwo.net/images/205.png"
+  },
+  "pokemon_206": {
+    "name": "Dunsparce",
+    "image_url": "https://cdn.poketwo.net/images/206.png"
+  },
+  "pokemon_207": {
+    "name": "Gligar",
+    "image_url": "https://cdn.poketwo.net/images/207.png"
+  },
+  "pokemon_207_female": {
+    "name": "Gligar",
+    "image_url": "https://cdn.poketwo.net/images/207F.png"
+  },
+  "pokemon_208_female": {
+    "name": "Steelix",
+    "image_url": "https://cdn.poketwo.net/images/208F.png"
+  },
+  "pokemon_209": {
+    "name": "Snubbull",
+    "image_url": "https://cdn.poketwo.net/images/209.png"
+  },
+  "pokemon_210": {
+    "name": "Granbull",
+    "image_url": "https://cdn.poketwo.net/images/210.png"
+  },
+  "pokemon_211": {
+    "name": "Qwilfish",
+    "image_url": "https://cdn.poketwo.net/images/211.png"
+  },
+  "pokemon_212_female": {
+    "name": "Scizor",
+    "image_url": "https://cdn.poketwo.net/images/212F.png"
+  },
+  "pokemon_212": {
+    "name": "Scizor",
+    "image_url": "https://cdn.poketwo.net/images/212.png"
+  },
+  "pokemon_213": {
+    "name": "Shuckle",
+    "image_url": "https://cdn.poketwo.net/images/213.png"
+  },
+  "pokemon_214": {
+    "name": "Heracross",
+    "image_url": "https://cdn.poketwo.net/images/214.png"
+  },
+  "pokemon_214_female": {
+    "name": "Heracross",
+    "image_url": "https://cdn.poketwo.net/images/214F.png"
+  },
+  "pokemon_215_female": {
+    "name": "Sneasel",
+    "image_url": "https://cdn.poketwo.net/images/215F.png"
+  },
+  "pokemon_215": {
+    "name": "Sneasel",
+    "image_url": "https://cdn.poketwo.net/images/215.png"
+  },
+  "pokemon_216": {
+    "name": "Teddiursa",
+    "image_url": "https://cdn.poketwo.net/images/216.png"
+  },
+  "pokemon_217": {
+    "name": "Ursaring",
+    "image_url": "https://cdn.poketwo.net/images/217.png"
+  },
+  "pokemon_217_female": {
+    "name": "Ursaring",
+    "image_url": "https://cdn.poketwo.net/images/217F.png"
+  },
+  "pokemon_218": {
+    "name": "Slugma",
+    "image_url": "https://cdn.poketwo.net/images/218.png"
+  },
+  "pokemon_219": {
+    "name": "Magcargo",
+    "image_url": "https://cdn.poketwo.net/images/219.png"
+  },
+  "pokemon_220": {
+    "name": "Swinub",
+    "image_url": "https://cdn.poketwo.net/images/220.png"
+  },
+  "pokemon_221_female": {
+    "name": "Piloswine",
+    "image_url": "https://cdn.poketwo.net/images/221F.png"
+  },
+  "pokemon_221": {
+    "name": "Piloswine",
+    "image_url": "https://cdn.poketwo.net/images/221.png"
+  },
+  "pokemon_222": {
+    "name": "Corsola",
+    "image_url": "https://cdn.poketwo.net/images/222.png"
+  },
+  "pokemon_223": {
+    "name": "Remoraid",
+    "image_url": "https://cdn.poketwo.net/images/223.png"
+  },
+  "pokemon_224": {
+    "name": "Octillery",
+    "image_url": "https://cdn.poketwo.net/images/224.png"
+  },
+  "pokemon_224_female": {
+    "name": "Octillery",
+    "image_url": "https://cdn.poketwo.net/images/224F.png"
+  },
+  "pokemon_225": {
+    "name": "Delibird",
+    "image_url": "https://cdn.poketwo.net/images/225.png"
+  },
+  "pokemon_226": {
+    "name": "Mantine",
+    "image_url": "https://cdn.poketwo.net/images/226.png"
+  },
+  "pokemon_227": {
+    "name": "Skarmory",
+    "image_url": "https://cdn.poketwo.net/images/227.png"
+  },
+  "pokemon_228": {
+    "name": "Houndour",
+    "image_url": "https://cdn.poketwo.net/images/228.png"
+  },
+  "pokemon_229_female": {
+    "name": "Houndoom",
+    "image_url": "https://cdn.poketwo.net/images/229F.png"
+  },
+  "pokemon_229": {
+    "name": "Houndoom",
+    "image_url": "https://cdn.poketwo.net/images/229.png"
+  },
+  "pokemon_230": {
+    "name": "Kingdra",
+    "image_url": "https://cdn.poketwo.net/images/230.png"
+  },
+  "pokemon_231": {
+    "name": "Phanpy",
+    "image_url": "https://cdn.poketwo.net/images/231.png"
+  },
+  "pokemon_232": {
+    "name": "Donphan",
+    "image_url": "https://cdn.poketwo.net/images/232.png"
+  },
+  "pokemon_232_female": {
+    "name": "Donphan",
+    "image_url": "https://cdn.poketwo.net/images/232F.png"
+  },
+  "pokemon_233": {
+    "name": "Porygon2",
+    "image_url": "https://cdn.poketwo.net/images/233.png"
+  },
+  "pokemon_234": {
+    "name": "Stantler",
+    "image_url": "https://cdn.poketwo.net/images/234.png"
+  },
+  "pokemon_235": {
+    "name": "Smeargle",
+    "image_url": "https://cdn.poketwo.net/images/235.png"
+  },
+  "pokemon_236": {
+    "name": "Tyrogue",
+    "image_url": "https://cdn.poketwo.net/images/236.png"
+  },
+  "pokemon_237": {
+    "name": "Hitmontop",
+    "image_url": "https://cdn.poketwo.net/images/237.png"
+  },
+  "pokemon_238": {
+    "name": "Smoochum",
+    "image_url": "https://cdn.poketwo.net/images/238.png"
+  },
+  "pokemon_239": {
+    "name": "Elekid",
+    "image_url": "https://cdn.poketwo.net/images/239.png"
+  },
+  "pokemon_240": {
+    "name": "Magby",
+    "image_url": "https://cdn.poketwo.net/images/240.png"
+  },
+  "pokemon_241": {
+    "name": "Miltank",
+    "image_url": "https://cdn.poketwo.net/images/241.png"
+  },
+  "pokemon_242": {
+    "name": "Blissey",
+    "image_url": "https://cdn.poketwo.net/images/242.png"
+  },
+  "pokemon_243": {
+    "name": "Raikou",
+    "image_url": "https://cdn.poketwo.net/images/243.png"
+  },
+  "pokemon_244": {
+    "name": "Entei",
+    "image_url": "https://cdn.poketwo.net/images/244.png"
+  },
+  "pokemon_245": {
+    "name": "Suicune",
+    "image_url": "https://cdn.poketwo.net/images/245.png"
+  },
+  "pokemon_246": {
+    "name": "Larvitar",
+    "image_url": "https://cdn.poketwo.net/images/246.png"
+  },
+  "pokemon_247": {
+    "name": "Pupitar",
+    "image_url": "https://cdn.poketwo.net/images/247.png"
+  },
+  "pokemon_248": {
+    "name": "Tyranitar",
+    "image_url": "https://cdn.poketwo.net/images/248.png"
+  },
+  "pokemon_249": {
+    "name": "Lugia",
+    "image_url": "https://cdn.poketwo.net/images/249.png"
+  },
+  "pokemon_250": {
+    "name": "Ho-Oh",
+    "image_url": "https://cdn.poketwo.net/images/250.png"
+  },
+  "pokemon_251": {
+    "name": "Celebi",
+    "image_url": "https://cdn.poketwo.net/images/251.png"
+  },
+  "pokemon_252": {
+    "name": "Treecko",
+    "image_url": "https://cdn.poketwo.net/images/252.png"
+  },
+  "pokemon_253": {
+    "name": "Grovyle",
+    "image_url": "https://cdn.poketwo.net/images/253.png"
+  },
+  "pokemon_254": {
+    "name": "Sceptile",
+    "image_url": "https://cdn.poketwo.net/images/254.png"
+  },
+  "pokemon_255_female": {
+    "name": "Torchic",
+    "image_url": "https://cdn.poketwo.net/images/255F.png"
+  },
+  "pokemon_255": {
+    "name": "Torchic",
+    "image_url": "https://cdn.poketwo.net/images/255.png"
+  },
+  "pokemon_256": {
+    "name": "Combusken",
+    "image_url": "https://cdn.poketwo.net/images/256.png"
+  },
+  "pokemon_256_female": {
+    "name": "Combusken",
+    "image_url": "https://cdn.poketwo.net/images/256F.png"
+  },
+  "pokemon_257_female": {
+    "name": "Blaziken",
+    "image_url": "https://cdn.poketwo.net/images/257F.png"
+  },
+  "pokemon_257": {
+    "name": "Blaziken",
+    "image_url": "https://cdn.poketwo.net/images/257.png"
+  },
+  "pokemon_258": {
+    "name": "Mudkip",
+    "image_url": "https://cdn.poketwo.net/images/258.png"
+  },
+  "pokemon_259": {
+    "name": "Marshtomp",
+    "image_url": "https://cdn.poketwo.net/images/259.png"
+  },
+  "pokemon_260": {
+    "name": "Swampert",
+    "image_url": "https://cdn.poketwo.net/images/260.png"
+  },
+  "pokemon_261": {
+    "name": "Poochyena",
+    "image_url": "https://cdn.poketwo.net/images/261.png"
+  },
+  "pokemon_262": {
+    "name": "Mightyena",
+    "image_url": "https://cdn.poketwo.net/images/262.png"
+  },
+  "pokemon_263": {
+    "name": "Zigzagoon",
+    "image_url": "https://cdn.poketwo.net/images/263.png"
+  },
+  "pokemon_264": {
+    "name": "Linoone",
+    "image_url": "https://cdn.poketwo.net/images/264.png"
+  },
+  "pokemon_265": {
+    "name": "Wurmple",
+    "image_url": "https://cdn.poketwo.net/images/265.png"
+  },
+  "pokemon_266": {
+    "name": "Silcoon",
+    "image_url": "https://cdn.poketwo.net/images/266.png"
+  },
+  "pokemon_267": {
+    "name": "Beautifly",
+    "image_url": "https://cdn.poketwo.net/images/267.png"
+  },
+  "pokemon_267_female": {
+    "name": "Beautifly",
+    "image_url": "https://cdn.poketwo.net/images/267F.png"
+  },
+  "pokemon_268": {
+    "name": "Cascoon",
+    "image_url": "https://cdn.poketwo.net/images/268.png"
+  },
+  "pokemon_269_female": {
+    "name": "Dustox",
+    "image_url": "https://cdn.poketwo.net/images/269F.png"
+  },
+  "pokemon_269": {
+    "name": "Dustox",
+    "image_url": "https://cdn.poketwo.net/images/269.png"
+  },
+  "pokemon_270": {
+    "name": "Lotad",
+    "image_url": "https://cdn.poketwo.net/images/270.png"
+  },
+  "pokemon_271": {
+    "name": "Lombre",
+    "image_url": "https://cdn.poketwo.net/images/271.png"
+  },
+  "pokemon_272": {
+    "name": "Ludicolo",
+    "image_url": "https://cdn.poketwo.net/images/272.png"
+  },
+  "pokemon_272_female": {
+    "name": "Ludicolo",
+    "image_url": "https://cdn.poketwo.net/images/272F.png"
+  },
+  "pokemon_273": {
+    "name": "Seedot",
+    "image_url": "https://cdn.poketwo.net/images/273.png"
+  },
+  "pokemon_274_female": {
+    "name": "Nuzleaf",
+    "image_url": "https://cdn.poketwo.net/images/274F.png"
+  },
+  "pokemon_274": {
+    "name": "Nuzleaf",
+    "image_url": "https://cdn.poketwo.net/images/274.png"
+  },
+  "pokemon_275": {
+    "name": "Shiftry",
+    "image_url": "https://cdn.poketwo.net/images/275.png"
+  },
+  "pokemon_276": {
+    "name": "Taillow",
+    "image_url": "https://cdn.poketwo.net/images/276.png"
+  },
+  "pokemon_277": {
+    "name": "Swellow",
+    "image_url": "https://cdn.poketwo.net/images/277.png"
+  },
+  "pokemon_278": {
+    "name": "Wingull",
+    "image_url": "https://cdn.poketwo.net/images/278.png"
+  },
+  "pokemon_279": {
+    "name": "Pelipper",
+    "image_url": "https://cdn.poketwo.net/images/279.png"
+  },
+  "pokemon_280": {
+    "name": "Ralts",
+    "image_url": "https://cdn.poketwo.net/images/280.png"
+  },
+  "pokemon_281": {
+    "name": "Kirlia",
+    "image_url": "https://cdn.poketwo.net/images/281.png"
+  },
+  "pokemon_282": {
+    "name": "Gardevoir",
+    "image_url": "https://cdn.poketwo.net/images/282.png"
+  },
+  "pokemon_283": {
+    "name": "Surskit",
+    "image_url": "https://cdn.poketwo.net/images/283.png"
+  },
+  "pokemon_284": {
+    "name": "Masquerain",
+    "image_url": "https://cdn.poketwo.net/images/284.png"
+  },
+  "pokemon_285": {
+    "name": "Shroomish",
+    "image_url": "https://cdn.poketwo.net/images/285.png"
+  },
+  "pokemon_286": {
+    "name": "Breloom",
+    "image_url": "https://cdn.poketwo.net/images/286.png"
+  },
+  "pokemon_287": {
+    "name": "Slakoth",
+    "image_url": "https://cdn.poketwo.net/images/287.png"
+  },
+  "pokemon_288": {
+    "name": "Vigoroth",
+    "image_url": "https://cdn.poketwo.net/images/288.png"
+  },
+  "pokemon_289": {
+    "name": "Slaking",
+    "image_url": "https://cdn.poketwo.net/images/289.png"
+  },
+  "pokemon_290": {
+    "name": "Nincada",
+    "image_url": "https://cdn.poketwo.net/images/290.png"
+  },
+  "pokemon_291": {
+    "name": "Ninjask",
+    "image_url": "https://cdn.poketwo.net/images/291.png"
+  },
+  "pokemon_292": {
+    "name": "Shedinja",
+    "image_url": "https://cdn.poketwo.net/images/292.png"
+  },
+  "pokemon_293": {
+    "name": "Whismur",
+    "image_url": "https://cdn.poketwo.net/images/293.png"
+  },
+  "pokemon_294": {
+    "name": "Loudred",
+    "image_url": "https://cdn.poketwo.net/images/294.png"
+  },
+  "pokemon_295": {
+    "name": "Exploud",
+    "image_url": "https://cdn.poketwo.net/images/295.png"
+  },
+  "pokemon_296": {
+    "name": "Makuhita",
+    "image_url": "https://cdn.poketwo.net/images/296.png"
+  },
+  "pokemon_297": {
+    "name": "Hariyama",
+    "image_url": "https://cdn.poketwo.net/images/297.png"
+  },
+  "pokemon_298": {
+    "name": "Azurill",
+    "image_url": "https://cdn.poketwo.net/images/298.png"
+  },
+  "pokemon_299": {
+    "name": "Nosepass",
+    "image_url": "https://cdn.poketwo.net/images/299.png"
+  },
+  "pokemon_300": {
+    "name": "Skitty",
+    "image_url": "https://cdn.poketwo.net/images/300.png"
+  },
+  "pokemon_301": {
+    "name": "Delcatty",
+    "image_url": "https://cdn.poketwo.net/images/301.png"
+  },
+  "pokemon_302": {
+    "name": "Sableye",
+    "image_url": "https://cdn.poketwo.net/images/302.png"
+  },
+  "pokemon_303": {
+    "name": "Mawile",
+    "image_url": "https://cdn.poketwo.net/images/303.png"
+  },
+  "pokemon_304": {
+    "name": "Aron",
+    "image_url": "https://cdn.poketwo.net/images/304.png"
+  },
+  "pokemon_305": {
+    "name": "Lairon",
+    "image_url": "https://cdn.poketwo.net/images/305.png"
+  },
+  "pokemon_306": {
+    "name": "Aggron",
+    "image_url": "https://cdn.poketwo.net/images/306.png"
+  },
+  "pokemon_307": {
+    "name": "Meditite",
+    "image_url": "https://cdn.poketwo.net/images/307.png"
+  },
+  "pokemon_307_female": {
+    "name": "Meditite",
+    "image_url": "https://cdn.poketwo.net/images/307F.png"
+  },
+  "pokemon_308_female": {
+    "name": "Medicham",
+    "image_url": "https://cdn.poketwo.net/images/308F.png"
+  },
+  "pokemon_308": {
+    "name": "Medicham",
+    "image_url": "https://cdn.poketwo.net/images/308.png"
+  },
+  "pokemon_309": {
+    "name": "Electrike",
+    "image_url": "https://cdn.poketwo.net/images/309.png"
+  },
+  "pokemon_310": {
+    "name": "Manectric",
+    "image_url": "https://cdn.poketwo.net/images/310.png"
+  },
+  "pokemon_311": {
+    "name": "Plusle",
+    "image_url": "https://cdn.poketwo.net/images/311.png"
+  },
+  "pokemon_312": {
+    "name": "Minun",
+    "image_url": "https://cdn.poketwo.net/images/312.png"
+  },
+  "pokemon_313": {
+    "name": "Volbeat",
+    "image_url": "https://cdn.poketwo.net/images/313.png"
+  },
+  "pokemon_314": {
+    "name": "Illumise",
+    "image_url": "https://cdn.poketwo.net/images/314.png"
+  },
+  "pokemon_315": {
+    "name": "Roselia",
+    "image_url": "https://cdn.poketwo.net/images/315.png"
+  },
+  "pokemon_315_female": {
+    "name": "Roselia",
+    "image_url": "https://cdn.poketwo.net/images/315F.png"
+  },
+  "pokemon_316_female": {
+    "name": "Gulpin",
+    "image_url": "https://cdn.poketwo.net/images/316F.png"
+  },
+  "pokemon_316": {
+    "name": "Gulpin",
+    "image_url": "https://cdn.poketwo.net/images/316.png"
+  },
+  "pokemon_317": {
+    "name": "Swalot",
+    "image_url": "https://cdn.poketwo.net/images/317.png"
+  },
+  "pokemon_317_female": {
+    "name": "Swalot",
+    "image_url": "https://cdn.poketwo.net/images/317F.png"
+  },
+  "pokemon_318": {
+    "name": "Carvanha",
+    "image_url": "https://cdn.poketwo.net/images/318.png"
+  },
+  "pokemon_319": {
+    "name": "Sharpedo",
+    "image_url": "https://cdn.poketwo.net/images/319.png"
+  },
+  "pokemon_320": {
+    "name": "Wailmer",
+    "image_url": "https://cdn.poketwo.net/images/320.png"
+  },
+  "pokemon_321": {
+    "name": "Wailord",
+    "image_url": "https://cdn.poketwo.net/images/321.png"
+  },
+  "pokemon_322_female": {
+    "name": "Numel",
+    "image_url": "https://cdn.poketwo.net/images/322F.png"
+  },
+  "pokemon_322": {
+    "name": "Numel",
+    "image_url": "https://cdn.poketwo.net/images/322.png"
+  },
+  "pokemon_323": {
+    "name": "Camerupt",
+    "image_url": "https://cdn.poketwo.net/images/323.png"
+  },
+  "pokemon_323_female": {
+    "name": "Camerupt",
+    "image_url": "https://cdn.poketwo.net/images/323F.png"
+  },
+  "pokemon_324": {
+    "name": "Torkoal",
+    "image_url": "https://cdn.poketwo.net/images/324.png"
+  },
+  "pokemon_325": {
+    "name": "Spoink",
+    "image_url": "https://cdn.poketwo.net/images/325.png"
+  },
+  "pokemon_326": {
+    "name": "Grumpig",
+    "image_url": "https://cdn.poketwo.net/images/326.png"
+  },
+  "pokemon_327": {
+    "name": "Spinda",
+    "image_url": "https://cdn.poketwo.net/images/327.png"
+  },
+  "pokemon_328": {
+    "name": "Trapinch",
+    "image_url": "https://cdn.poketwo.net/images/328.png"
+  },
+  "pokemon_329": {
+    "name": "Vibrava",
+    "image_url": "https://cdn.poketwo.net/images/329.png"
+  },
+  "pokemon_330": {
+    "name": "Flygon",
+    "image_url": "https://cdn.poketwo.net/images/330.png"
+  },
+  "pokemon_331": {
+    "name": "Cacnea",
+    "image_url": "https://cdn.poketwo.net/images/331.png"
+  },
+  "pokemon_332": {
+    "name": "Cacturne",
+    "image_url": "https://cdn.poketwo.net/images/332.png"
+  },
+  "pokemon_332_female": {
+    "name": "Cacturne",
+    "image_url": "https://cdn.poketwo.net/images/332F.png"
+  },
+  "pokemon_333": {
+    "name": "Swablu",
+    "image_url": "https://cdn.poketwo.net/images/333.png"
+  },
+  "pokemon_334": {
+    "name": "Altaria",
+    "image_url": "https://cdn.poketwo.net/images/334.png"
+  },
+  "pokemon_335": {
+    "name": "Zangoose",
+    "image_url": "https://cdn.poketwo.net/images/335.png"
+  },
+  "pokemon_336": {
+    "name": "Seviper",
+    "image_url": "https://cdn.poketwo.net/images/336.png"
+  },
+  "pokemon_337": {
+    "name": "Lunatone",
+    "image_url": "https://cdn.poketwo.net/images/337.png"
+  },
+  "pokemon_338": {
+    "name": "Solrock",
+    "image_url": "https://cdn.poketwo.net/images/338.png"
+  },
+  "pokemon_339": {
+    "name": "Barboach",
+    "image_url": "https://cdn.poketwo.net/images/339.png"
+  },
+  "pokemon_340": {
+    "name": "Whiscash",
+    "image_url": "https://cdn.poketwo.net/images/340.png"
+  },
+  "pokemon_341": {
+    "name": "Corphish",
+    "image_url": "https://cdn.poketwo.net/images/341.png"
+  },
+  "pokemon_342": {
+    "name": "Crawdaunt",
+    "image_url": "https://cdn.poketwo.net/images/342.png"
+  },
+  "pokemon_343": {
+    "name": "Baltoy",
+    "image_url": "https://cdn.poketwo.net/images/343.png"
+  },
+  "pokemon_344": {
+    "name": "Claydol",
+    "image_url": "https://cdn.poketwo.net/images/344.png"
+  },
+  "pokemon_345": {
+    "name": "Lileep",
+    "image_url": "https://cdn.poketwo.net/images/345.png"
+  },
+  "pokemon_346": {
+    "name": "Cradily",
+    "image_url": "https://cdn.poketwo.net/images/346.png"
+  },
+  "pokemon_347": {
+    "name": "Anorith",
+    "image_url": "https://cdn.poketwo.net/images/347.png"
+  },
+  "pokemon_348": {
+    "name": "Armaldo",
+    "image_url": "https://cdn.poketwo.net/images/348.png"
+  },
+  "pokemon_349": {
+    "name": "Feebas",
+    "image_url": "https://cdn.poketwo.net/images/349.png"
+  },
+  "pokemon_350_female": {
+    "name": "Milotic",
+    "image_url": "https://cdn.poketwo.net/images/350F.png"
+  },
+  "pokemon_350": {
+    "name": "Milotic",
+    "image_url": "https://cdn.poketwo.net/images/350.png"
+  },
+  "pokemon_351": {
+    "name": "Castform",
+    "image_url": "https://cdn.poketwo.net/images/351.png"
+  },
+  "pokemon_352": {
+    "name": "Kecleon",
+    "image_url": "https://cdn.poketwo.net/images/352.png"
+  },
+  "pokemon_353": {
+    "name": "Shuppet",
+    "image_url": "https://cdn.poketwo.net/images/353.png"
+  },
+  "pokemon_354": {
+    "name": "Banette",
+    "image_url": "https://cdn.poketwo.net/images/354.png"
+  },
+  "pokemon_355": {
+    "name": "Duskull",
+    "image_url": "https://cdn.poketwo.net/images/355.png"
+  },
+  "pokemon_356": {
+    "name": "Dusclops",
+    "image_url": "https://cdn.poketwo.net/images/356.png"
+  },
+  "pokemon_357": {
+    "name": "Tropius",
+    "image_url": "https://cdn.poketwo.net/images/357.png"
+  },
+  "pokemon_358": {
+    "name": "Chimecho",
+    "image_url": "https://cdn.poketwo.net/images/358.png"
+  },
+  "pokemon_359": {
+    "name": "Absol",
+    "image_url": "https://cdn.poketwo.net/images/359.png"
+  },
+  "pokemon_360": {
+    "name": "Wynaut",
+    "image_url": "https://cdn.poketwo.net/images/360.png"
+  },
+  "pokemon_361": {
+    "name": "Snorunt",
+    "image_url": "https://cdn.poketwo.net/images/361.png"
+  },
+  "pokemon_362": {
+    "name": "Glalie",
+    "image_url": "https://cdn.poketwo.net/images/362.png"
+  },
+  "pokemon_363": {
+    "name": "Spheal",
+    "image_url": "https://cdn.poketwo.net/images/363.png"
+  },
+  "pokemon_364": {
+    "name": "Sealeo",
+    "image_url": "https://cdn.poketwo.net/images/364.png"
+  },
+  "pokemon_365": {
+    "name": "Walrein",
+    "image_url": "https://cdn.poketwo.net/images/365.png"
+  },
+  "pokemon_366": {
+    "name": "Clamperl",
+    "image_url": "https://cdn.poketwo.net/images/366.png"
+  },
+  "pokemon_367": {
+    "name": "Huntail",
+    "image_url": "https://cdn.poketwo.net/images/367.png"
+  },
+  "pokemon_368": {
+    "name": "Gorebyss",
+    "image_url": "https://cdn.poketwo.net/images/368.png"
+  },
+  "pokemon_369": {
+    "name": "Relicanth",
+    "image_url": "https://cdn.poketwo.net/images/369.png"
+  },
+  "pokemon_369_female": {
+    "name": "Relicanth",
+    "image_url": "https://cdn.poketwo.net/images/369F.png"
+  },
+  "pokemon_370": {
+    "name": "Luvdisc",
+    "image_url": "https://cdn.poketwo.net/images/370.png"
+  },
+  "pokemon_371": {
+    "name": "Bagon",
+    "image_url": "https://cdn.poketwo.net/images/371.png"
+  },
+  "pokemon_372": {
+    "name": "Shelgon",
+    "image_url": "https://cdn.poketwo.net/images/372.png"
+  },
+  "pokemon_373": {
+    "name": "Salamence",
+    "image_url": "https://cdn.poketwo.net/images/373.png"
+  },
+  "pokemon_374": {
+    "name": "Beldum",
+    "image_url": "https://cdn.poketwo.net/images/374.png"
+  },
+  "pokemon_375": {
+    "name": "Metang",
+    "image_url": "https://cdn.poketwo.net/images/375.png"
+  },
+  "pokemon_376": {
+    "name": "Metagross",
+    "image_url": "https://cdn.poketwo.net/images/376.png"
+  },
+  "pokemon_377": {
+    "name": "Regirock",
+    "image_url": "https://cdn.poketwo.net/images/377.png"
+  },
+  "pokemon_378": {
+    "name": "Regice",
+    "image_url": "https://cdn.poketwo.net/images/378.png"
+  },
+  "pokemon_379": {
+    "name": "Registeel",
+    "image_url": "https://cdn.poketwo.net/images/379.png"
+  },
+  "pokemon_380": {
+    "name": "Latias",
+    "image_url": "https://cdn.poketwo.net/images/380.png"
+  },
+  "pokemon_381": {
+    "name": "Latios",
+    "image_url": "https://cdn.poketwo.net/images/381.png"
+  },
+  "pokemon_382": {
+    "name": "Kyogre",
+    "image_url": "https://cdn.poketwo.net/images/382.png"
+  },
+  "pokemon_383": {
+    "name": "Groudon",
+    "image_url": "https://cdn.poketwo.net/images/383.png"
+  },
+  "pokemon_384": {
+    "name": "Rayquaza",
+    "image_url": "https://cdn.poketwo.net/images/384.png"
+  },
+  "pokemon_385": {
+    "name": "Jirachi",
+    "image_url": "https://cdn.poketwo.net/images/385.png"
+  },
+  "pokemon_386": {
+    "name": "Speed Deoxys",
+    "image_url": "https://cdn.poketwo.net/images/10003.png"
+  },
+  "pokemon_387": {
+    "name": "Turtwig",
+    "image_url": "https://cdn.poketwo.net/images/387.png"
+  },
+  "pokemon_388": {
+    "name": "Grotle",
+    "image_url": "https://cdn.poketwo.net/images/388.png"
+  },
+  "pokemon_389": {
+    "name": "Torterra",
+    "image_url": "https://cdn.poketwo.net/images/389.png"
+  },
+  "pokemon_390": {
+    "name": "Chimchar",
+    "image_url": "https://cdn.poketwo.net/images/390.png"
+  },
+  "pokemon_391": {
+    "name": "Monferno",
+    "image_url": "https://cdn.poketwo.net/images/391.png"
+  },
+  "pokemon_392": {
+    "name": "Infernape",
+    "image_url": "https://cdn.poketwo.net/images/392.png"
+  },
+  "pokemon_393": {
+    "name": "Piplup",
+    "image_url": "https://cdn.poketwo.net/images/393.png"
+  },
+  "pokemon_394": {
+    "name": "Prinplup",
+    "image_url": "https://cdn.poketwo.net/images/394.png"
+  },
+  "pokemon_395": {
+    "name": "Empoleon",
+    "image_url": "https://cdn.poketwo.net/images/395.png"
+  },
+  "pokemon_396": {
+    "name": "Starly",
+    "image_url": "https://cdn.poketwo.net/images/396.png"
+  },
+  "pokemon_396_female": {
+    "name": "Starly",
+    "image_url": "https://cdn.poketwo.net/images/396F.png"
+  },
+  "pokemon_397_female": {
+    "name": "Staravia",
+    "image_url": "https://cdn.poketwo.net/images/397F.png"
+  },
+  "pokemon_397": {
+    "name": "Staravia",
+    "image_url": "https://cdn.poketwo.net/images/397.png"
+  },
+  "pokemon_398": {
+    "name": "Staraptor",
+    "image_url": "https://cdn.poketwo.net/images/398.png"
+  },
+  "pokemon_398_female": {
+    "name": "Staraptor",
+    "image_url": "https://cdn.poketwo.net/images/398F.png"
+  },
+  "pokemon_399_female": {
+    "name": "Bidoof",
+    "image_url": "https://cdn.poketwo.net/images/399F.png"
+  },
+  "pokemon_400_female": {
+    "name": "Bibarel",
+    "image_url": "https://cdn.poketwo.net/images/400F.png"
+  },
+  "pokemon_399": {
+    "name": "Bidoof",
+    "image_url": "https://cdn.poketwo.net/images/399.png"
+  },
+  "pokemon_400": {
+    "name": "Bibarel",
+    "image_url": "https://cdn.poketwo.net/images/400.png"
+  },
+  "pokemon_401": {
+    "name": "Kricketot",
+    "image_url": "https://cdn.poketwo.net/images/401.png"
+  },
+  "pokemon_402": {
+    "name": "Kricketune",
+    "image_url": "https://cdn.poketwo.net/images/402.png"
+  },
+  "pokemon_403": {
+    "name": "Shinx",
+    "image_url": "https://cdn.poketwo.net/images/403.png"
+  },
+  "pokemon_403_female": {
+    "name": "Shinx",
+    "image_url": "https://cdn.poketwo.net/images/403F.png"
+  },
+  "pokemon_402_female": {
+    "name": "Kricketune",
+    "image_url": "https://cdn.poketwo.net/images/402F.png"
+  },
+  "pokemon_401_female": {
+    "name": "Kricketot",
+    "image_url": "https://cdn.poketwo.net/images/401F.png"
+  },
+  "pokemon_404_female": {
+    "name": "Luxio",
+    "image_url": "https://cdn.poketwo.net/images/404F.png"
+  },
+  "pokemon_404": {
+    "name": "Luxio",
+    "image_url": "https://cdn.poketwo.net/images/404.png"
+  },
+  "pokemon_405": {
+    "name": "Luxray",
+    "image_url": "https://cdn.poketwo.net/images/405.png"
+  },
+  "pokemon_405_female": {
+    "name": "Luxray",
+    "image_url": "https://cdn.poketwo.net/images/405F.png"
+  },
+  "pokemon_406": {
+    "name": "Budew",
+    "image_url": "https://cdn.poketwo.net/images/406.png"
+  },
+  "pokemon_407_female": {
+    "name": "Roserade",
+    "image_url": "https://cdn.poketwo.net/images/407F.png"
+  },
+  "pokemon_407": {
+    "name": "Roserade",
+    "image_url": "https://cdn.poketwo.net/images/407.png"
+  },
+  "pokemon_408": {
+    "name": "Cranidos",
+    "image_url": "https://cdn.poketwo.net/images/408.png"
+  },
+  "pokemon_409": {
+    "name": "Rampardos",
+    "image_url": "https://cdn.poketwo.net/images/409.png"
+  },
+  "pokemon_410": {
+    "name": "Shieldon",
+    "image_url": "https://cdn.poketwo.net/images/410.png"
+  },
+  "pokemon_411": {
+    "name": "Bastiodon",
+    "image_url": "https://cdn.poketwo.net/images/411.png"
+  },
+  "pokemon_412": {
+    "name": "Burmy",
+    "image_url": "https://cdn.poketwo.net/images/412.png"
+  },
+  "pokemon_413": {
+    "name": "Wormadam",
+    "image_url": "https://cdn.poketwo.net/images/413.png"
+  },
+  "pokemon_414": {
+    "name": "Mothim",
+    "image_url": "https://cdn.poketwo.net/images/414.png"
+  },
+  "pokemon_415": {
+    "name": "Combee",
+    "image_url": "https://cdn.poketwo.net/images/415.png"
+  },
+  "pokemon_415_female": {
+    "name": "Combee",
+    "image_url": "https://cdn.poketwo.net/images/415F.png"
+  },
+  "pokemon_416": {
+    "name": "Vespiquen",
+    "image_url": "https://cdn.poketwo.net/images/416.png"
+  },
+  "pokemon_417_female": {
+    "name": "Pachirisu",
+    "image_url": "https://cdn.poketwo.net/images/417F.png"
+  },
+  "pokemon_417": {
+    "name": "Pachirisu",
+    "image_url": "https://cdn.poketwo.net/images/417.png"
+  },
+  "pokemon_418": {
+    "name": "Buizel",
+    "image_url": "https://cdn.poketwo.net/images/418.png"
+  },
+  "pokemon_418_female": {
+    "name": "Buizel",
+    "image_url": "https://cdn.poketwo.net/images/418F.png"
+  },
+  "pokemon_419": {
+    "name": "Floatzel",
+    "image_url": "https://cdn.poketwo.net/images/419.png"
+  },
+  "pokemon_419_female": {
+    "name": "Floatzel",
+    "image_url": "https://cdn.poketwo.net/images/419F.png"
+  },
+  "pokemon_420": {
+    "name": "Cherubi",
+    "image_url": "https://cdn.poketwo.net/images/420.png"
+  },
+  "pokemon_421": {
+    "name": "Cherrim",
+    "image_url": "https://cdn.poketwo.net/images/421.png"
+  },
+  "pokemon_422": {
+    "name": "Shellos",
+    "image_url": "https://cdn.poketwo.net/images/422.png"
+  },
+  "pokemon_423": {
+    "name": "Gastrodon",
+    "image_url": "https://cdn.poketwo.net/images/423.png"
+  },
+  "pokemon_424": {
+    "name": "Ambipom",
+    "image_url": "https://cdn.poketwo.net/images/424.png"
+  },
+  "pokemon_424_female": {
+    "name": "Ambipom",
+    "image_url": "https://cdn.poketwo.net/images/424F.png"
+  },
+  "pokemon_425": {
+    "name": "Drifloon",
+    "image_url": "https://cdn.poketwo.net/images/425.png"
+  },
+  "pokemon_426": {
+    "name": "Drifblim",
+    "image_url": "https://cdn.poketwo.net/images/426.png"
+  },
+  "pokemon_427": {
+    "name": "Buneary",
+    "image_url": "https://cdn.poketwo.net/images/427.png"
+  },
+  "pokemon_428": {
+    "name": "Lopunny",
+    "image_url": "https://cdn.poketwo.net/images/428.png"
+  },
+  "pokemon_429": {
+    "name": "Mismagius",
+    "image_url": "https://cdn.poketwo.net/images/429.png"
+  },
+  "pokemon_430": {
+    "name": "Honchkrow",
+    "image_url": "https://cdn.poketwo.net/images/430.png"
+  },
+  "pokemon_431": {
+    "name": "Glameow",
+    "image_url": "https://cdn.poketwo.net/images/431.png"
+  },
+  "pokemon_432": {
+    "name": "Purugly",
+    "image_url": "https://cdn.poketwo.net/images/432.png"
+  },
+  "pokemon_433": {
+    "name": "Chingling",
+    "image_url": "https://cdn.poketwo.net/images/433.png"
+  },
+  "pokemon_434": {
+    "name": "Stunky",
+    "image_url": "https://cdn.poketwo.net/images/434.png"
+  },
+  "pokemon_435": {
+    "name": "Skuntank",
+    "image_url": "https://cdn.poketwo.net/images/435.png"
+  },
+  "pokemon_436": {
+    "name": "Bronzor",
+    "image_url": "https://cdn.poketwo.net/images/436.png"
+  },
+  "pokemon_437": {
+    "name": "Bronzong",
+    "image_url": "https://cdn.poketwo.net/images/437.png"
+  },
+  "pokemon_438": {
+    "name": "Bonsly",
+    "image_url": "https://cdn.poketwo.net/images/438.png"
+  },
+  "pokemon_439": {
+    "name": "Mime Jr.",
+    "image_url": "https://cdn.poketwo.net/images/439.png"
+  },
+  "pokemon_440": {
+    "name": "Happiny",
+    "image_url": "https://cdn.poketwo.net/images/440.png"
+  },
+  "pokemon_441": {
+    "name": "Chatot",
+    "image_url": "https://cdn.poketwo.net/images/441.png"
+  },
+  "pokemon_442": {
+    "name": "Spiritomb",
+    "image_url": "https://cdn.poketwo.net/images/442.png"
+  },
+  "pokemon_443_female": {
+    "name": "Gible",
+    "image_url": "https://cdn.poketwo.net/images/443F.png"
+  },
+  "pokemon_443": {
+    "name": "Gible",
+    "image_url": "https://cdn.poketwo.net/images/443.png"
+  },
+  "pokemon_444": {
+    "name": "Gabite",
+    "image_url": "https://cdn.poketwo.net/images/444.png"
+  },
+  "pokemon_444_female": {
+    "name": "Gabite",
+    "image_url": "https://cdn.poketwo.net/images/444F.png"
+  },
+  "pokemon_445_female": {
+    "name": "Garchomp",
+    "image_url": "https://cdn.poketwo.net/images/445F.png"
+  },
+  "pokemon_445": {
+    "name": "Garchomp",
+    "image_url": "https://cdn.poketwo.net/images/445.png"
+  },
+  "pokemon_446": {
+    "name": "Munchlax",
+    "image_url": "https://cdn.poketwo.net/images/446.png"
+  },
+  "pokemon_447": {
+    "name": "Riolu",
+    "image_url": "https://cdn.poketwo.net/images/447.png"
+  },
+  "pokemon_448": {
+    "name": "Lucario",
+    "image_url": "https://cdn.poketwo.net/images/448.png"
+  },
+  "pokemon_449": {
+    "name": "Hippopotas",
+    "image_url": "https://cdn.poketwo.net/images/449.png"
+  },
+  "pokemon_449_female": {
+    "name": "Hippopotas",
+    "image_url": "https://cdn.poketwo.net/images/449F.png"
+  },
+  "pokemon_450_female": {
+    "name": "Hippowdon",
+    "image_url": "https://cdn.poketwo.net/images/450F.png"
+  },
+  "pokemon_450": {
+    "name": "Hippowdon",
+    "image_url": "https://cdn.poketwo.net/images/450.png"
+  },
+  "pokemon_451": {
+    "name": "Skorupi",
+    "image_url": "https://cdn.poketwo.net/images/451.png"
+  },
+  "pokemon_452": {
+    "name": "Drapion",
+    "image_url": "https://cdn.poketwo.net/images/452.png"
+  },
+  "pokemon_453": {
+    "name": "Croagunk",
+    "image_url": "https://cdn.poketwo.net/images/453.png"
+  },
+  "pokemon_453_female": {
+    "name": "Croagunk",
+    "image_url": "https://cdn.poketwo.net/images/453F.png"
+  },
+  "pokemon_454_female": {
+    "name": "Toxicroak",
+    "image_url": "https://cdn.poketwo.net/images/454F.png"
+  },
+  "pokemon_454": {
+    "name": "Toxicroak",
+    "image_url": "https://cdn.poketwo.net/images/454.png"
+  },
+  "pokemon_455": {
+    "name": "Carnivine",
+    "image_url": "https://cdn.poketwo.net/images/455.png"
+  },
+  "pokemon_456": {
+    "name": "Finneon",
+    "image_url": "https://cdn.poketwo.net/images/456.png"
+  },
+  "pokemon_456_female": {
+    "name": "Finneon",
+    "image_url": "https://cdn.poketwo.net/images/456F.png"
+  },
+  "pokemon_457_female": {
+    "name": "Lumineon",
+    "image_url": "https://cdn.poketwo.net/images/457F.png"
+  },
+  "pokemon_457": {
+    "name": "Lumineon",
+    "image_url": "https://cdn.poketwo.net/images/457.png"
+  },
+  "pokemon_458": {
+    "name": "Mantyke",
+    "image_url": "https://cdn.poketwo.net/images/458.png"
+  },
+  "pokemon_459": {
+    "name": "Snover",
+    "image_url": "https://cdn.poketwo.net/images/459.png"
+  },
+  "pokemon_459_female": {
+    "name": "Snover",
+    "image_url": "https://cdn.poketwo.net/images/459F.png"
+  },
+  "pokemon_460_female": {
+    "name": "Abomasnow",
+    "image_url": "https://cdn.poketwo.net/images/460F.png"
+  },
+  "pokemon_460": {
+    "name": "Abomasnow",
+    "image_url": "https://cdn.poketwo.net/images/460.png"
+  },
+  "pokemon_461": {
+    "name": "Weavile",
+    "image_url": "https://cdn.poketwo.net/images/461.png"
+  },
+  "pokemon_461_female": {
+    "name": "Weavile",
+    "image_url": "https://cdn.poketwo.net/images/461F.png"
+  },
+  "pokemon_462": {
+    "name": "Magnezone",
+    "image_url": "https://cdn.poketwo.net/images/462.png"
+  },
+  "pokemon_463": {
+    "name": "Lickilicky",
+    "image_url": "https://cdn.poketwo.net/images/463.png"
+  },
+  "pokemon_464_female": {
+    "name": "Rhyperior",
+    "image_url": "https://cdn.poketwo.net/images/464F.png"
+  },
+  "pokemon_464": {
+    "name": "Rhyperior",
+    "image_url": "https://cdn.poketwo.net/images/464.png"
+  },
+  "pokemon_465": {
+    "name": "Tangrowth",
+    "image_url": "https://cdn.poketwo.net/images/465.png"
+  },
+  "pokemon_465_female": {
+    "name": "Tangrowth",
+    "image_url": "https://cdn.poketwo.net/images/465F.png"
+  },
+  "pokemon_466": {
+    "name": "Electivire",
+    "image_url": "https://cdn.poketwo.net/images/466.png"
+  },
+  "pokemon_467": {
+    "name": "Magmortar",
+    "image_url": "https://cdn.poketwo.net/images/467.png"
+  },
+  "pokemon_468": {
+    "name": "Togekiss",
+    "image_url": "https://cdn.poketwo.net/images/468.png"
+  },
+  "pokemon_469": {
+    "name": "Yanmega",
+    "image_url": "https://cdn.poketwo.net/images/469.png"
+  },
+  "pokemon_470": {
+    "name": "Leafeon",
+    "image_url": "https://cdn.poketwo.net/images/470.png"
+  },
+  "pokemon_471": {
+    "name": "Glaceon",
+    "image_url": "https://cdn.poketwo.net/images/471.png"
+  },
+  "pokemon_472": {
+    "name": "Gliscor",
+    "image_url": "https://cdn.poketwo.net/images/472.png"
+  },
+  "pokemon_473_female": {
+    "name": "Mamoswine",
+    "image_url": "https://cdn.poketwo.net/images/473F.png"
+  },
+  "pokemon_473": {
+    "name": "Mamoswine",
+    "image_url": "https://cdn.poketwo.net/images/473.png"
+  },
+  "pokemon_474": {
+    "name": "Porygon-Z",
+    "image_url": "https://cdn.poketwo.net/images/474.png"
+  },
+  "pokemon_475": {
+    "name": "Gallade",
+    "image_url": "https://cdn.poketwo.net/images/475.png"
+  },
+  "pokemon_476": {
+    "name": "Probopass",
+    "image_url": "https://cdn.poketwo.net/images/476.png"
+  },
+  "pokemon_477": {
+    "name": "Dusknoir",
+    "image_url": "https://cdn.poketwo.net/images/477.png"
+  },
+  "pokemon_478": {
+    "name": "Froslass",
+    "image_url": "https://cdn.poketwo.net/images/478.png"
+  },
+  "pokemon_479": {
+    "name": "Rotom",
+    "image_url": "https://cdn.poketwo.net/images/479.png"
+  },
+  "pokemon_480": {
+    "name": "Uxie",
+    "image_url": "https://cdn.poketwo.net/images/480.png"
+  },
+  "pokemon_481": {
+    "name": "Mesprit",
+    "image_url": "https://cdn.poketwo.net/images/481.png"
+  },
+  "pokemon_482": {
+    "name": "Azelf",
+    "image_url": "https://cdn.poketwo.net/images/482.png"
+  },
+  "pokemon_483": {
+    "name": "Dialga",
+    "image_url": "https://cdn.poketwo.net/images/483.png"
+  },
+  "pokemon_484": {
+    "name": "Palkia",
+    "image_url": "https://cdn.poketwo.net/images/484.png"
+  },
+  "pokemon_485": {
+    "name": "Heatran",
+    "image_url": "https://cdn.poketwo.net/images/485.png"
+  },
+  "pokemon_486": {
+    "name": "Regigigas",
+    "image_url": "https://cdn.poketwo.net/images/486.png"
+  },
+  "pokemon_487": {
+    "name": "Giratina",
+    "image_url": "https://cdn.poketwo.net/images/487.png"
+  },
+  "pokemon_488": {
+    "name": "Cresselia",
+    "image_url": "https://cdn.poketwo.net/images/488.png"
+  },
+  "pokemon_489": {
+    "name": "Phione",
+    "image_url": "https://cdn.poketwo.net/images/489.png"
+  },
+  "pokemon_490": {
+    "name": "Manaphy",
+    "image_url": "https://cdn.poketwo.net/images/490.png"
+  },
+  "pokemon_491": {
+    "name": "Darkrai",
+    "image_url": "https://cdn.poketwo.net/images/491.png"
+  },
+  "pokemon_492": {
+    "name": "Shaymin",
+    "image_url": "https://cdn.poketwo.net/images/492.png"
+  },
+  "pokemon_493": {
+    "name": "Arceus",
+    "image_url": "https://cdn.poketwo.net/images/493.png"
+  },
+  "pokemon_494": {
+    "name": "Victini",
+    "image_url": "https://cdn.poketwo.net/images/494.png"
+  },
+  "pokemon_495": {
+    "name": "Snivy",
+    "image_url": "https://cdn.poketwo.net/images/495.png"
+  },
+  "pokemon_496": {
+    "name": "Servine",
+    "image_url": "https://cdn.poketwo.net/images/496.png"
+  },
+  "pokemon_497": {
+    "name": "Serperior",
+    "image_url": "https://cdn.poketwo.net/images/497.png"
+  },
+  "pokemon_498": {
+    "name": "Tepig",
+    "image_url": "https://cdn.poketwo.net/images/498.png"
+  },
+  "pokemon_499": {
+    "name": "Pignite",
+    "image_url": "https://cdn.poketwo.net/images/499.png"
+  },
+  "pokemon_500": {
+    "name": "Emboar",
+    "image_url": "https://cdn.poketwo.net/images/500.png"
+  },
+  "pokemon_501": {
+    "name": "Oshawott",
+    "image_url": "https://cdn.poketwo.net/images/501.png"
+  },
+  "pokemon_502": {
+    "name": "Dewott",
+    "image_url": "https://cdn.poketwo.net/images/502.png"
+  },
+  "pokemon_503": {
+    "name": "Samurott",
+    "image_url": "https://cdn.poketwo.net/images/503.png"
+  },
+  "pokemon_504": {
+    "name": "Patrat",
+    "image_url": "https://cdn.poketwo.net/images/504.png"
+  },
+  "pokemon_505": {
+    "name": "Watchog",
+    "image_url": "https://cdn.poketwo.net/images/505.png"
+  },
+  "pokemon_506": {
+    "name": "Lillipup",
+    "image_url": "https://cdn.poketwo.net/images/506.png"
+  },
+  "pokemon_507": {
+    "name": "Herdier",
+    "image_url": "https://cdn.poketwo.net/images/507.png"
+  },
+  "pokemon_508": {
+    "name": "Stoutland",
+    "image_url": "https://cdn.poketwo.net/images/508.png"
+  },
+  "pokemon_509": {
+    "name": "Purrloin",
+    "image_url": "https://cdn.poketwo.net/images/509.png"
+  },
+  "pokemon_510": {
+    "name": "Liepard",
+    "image_url": "https://cdn.poketwo.net/images/510.png"
+  },
+  "pokemon_511": {
+    "name": "Pansage",
+    "image_url": "https://cdn.poketwo.net/images/511.png"
+  },
+  "pokemon_512": {
+    "name": "Simisage",
+    "image_url": "https://cdn.poketwo.net/images/512.png"
+  },
+  "pokemon_513": {
+    "name": "Pansear",
+    "image_url": "https://cdn.poketwo.net/images/513.png"
+  },
+  "pokemon_514": {
+    "name": "Simisear",
+    "image_url": "https://cdn.poketwo.net/images/514.png"
+  },
+  "pokemon_515": {
+    "name": "Panpour",
+    "image_url": "https://cdn.poketwo.net/images/515.png"
+  },
+  "pokemon_516": {
+    "name": "Simipour",
+    "image_url": "https://cdn.poketwo.net/images/516.png"
+  },
+  "pokemon_517": {
+    "name": "Munna",
+    "image_url": "https://cdn.poketwo.net/images/517.png"
+  },
+  "pokemon_518": {
+    "name": "Musharna",
+    "image_url": "https://cdn.poketwo.net/images/518.png"
+  },
+  "pokemon_519": {
+    "name": "Pidove",
+    "image_url": "https://cdn.poketwo.net/images/519.png"
+  },
+  "pokemon_520": {
+    "name": "Tranquill",
+    "image_url": "https://cdn.poketwo.net/images/520.png"
+  },
+  "pokemon_521": {
+    "name": "Unfezant",
+    "image_url": "https://cdn.poketwo.net/images/521.png"
+  },
+  "pokemon_521_female": {
+    "name": "Unfezant",
+    "image_url": "https://cdn.poketwo.net/images/521F.png"
+  },
+  "pokemon_522": {
+    "name": "Blitzle",
+    "image_url": "https://cdn.poketwo.net/images/522.png"
+  },
+  "pokemon_523": {
+    "name": "Zebstrika",
+    "image_url": "https://cdn.poketwo.net/images/523.png"
+  },
+  "pokemon_524": {
+    "name": "Roggenrola",
+    "image_url": "https://cdn.poketwo.net/images/524.png"
+  },
+  "pokemon_525": {
+    "name": "Boldore",
+    "image_url": "https://cdn.poketwo.net/images/525.png"
+  },
+  "pokemon_526": {
+    "name": "Gigalith",
+    "image_url": "https://cdn.poketwo.net/images/526.png"
+  },
+  "pokemon_527": {
+    "name": "Woobat",
+    "image_url": "https://cdn.poketwo.net/images/527.png"
+  },
+  "pokemon_528": {
+    "name": "Swoobat",
+    "image_url": "https://cdn.poketwo.net/images/528.png"
+  },
+  "pokemon_529": {
+    "name": "Drilbur",
+    "image_url": "https://cdn.poketwo.net/images/529.png"
+  },
+  "pokemon_530": {
+    "name": "Excadrill",
+    "image_url": "https://cdn.poketwo.net/images/530.png"
+  },
+  "pokemon_531": {
+    "name": "Audino",
+    "image_url": "https://cdn.poketwo.net/images/531.png"
+  },
+  "pokemon_532": {
+    "name": "Timburr",
+    "image_url": "https://cdn.poketwo.net/images/532.png"
+  },
+  "pokemon_533": {
+    "name": "Gurdurr",
+    "image_url": "https://cdn.poketwo.net/images/533.png"
+  },
+  "pokemon_534": {
+    "name": "Conkeldurr",
+    "image_url": "https://cdn.poketwo.net/images/534.png"
+  },
+  "pokemon_535": {
+    "name": "Tympole",
+    "image_url": "https://cdn.poketwo.net/images/535.png"
+  },
+  "pokemon_536": {
+    "name": "Palpitoad",
+    "image_url": "https://cdn.poketwo.net/images/536.png"
+  },
+  "pokemon_537": {
+    "name": "Seismitoad",
+    "image_url": "https://cdn.poketwo.net/images/537.png"
+  },
+  "pokemon_538": {
+    "name": "Throh",
+    "image_url": "https://cdn.poketwo.net/images/538.png"
+  },
+  "pokemon_539": {
+    "name": "Sawk",
+    "image_url": "https://cdn.poketwo.net/images/539.png"
+  },
+  "pokemon_540": {
+    "name": "Sewaddle",
+    "image_url": "https://cdn.poketwo.net/images/540.png"
+  },
+  "pokemon_541": {
+    "name": "Swadloon",
+    "image_url": "https://cdn.poketwo.net/images/541.png"
+  },
+  "pokemon_542": {
+    "name": "Leavanny",
+    "image_url": "https://cdn.poketwo.net/images/542.png"
+  },
+  "pokemon_543": {
+    "name": "Venipede",
+    "image_url": "https://cdn.poketwo.net/images/543.png"
+  },
+  "pokemon_544": {
+    "name": "Whirlipede",
+    "image_url": "https://cdn.poketwo.net/images/544.png"
+  },
+  "pokemon_545": {
+    "name": "Scolipede",
+    "image_url": "https://cdn.poketwo.net/images/545.png"
+  },
+  "pokemon_546": {
+    "name": "Cottonee",
+    "image_url": "https://cdn.poketwo.net/images/546.png"
+  },
+  "pokemon_547": {
+    "name": "Whimsicott",
+    "image_url": "https://cdn.poketwo.net/images/547.png"
+  },
+  "pokemon_548": {
+    "name": "Petilil",
+    "image_url": "https://cdn.poketwo.net/images/548.png"
+  },
+  "pokemon_549": {
+    "name": "Lilligant",
+    "image_url": "https://cdn.poketwo.net/images/549.png"
+  },
+  "pokemon_550": {
+    "name": "Basculin",
+    "image_url": "https://cdn.poketwo.net/images/550.png"
+  },
+  "pokemon_551": {
+    "name": "Sandile",
+    "image_url": "https://cdn.poketwo.net/images/551.png"
+  },
+  "pokemon_552": {
+    "name": "Krokorok",
+    "image_url": "https://cdn.poketwo.net/images/552.png"
+  },
+  "pokemon_553": {
+    "name": "Krookodile",
+    "image_url": "https://cdn.poketwo.net/images/553.png"
+  },
+  "pokemon_554": {
+    "name": "Darumaka",
+    "image_url": "https://cdn.poketwo.net/images/554.png"
+  },
+  "pokemon_555": {
+    "name": "Darmanitan",
+    "image_url": "https://cdn.poketwo.net/images/555.png"
+  },
+  "pokemon_556": {
+    "name": "Maractus",
+    "image_url": "https://cdn.poketwo.net/images/556.png"
+  },
+  "pokemon_557": {
+    "name": "Dwebble",
+    "image_url": "https://cdn.poketwo.net/images/557.png"
+  },
+  "pokemon_558": {
+    "name": "Crustle",
+    "image_url": "https://cdn.poketwo.net/images/558.png"
+  },
+  "pokemon_559": {
+    "name": "Scraggy",
+    "image_url": "https://cdn.poketwo.net/images/559.png"
+  },
+  "pokemon_560": {
+    "name": "Scrafty",
+    "image_url": "https://cdn.poketwo.net/images/560.png"
+  },
+  "pokemon_561": {
+    "name": "Sigilyph",
+    "image_url": "https://cdn.poketwo.net/images/561.png"
+  },
+  "pokemon_562": {
+    "name": "Yamask",
+    "image_url": "https://cdn.poketwo.net/images/562.png"
+  },
+  "pokemon_563": {
+    "name": "Cofagrigus",
+    "image_url": "https://cdn.poketwo.net/images/563.png"
+  },
+  "pokemon_564": {
+    "name": "Tirtouga",
+    "image_url": "https://cdn.poketwo.net/images/564.png"
+  },
+  "pokemon_565": {
+    "name": "Carracosta",
+    "image_url": "https://cdn.poketwo.net/images/565.png"
+  },
+  "pokemon_566": {
+    "name": "Archen",
+    "image_url": "https://cdn.poketwo.net/images/566.png"
+  },
+  "pokemon_567": {
+    "name": "Archeops",
+    "image_url": "https://cdn.poketwo.net/images/567.png"
+  },
+  "pokemon_568": {
+    "name": "Trubbish",
+    "image_url": "https://cdn.poketwo.net/images/568.png"
+  },
+  "pokemon_569": {
+    "name": "Garbodor",
+    "image_url": "https://cdn.poketwo.net/images/569.png"
+  },
+  "pokemon_570": {
+    "name": "Zorua",
+    "image_url": "https://cdn.poketwo.net/images/570.png"
+  },
+  "pokemon_571": {
+    "name": "Zoroark",
+    "image_url": "https://cdn.poketwo.net/images/571.png"
+  },
+  "pokemon_572": {
+    "name": "Minccino",
+    "image_url": "https://cdn.poketwo.net/images/572.png"
+  },
+  "pokemon_573": {
+    "name": "Cinccino",
+    "image_url": "https://cdn.poketwo.net/images/573.png"
+  },
+  "pokemon_574": {
+    "name": "Gothita",
+    "image_url": "https://cdn.poketwo.net/images/574.png"
+  },
+  "pokemon_575": {
+    "name": "Gothorita",
+    "image_url": "https://cdn.poketwo.net/images/575.png"
+  },
+  "pokemon_576": {
+    "name": "Gothitelle",
+    "image_url": "https://cdn.poketwo.net/images/576.png"
+  },
+  "pokemon_577": {
+    "name": "Solosis",
+    "image_url": "https://cdn.poketwo.net/images/577.png"
+  },
+  "pokemon_578": {
+    "name": "Duosion",
+    "image_url": "https://cdn.poketwo.net/images/578.png"
+  },
+  "pokemon_579": {
+    "name": "Reuniclus",
+    "image_url": "https://cdn.poketwo.net/images/579.png"
+  },
+  "pokemon_580": {
+    "name": "Ducklett",
+    "image_url": "https://cdn.poketwo.net/images/580.png"
+  },
+  "pokemon_581": {
+    "name": "Swanna",
+    "image_url": "https://cdn.poketwo.net/images/581.png"
+  },
+  "pokemon_582": {
+    "name": "Vanillite",
+    "image_url": "https://cdn.poketwo.net/images/582.png"
+  },
+  "pokemon_583": {
+    "name": "Vanillish",
+    "image_url": "https://cdn.poketwo.net/images/583.png"
+  },
+  "pokemon_584": {
+    "name": "Vanilluxe",
+    "image_url": "https://cdn.poketwo.net/images/584.png"
+  },
+  "pokemon_585": {
+    "name": "Deerling",
+    "image_url": "https://cdn.poketwo.net/images/585.png"
+  },
+  "pokemon_586": {
+    "name": "Sawsbuck",
+    "image_url": "https://cdn.poketwo.net/images/586.png"
+  },
+  "pokemon_587": {
+    "name": "Emolga",
+    "image_url": "https://cdn.poketwo.net/images/587.png"
+  },
+  "pokemon_588": {
+    "name": "Karrablast",
+    "image_url": "https://cdn.poketwo.net/images/588.png"
+  },
+  "pokemon_589": {
+    "name": "Escavalier",
+    "image_url": "https://cdn.poketwo.net/images/589.png"
+  },
+  "pokemon_590": {
+    "name": "Foongus",
+    "image_url": "https://cdn.poketwo.net/images/590.png"
+  },
+  "pokemon_591": {
+    "name": "Amoonguss",
+    "image_url": "https://cdn.poketwo.net/images/591.png"
+  },
+  "pokemon_592": {
+    "name": "Frillish",
+    "image_url": "https://cdn.poketwo.net/images/592.png"
+  },
+  "pokemon_592_female": {
+    "name": "Frillish",
+    "image_url": "https://cdn.poketwo.net/images/592F.png"
+  },
+  "pokemon_593_female": {
+    "name": "Jellicent",
+    "image_url": "https://cdn.poketwo.net/images/593F.png"
+  },
+  "pokemon_593": {
+    "name": "Jellicent",
+    "image_url": "https://cdn.poketwo.net/images/593.png"
+  },
+  "pokemon_594": {
+    "name": "Alomomola",
+    "image_url": "https://cdn.poketwo.net/images/594.png"
+  },
+  "pokemon_595": {
+    "name": "Joltik",
+    "image_url": "https://cdn.poketwo.net/images/595.png"
+  },
+  "pokemon_596": {
+    "name": "Galvantula",
+    "image_url": "https://cdn.poketwo.net/images/596.png"
+  },
+  "pokemon_597": {
+    "name": "Ferroseed",
+    "image_url": "https://cdn.poketwo.net/images/597.png"
+  },
+  "pokemon_598": {
+    "name": "Ferrothorn",
+    "image_url": "https://cdn.poketwo.net/images/598.png"
+  },
+  "pokemon_599": {
+    "name": "Klink",
+    "image_url": "https://cdn.poketwo.net/images/599.png"
+  },
+  "pokemon_600": {
+    "name": "Klang",
+    "image_url": "https://cdn.poketwo.net/images/600.png"
+  },
+  "pokemon_601": {
+    "name": "Klinklang",
+    "image_url": "https://cdn.poketwo.net/images/601.png"
+  },
+  "pokemon_602": {
+    "name": "Tynamo",
+    "image_url": "https://cdn.poketwo.net/images/602.png"
+  },
+  "pokemon_603": {
+    "name": "Eelektrik",
+    "image_url": "https://cdn.poketwo.net/images/603.png"
+  },
+  "pokemon_604": {
+    "name": "Eelektross",
+    "image_url": "https://cdn.poketwo.net/images/604.png"
+  },
+  "pokemon_605": {
+    "name": "Elgyem",
+    "image_url": "https://cdn.poketwo.net/images/605.png"
+  },
+  "pokemon_606": {
+    "name": "Beheeyem",
+    "image_url": "https://cdn.poketwo.net/images/606.png"
+  },
+  "pokemon_607": {
+    "name": "Litwick",
+    "image_url": "https://cdn.poketwo.net/images/607.png"
+  },
+  "pokemon_608": {
+    "name": "Lampent",
+    "image_url": "https://cdn.poketwo.net/images/608.png"
+  },
+  "pokemon_609": {
+    "name": "Chandelure",
+    "image_url": "https://cdn.poketwo.net/images/609.png"
+  },
+  "pokemon_610": {
+    "name": "Axew",
+    "image_url": "https://cdn.poketwo.net/images/610.png"
+  },
+  "pokemon_611": {
+    "name": "Fraxure",
+    "image_url": "https://cdn.poketwo.net/images/611.png"
+  },
+  "pokemon_612": {
+    "name": "Haxorus",
+    "image_url": "https://cdn.poketwo.net/images/612.png"
+  },
+  "pokemon_613": {
+    "name": "Cubchoo",
+    "image_url": "https://cdn.poketwo.net/images/613.png"
+  },
+  "pokemon_614": {
+    "name": "Beartic",
+    "image_url": "https://cdn.poketwo.net/images/614.png"
+  },
+  "pokemon_615": {
+    "name": "Cryogonal",
+    "image_url": "https://cdn.poketwo.net/images/615.png"
+  },
+  "pokemon_616": {
+    "name": "Shelmet",
+    "image_url": "https://cdn.poketwo.net/images/616.png"
+  },
+  "pokemon_617": {
+    "name": "Accelgor",
+    "image_url": "https://cdn.poketwo.net/images/617.png"
+  },
+  "pokemon_618": {
+    "name": "Stunfisk",
+    "image_url": "https://cdn.poketwo.net/images/618.png"
+  },
+  "pokemon_619": {
+    "name": "Mienfoo",
+    "image_url": "https://cdn.poketwo.net/images/619.png"
+  },
+  "pokemon_620": {
+    "name": "Mienshao",
+    "image_url": "https://cdn.poketwo.net/images/620.png"
+  },
+  "pokemon_621": {
+    "name": "Druddigon",
+    "image_url": "https://cdn.poketwo.net/images/621.png"
+  },
+  "pokemon_622": {
+    "name": "Golett",
+    "image_url": "https://cdn.poketwo.net/images/622.png"
+  },
+  "pokemon_623": {
+    "name": "Golurk",
+    "image_url": "https://cdn.poketwo.net/images/623.png"
+  },
+  "pokemon_624": {
+    "name": "Pawniard",
+    "image_url": "https://cdn.poketwo.net/images/624.png"
+  },
+  "pokemon_625": {
+    "name": "Bisharp",
+    "image_url": "https://cdn.poketwo.net/images/625.png"
+  },
+  "pokemon_626": {
+    "name": "Bouffalant",
+    "image_url": "https://cdn.poketwo.net/images/626.png"
+  },
+  "pokemon_627": {
+    "name": "Rufflet",
+    "image_url": "https://cdn.poketwo.net/images/627.png"
+  },
+  "pokemon_628": {
+    "name": "Braviary",
+    "image_url": "https://cdn.poketwo.net/images/628.png"
+  },
+  "pokemon_629": {
+    "name": "Vullaby",
+    "image_url": "https://cdn.poketwo.net/images/629.png"
+  },
+  "pokemon_630": {
+    "name": "Mandibuzz",
+    "image_url": "https://cdn.poketwo.net/images/630.png"
+  },
+  "pokemon_631": {
+    "name": "Heatmor",
+    "image_url": "https://cdn.poketwo.net/images/631.png"
+  },
+  "pokemon_632": {
+    "name": "Durant",
+    "image_url": "https://cdn.poketwo.net/images/632.png"
+  },
+  "pokemon_633": {
+    "name": "Deino",
+    "image_url": "https://cdn.poketwo.net/images/633.png"
+  },
+  "pokemon_634": {
+    "name": "Zweilous",
+    "image_url": "https://cdn.poketwo.net/images/634.png"
+  },
+  "pokemon_635": {
+    "name": "Hydreigon",
+    "image_url": "https://cdn.poketwo.net/images/635.png"
+  },
+  "pokemon_636": {
+    "name": "Larvesta",
+    "image_url": "https://cdn.poketwo.net/images/636.png"
+  },
+  "pokemon_637": {
+    "name": "Volcarona",
+    "image_url": "https://cdn.poketwo.net/images/637.png"
+  },
+  "pokemon_638": {
+    "name": "Cobalion",
+    "image_url": "https://cdn.poketwo.net/images/638.png"
+  },
+  "pokemon_639": {
+    "name": "Terrakion",
+    "image_url": "https://cdn.poketwo.net/images/639.png"
+  },
+  "pokemon_640": {
+    "name": "Virizion",
+    "image_url": "https://cdn.poketwo.net/images/640.png"
+  },
+  "pokemon_641": {
+    "name": "Tornadus",
+    "image_url": "https://cdn.poketwo.net/images/641.png"
+  },
+  "pokemon_642": {
+    "name": "Thundurus",
+    "image_url": "https://cdn.poketwo.net/images/642.png"
+  },
+  "pokemon_643": {
+    "name": "Reshiram",
+    "image_url": "https://cdn.poketwo.net/images/643.png"
+  },
+  "pokemon_644": {
+    "name": "Zekrom",
+    "image_url": "https://cdn.poketwo.net/images/644.png"
+  },
+  "pokemon_645": {
+    "name": "Landorus",
+    "image_url": "https://cdn.poketwo.net/images/645.png"
+  },
+  "pokemon_646": {
+    "name": "Kyurem",
+    "image_url": "https://cdn.poketwo.net/images/646.png"
+  },
+  "pokemon_647": {
+    "name": "Keldeo",
+    "image_url": "https://cdn.poketwo.net/images/647.png"
+  },
+  "pokemon_648": {
+    "name": "Meloetta",
+    "image_url": "https://cdn.poketwo.net/images/648.png"
+  },
+  "pokemon_649": {
+    "name": "Genesect",
+    "image_url": "https://cdn.poketwo.net/images/649.png"
+  },
+  "pokemon_650": {
+    "name": "Chespin",
+    "image_url": "https://cdn.poketwo.net/images/650.png"
+  },
+  "pokemon_651": {
+    "name": "Quilladin",
+    "image_url": "https://cdn.poketwo.net/images/651.png"
+  },
+  "pokemon_652": {
+    "name": "Chesnaught",
+    "image_url": "https://cdn.poketwo.net/images/652.png"
+  },
+  "pokemon_653": {
+    "name": "Fennekin",
+    "image_url": "https://cdn.poketwo.net/images/653.png"
+  },
+  "pokemon_654": {
+    "name": "Braixen",
+    "image_url": "https://cdn.poketwo.net/images/654.png"
+  },
+  "pokemon_655": {
+    "name": "Delphox",
+    "image_url": "https://cdn.poketwo.net/images/655.png"
+  },
+  "pokemon_656": {
+    "name": "Froakie",
+    "image_url": "https://cdn.poketwo.net/images/656.png"
+  },
+  "pokemon_657": {
+    "name": "Frogadier",
+    "image_url": "https://cdn.poketwo.net/images/657.png"
+  },
+  "pokemon_658": {
+    "name": "Greninja",
+    "image_url": "https://cdn.poketwo.net/images/658.png"
+  },
+  "pokemon_659": {
+    "name": "Bunnelby",
+    "image_url": "https://cdn.poketwo.net/images/659.png"
+  },
+  "pokemon_660": {
+    "name": "Diggersby",
+    "image_url": "https://cdn.poketwo.net/images/660.png"
+  },
+  "pokemon_661": {
+    "name": "Fletchling",
+    "image_url": "https://cdn.poketwo.net/images/661.png"
+  },
+  "pokemon_662": {
+    "name": "Fletchinder",
+    "image_url": "https://cdn.poketwo.net/images/662.png"
+  },
+  "pokemon_663": {
+    "name": "Talonflame",
+    "image_url": "https://cdn.poketwo.net/images/663.png"
+  },
+  "pokemon_664": {
+    "name": "Scatterbug",
+    "image_url": "https://cdn.poketwo.net/images/664.png"
+  },
+  "pokemon_665": {
+    "name": "Spewpa",
+    "image_url": "https://cdn.poketwo.net/images/665.png"
+  },
+  "pokemon_666": {
+    "name": "Vivillon",
+    "image_url": "https://cdn.poketwo.net/images/666.png"
+  },
+  "pokemon_667": {
+    "name": "Litleo",
+    "image_url": "https://cdn.poketwo.net/images/667.png"
+  },
+  "pokemon_668": {
+    "name": "Pyroar",
+    "image_url": "https://cdn.poketwo.net/images/668.png"
+  },
+  "pokemon_668_female": {
+    "name": "Pyroar",
+    "image_url": "https://cdn.poketwo.net/images/668F.png"
+  },
+  "pokemon_669": {
+    "name": "Flabébé",
+    "image_url": "https://cdn.poketwo.net/images/669.png"
+  },
+  "pokemon_670": {
+    "name": "Floette",
+    "image_url": "https://cdn.poketwo.net/images/670.png"
+  },
+  "pokemon_671": {
+    "name": "Florges",
+    "image_url": "https://cdn.poketwo.net/images/671.png"
+  },
+  "pokemon_672": {
+    "name": "Skiddo",
+    "image_url": "https://cdn.poketwo.net/images/672.png"
+  },
+  "pokemon_673": {
+    "name": "Gogoat",
+    "image_url": "https://cdn.poketwo.net/images/673.png"
+  },
+  "pokemon_674": {
+    "name": "Pancham",
+    "image_url": "https://cdn.poketwo.net/images/674.png"
+  },
+  "pokemon_675": {
+    "name": "Pangoro",
+    "image_url": "https://cdn.poketwo.net/images/675.png"
+  },
+  "pokemon_676": {
+    "name": "Furfrou",
+    "image_url": "https://cdn.poketwo.net/images/676.png"
+  },
+  "pokemon_677": {
+    "name": "Espurr",
+    "image_url": "https://cdn.poketwo.net/images/677.png"
+  },
+  "pokemon_678": {
+    "name": "Meowstic",
+    "image_url": "https://cdn.poketwo.net/images/678.png"
+  },
+  "pokemon_678_female": {
+    "name": "Meowstic",
+    "image_url": "https://cdn.poketwo.net/images/678F.png"
+  },
+  "pokemon_679": {
+    "name": "Honedge",
+    "image_url": "https://cdn.poketwo.net/images/679.png"
+  },
+  "pokemon_680": {
+    "name": "Doublade",
+    "image_url": "https://cdn.poketwo.net/images/680.png"
+  },
+  "pokemon_681": {
+    "name": "Aegislash",
+    "image_url": "https://cdn.poketwo.net/images/681.png"
+  },
+  "pokemon_682": {
+    "name": "Spritzee",
+    "image_url": "https://cdn.poketwo.net/images/682.png"
+  },
+  "pokemon_683": {
+    "name": "Aromatisse",
+    "image_url": "https://cdn.poketwo.net/images/683.png"
+  },
+  "pokemon_684": {
+    "name": "Swirlix",
+    "image_url": "https://cdn.poketwo.net/images/684.png"
+  },
+  "pokemon_685": {
+    "name": "Slurpuff",
+    "image_url": "https://cdn.poketwo.net/images/685.png"
+  },
+  "pokemon_686": {
+    "name": "Inkay",
+    "image_url": "https://cdn.poketwo.net/images/686.png"
+  },
+  "pokemon_687": {
+    "name": "Malamar",
+    "image_url": "https://cdn.poketwo.net/images/687.png"
+  },
+  "pokemon_688": {
+    "name": "Binacle",
+    "image_url": "https://cdn.poketwo.net/images/688.png"
+  },
+  "pokemon_689": {
+    "name": "Barbaracle",
+    "image_url": "https://cdn.poketwo.net/images/689.png"
+  },
+  "pokemon_690": {
+    "name": "Skrelp",
+    "image_url": "https://cdn.poketwo.net/images/690.png"
+  },
+  "pokemon_691": {
+    "name": "Dragalge",
+    "image_url": "https://cdn.poketwo.net/images/691.png"
+  },
+  "pokemon_692": {
+    "name": "Clauncher",
+    "image_url": "https://cdn.poketwo.net/images/692.png"
+  },
+  "pokemon_693": {
+    "name": "Clawitzer",
+    "image_url": "https://cdn.poketwo.net/images/693.png"
+  },
+  "pokemon_694": {
+    "name": "Helioptile",
+    "image_url": "https://cdn.poketwo.net/images/694.png"
+  },
+  "pokemon_695": {
+    "name": "Heliolisk",
+    "image_url": "https://cdn.poketwo.net/images/695.png"
+  },
+  "pokemon_696": {
+    "name": "Tyrunt",
+    "image_url": "https://cdn.poketwo.net/images/696.png"
+  },
+  "pokemon_697": {
+    "name": "Tyrantrum",
+    "image_url": "https://cdn.poketwo.net/images/697.png"
+  },
+  "pokemon_698": {
+    "name": "Amaura",
+    "image_url": "https://cdn.poketwo.net/images/698.png"
+  },
+  "pokemon_699": {
+    "name": "Aurorus",
+    "image_url": "https://cdn.poketwo.net/images/699.png"
+  },
+  "pokemon_700": {
+    "name": "Sylveon",
+    "image_url": "https://cdn.poketwo.net/images/700.png"
+  },
+  "pokemon_701": {
+    "name": "Hawlucha",
+    "image_url": "https://cdn.poketwo.net/images/701.png"
+  },
+  "pokemon_702": {
+    "name": "Dedenne",
+    "image_url": "https://cdn.poketwo.net/images/702.png"
+  },
+  "pokemon_703": {
+    "name": "Carbink",
+    "image_url": "https://cdn.poketwo.net/images/703.png"
+  },
+  "pokemon_704": {
+    "name": "Goomy",
+    "image_url": "https://cdn.poketwo.net/images/704.png"
+  },
+  "pokemon_705": {
+    "name": "Sliggoo",
+    "image_url": "https://cdn.poketwo.net/images/705.png"
+  },
+  "pokemon_706": {
+    "name": "Goodra",
+    "image_url": "https://cdn.poketwo.net/images/706.png"
+  },
+  "pokemon_707": {
+    "name": "Klefki",
+    "image_url": "https://cdn.poketwo.net/images/707.png"
+  },
+  "pokemon_708": {
+    "name": "Phantump",
+    "image_url": "https://cdn.poketwo.net/images/708.png"
+  },
+  "pokemon_709": {
+    "name": "Trevenant",
+    "image_url": "https://cdn.poketwo.net/images/709.png"
+  },
+  "pokemon_710": {
+    "name": "Pumpkaboo",
+    "image_url": "https://cdn.poketwo.net/images/710.png"
+  },
+  "pokemon_711": {
+    "name": "Gourgeist",
+    "image_url": "https://cdn.poketwo.net/images/711.png"
+  },
+  "pokemon_712": {
+    "name": "Bergmite",
+    "image_url": "https://cdn.poketwo.net/images/712.png"
+  },
+  "pokemon_713": {
+    "name": "Avalugg",
+    "image_url": "https://cdn.poketwo.net/images/713.png"
+  },
+  "pokemon_714": {
+    "name": "Noibat",
+    "image_url": "https://cdn.poketwo.net/images/714.png"
+  },
+  "pokemon_715": {
+    "name": "Noivern",
+    "image_url": "https://cdn.poketwo.net/images/715.png"
+  },
+  "pokemon_716": {
+    "name": "Xerneas",
+    "image_url": "https://cdn.poketwo.net/images/716.png"
+  },
+  "pokemon_717": {
+    "name": "Yveltal",
+    "image_url": "https://cdn.poketwo.net/images/717.png"
+  },
+  "pokemon_718": {
+    "name": "Zygarde",
+    "image_url": "https://cdn.poketwo.net/images/718.png"
+  },
+  "pokemon_719": {
+    "name": "Diancie",
+    "image_url": "https://cdn.poketwo.net/images/719.png"
+  },
+  "pokemon_720": {
+    "name": "Hoopa",
+    "image_url": "https://cdn.poketwo.net/images/720.png"
+  },
+  "pokemon_721": {
+    "name": "Volcanion",
+    "image_url": "https://cdn.poketwo.net/images/721.png"
+  },
+  "pokemon_722": {
+    "name": "Rowlet",
+    "image_url": "https://cdn.poketwo.net/images/722.png"
+  },
+  "pokemon_723": {
+    "name": "Dartrix",
+    "image_url": "https://cdn.poketwo.net/images/723.png"
+  },
+  "pokemon_724": {
+    "name": "Decidueye",
+    "image_url": "https://cdn.poketwo.net/images/724.png"
+  },
+  "pokemon_725": {
+    "name": "Litten",
+    "image_url": "https://cdn.poketwo.net/images/725.png"
+  },
+  "pokemon_726": {
+    "name": "Torracat",
+    "image_url": "https://cdn.poketwo.net/images/726.png"
+  },
+  "pokemon_727": {
+    "name": "Incineroar",
+    "image_url": "https://cdn.poketwo.net/images/727.png"
+  },
+  "pokemon_728": {
+    "name": "Popplio",
+    "image_url": "https://cdn.poketwo.net/images/728.png"
+  },
+  "pokemon_729": {
+    "name": "Brionne",
+    "image_url": "https://cdn.poketwo.net/images/729.png"
+  },
+  "pokemon_730": {
+    "name": "Primarina",
+    "image_url": "https://cdn.poketwo.net/images/730.png"
+  },
+  "pokemon_731": {
+    "name": "Pikipek",
+    "image_url": "https://cdn.poketwo.net/images/731.png"
+  },
+  "pokemon_732": {
+    "name": "Trumbeak",
+    "image_url": "https://cdn.poketwo.net/images/732.png"
+  },
+  "pokemon_733": {
+    "name": "Toucannon",
+    "image_url": "https://cdn.poketwo.net/images/733.png"
+  },
+  "pokemon_734": {
+    "name": "Yungoos",
+    "image_url": "https://cdn.poketwo.net/images/734.png"
+  },
+  "pokemon_735": {
+    "name": "Gumshoos",
+    "image_url": "https://cdn.poketwo.net/images/735.png"
+  },
+  "pokemon_736": {
+    "name": "Grubbin",
+    "image_url": "https://cdn.poketwo.net/images/736.png"
+  },
+  "pokemon_737": {
+    "name": "Charjabug",
+    "image_url": "https://cdn.poketwo.net/images/737.png"
+  },
+  "pokemon_738": {
+    "name": "Vikavolt",
+    "image_url": "https://cdn.poketwo.net/images/738.png"
+  },
+  "pokemon_739": {
+    "name": "Crabrawler",
+    "image_url": "https://cdn.poketwo.net/images/739.png"
+  },
+  "pokemon_740": {
+    "name": "Crabominable",
+    "image_url": "https://cdn.poketwo.net/images/740.png"
+  },
+  "pokemon_741": {
+    "name": "Oricorio",
+    "image_url": "https://cdn.poketwo.net/images/741.png"
+  },
+  "pokemon_742": {
+    "name": "Cutiefly",
+    "image_url": "https://cdn.poketwo.net/images/742.png"
+  },
+  "pokemon_743": {
+    "name": "Ribombee",
+    "image_url": "https://cdn.poketwo.net/images/743.png"
+  },
+  "pokemon_744": {
+    "name": "Rockruff",
+    "image_url": "https://cdn.poketwo.net/images/744.png"
+  },
+  "pokemon_745": {
+    "name": "Lycanroc",
+    "image_url": "https://cdn.poketwo.net/images/745.png"
+  },
+  "pokemon_746": {
+    "name": "Wishiwashi",
+    "image_url": "https://cdn.poketwo.net/images/746.png"
+  },
+  "pokemon_747": {
+    "name": "Mareanie",
+    "image_url": "https://cdn.poketwo.net/images/747.png"
+  },
+  "pokemon_748": {
+    "name": "Toxapex",
+    "image_url": "https://cdn.poketwo.net/images/748.png"
+  },
+  "pokemon_749": {
+    "name": "Mudbray",
+    "image_url": "https://cdn.poketwo.net/images/749.png"
+  },
+  "pokemon_750": {
+    "name": "Mudsdale",
+    "image_url": "https://cdn.poketwo.net/images/750.png"
+  },
+  "pokemon_751": {
+    "name": "Dewpider",
+    "image_url": "https://cdn.poketwo.net/images/751.png"
+  },
+  "pokemon_752": {
+    "name": "Araquanid",
+    "image_url": "https://cdn.poketwo.net/images/752.png"
+  },
+  "pokemon_753": {
+    "name": "Fomantis",
+    "image_url": "https://cdn.poketwo.net/images/753.png"
+  },
+  "pokemon_754": {
+    "name": "Lurantis",
+    "image_url": "https://cdn.poketwo.net/images/754.png"
+  },
+  "pokemon_755": {
+    "name": "Morelull",
+    "image_url": "https://cdn.poketwo.net/images/755.png"
+  },
+  "pokemon_756": {
+    "name": "Shiinotic",
+    "image_url": "https://cdn.poketwo.net/images/756.png"
+  },
+  "pokemon_757": {
+    "name": "Salandit",
+    "image_url": "https://cdn.poketwo.net/images/757.png"
+  },
+  "pokemon_758": {
+    "name": "Salazzle",
+    "image_url": "https://cdn.poketwo.net/images/758.png"
+  },
+  "pokemon_759": {
+    "name": "Stufful",
+    "image_url": "https://cdn.poketwo.net/images/759.png"
+  },
+  "pokemon_760": {
+    "name": "Bewear",
+    "image_url": "https://cdn.poketwo.net/images/760.png"
+  },
+  "pokemon_761": {
+    "name": "Bounsweet",
+    "image_url": "https://cdn.poketwo.net/images/761.png"
+  },
+  "pokemon_762": {
+    "name": "Steenee",
+    "image_url": "https://cdn.poketwo.net/images/762.png"
+  },
+  "pokemon_763": {
+    "name": "Tsareena",
+    "image_url": "https://cdn.poketwo.net/images/763.png"
+  },
+  "pokemon_764": {
+    "name": "Comfey",
+    "image_url": "https://cdn.poketwo.net/images/764.png"
+  },
+  "pokemon_765": {
+    "name": "Oranguru",
+    "image_url": "https://cdn.poketwo.net/images/765.png"
+  },
+  "pokemon_766": {
+    "name": "Passimian",
+    "image_url": "https://cdn.poketwo.net/images/766.png"
+  },
+  "pokemon_767": {
+    "name": "Wimpod",
+    "image_url": "https://cdn.poketwo.net/images/767.png"
+  },
+  "pokemon_768": {
+    "name": "Golisopod",
+    "image_url": "https://cdn.poketwo.net/images/768.png"
+  },
+  "pokemon_769": {
+    "name": "Sandygast",
+    "image_url": "https://cdn.poketwo.net/images/769.png"
+  },
+  "pokemon_770": {
+    "name": "Palossand",
+    "image_url": "https://cdn.poketwo.net/images/770.png"
+  },
+  "pokemon_771": {
+    "name": "Pyukumuku",
+    "image_url": "https://cdn.poketwo.net/images/771.png"
+  },
+  "pokemon_772": {
+    "name": "Type: Null",
+    "image_url": "https://cdn.poketwo.net/images/772.png"
+  },
+  "pokemon_773": {
+    "name": "Silvally",
+    "image_url": "https://cdn.poketwo.net/images/773.png"
+  },
+  "pokemon_774": {
+    "name": "Minior",
+    "image_url": "https://cdn.poketwo.net/images/774.png"
+  },
+  "pokemon_775": {
+    "name": "Komala",
+    "image_url": "https://cdn.poketwo.net/images/775.png"
+  },
+  "pokemon_776": {
+    "name": "Turtonator",
+    "image_url": "https://cdn.poketwo.net/images/776.png"
+  },
+  "pokemon_777": {
+    "name": "Togedemaru",
+    "image_url": "https://cdn.poketwo.net/images/777.png"
+  },
+  "pokemon_778": {
+    "name": "Mimikyu",
+    "image_url": "https://cdn.poketwo.net/images/778.png"
+  },
+  "pokemon_779": {
+    "name": "Bruxish",
+    "image_url": "https://cdn.poketwo.net/images/779.png"
+  },
+  "pokemon_780": {
+    "name": "Drampa",
+    "image_url": "https://cdn.poketwo.net/images/780.png"
+  },
+  "pokemon_781": {
+    "name": "Dhelmise",
+    "image_url": "https://cdn.poketwo.net/images/781.png"
+  },
+  "pokemon_782": {
+    "name": "Jangmo-o",
+    "image_url": "https://cdn.poketwo.net/images/782.png"
+  },
+  "pokemon_783": {
+    "name": "Hakamo-o",
+    "image_url": "https://cdn.poketwo.net/images/783.png"
+  },
+  "pokemon_784": {
+    "name": "Kommo-o",
+    "image_url": "https://cdn.poketwo.net/images/784.png"
+  },
+  "pokemon_785": {
+    "name": "Tapu Koko",
+    "image_url": "https://cdn.poketwo.net/images/785.png"
+  },
+  "pokemon_786": {
+    "name": "Tapu Lele",
+    "image_url": "https://cdn.poketwo.net/images/786.png"
+  },
+  "pokemon_787": {
+    "name": "Tapu Bulu",
+    "image_url": "https://cdn.poketwo.net/images/787.png"
+  },
+  "pokemon_788": {
+    "name": "Tapu Fini",
+    "image_url": "https://cdn.poketwo.net/images/788.png"
+  },
+  "pokemon_789": {
+    "name": "Cosmog",
+    "image_url": "https://cdn.poketwo.net/images/789.png"
+  },
+  "pokemon_790": {
+    "name": "Cosmoem",
+    "image_url": "https://cdn.poketwo.net/images/790.png"
+  },
+  "pokemon_791": {
+    "name": "Solgaleo",
+    "image_url": "https://cdn.poketwo.net/images/791.png"
+  },
+  "pokemon_792": {
+    "name": "Lunala",
+    "image_url": "https://cdn.poketwo.net/images/792.png"
+  },
+  "pokemon_793": {
+    "name": "Nihilego",
+    "image_url": "https://cdn.poketwo.net/images/793.png"
+  },
+  "pokemon_794": {
+    "name": "Buzzwole",
+    "image_url": "https://cdn.poketwo.net/images/794.png"
+  },
+  "pokemon_795": {
+    "name": "Pheromosa",
+    "image_url": "https://cdn.poketwo.net/images/795.png"
+  },
+  "pokemon_796": {
+    "name": "Xurkitree",
+    "image_url": "https://cdn.poketwo.net/images/796.png"
+  },
+  "pokemon_797": {
+    "name": "Celesteela",
+    "image_url": "https://cdn.poketwo.net/images/797.png"
+  },
+  "pokemon_798": {
+    "name": "Kartana",
+    "image_url": "https://cdn.poketwo.net/images/798.png"
+  },
+  "pokemon_799": {
+    "name": "Guzzlord",
+    "image_url": "https://cdn.poketwo.net/images/799.png"
+  },
+  "pokemon_800": {
+    "name": "Necrozma",
+    "image_url": "https://cdn.poketwo.net/images/800.png"
+  },
+  "pokemon_801": {
+    "name": "Magearna",
+    "image_url": "https://cdn.poketwo.net/images/801.png"
+  },
+  "pokemon_802": {
+    "name": "Marshadow",
+    "image_url": "https://cdn.poketwo.net/images/802.png"
+  },
+  "pokemon_803": {
+    "name": "Poipole",
+    "image_url": "https://cdn.poketwo.net/images/803.png"
+  },
+  "pokemon_804": {
+    "name": "Naganadel",
+    "image_url": "https://cdn.poketwo.net/images/804.png"
+  },
+  "pokemon_805": {
+    "name": "Stakataka",
+    "image_url": "https://cdn.poketwo.net/images/805.png"
+  },
+  "pokemon_806": {
+    "name": "Blacephalon",
+    "image_url": "https://cdn.poketwo.net/images/806.png"
+  },
+  "pokemon_807": {
+    "name": "Zeraora",
+    "image_url": "https://cdn.poketwo.net/images/807.png"
+  },
+  "pokemon_808": {
+    "name": "Meltan",
+    "image_url": "https://cdn.poketwo.net/images/808.png"
+  },
+  "pokemon_809": {
+    "name": "Melmetal",
+    "image_url": "https://cdn.poketwo.net/images/809.png"
+  },
+  "pokemon_810": {
+    "name": "Grookey",
+    "image_url": "https://cdn.poketwo.net/images/810.png"
+  },
+  "pokemon_811": {
+    "name": "Thwackey",
+    "image_url": "https://cdn.poketwo.net/images/811.png"
+  },
+  "pokemon_812": {
+    "name": "Rillaboom",
+    "image_url": "https://cdn.poketwo.net/images/812.png"
+  },
+  "pokemon_813": {
+    "name": "Scorbunny",
+    "image_url": "https://cdn.poketwo.net/images/813.png"
+  },
+  "pokemon_814": {
+    "name": "Raboot",
+    "image_url": "https://cdn.poketwo.net/images/814.png"
+  },
+  "pokemon_815": {
+    "name": "Cinderace",
+    "image_url": "https://cdn.poketwo.net/images/815.png"
+  },
+  "pokemon_816": {
+    "name": "Sobble",
+    "image_url": "https://cdn.poketwo.net/images/816.png"
+  },
+  "pokemon_817": {
+    "name": "Drizzile",
+    "image_url": "https://cdn.poketwo.net/images/817.png"
+  },
+  "pokemon_818": {
+    "name": "Inteleon",
+    "image_url": "https://cdn.poketwo.net/images/818.png"
+  },
+  "pokemon_819": {
+    "name": "Skwovet",
+    "image_url": "https://cdn.poketwo.net/images/819.png"
+  },
+  "pokemon_820": {
+    "name": "Greedent",
+    "image_url": "https://cdn.poketwo.net/images/820.png"
+  },
+  "pokemon_821": {
+    "name": "Rookidee",
+    "image_url": "https://cdn.poketwo.net/images/821.png"
+  },
+  "pokemon_822": {
+    "name": "Corvisquire",
+    "image_url": "https://cdn.poketwo.net/images/822.png"
+  },
+  "pokemon_823": {
+    "name": "Corviknight",
+    "image_url": "https://cdn.poketwo.net/images/823.png"
+  },
+  "pokemon_824": {
+    "name": "Blipbug",
+    "image_url": "https://cdn.poketwo.net/images/824.png"
+  },
+  "pokemon_825": {
+    "name": "Dottler",
+    "image_url": "https://cdn.poketwo.net/images/825.png"
+  },
+  "pokemon_826": {
+    "name": "Orbeetle",
+    "image_url": "https://cdn.poketwo.net/images/826.png"
+  },
+  "pokemon_827": {
+    "name": "Nickit",
+    "image_url": "https://cdn.poketwo.net/images/827.png"
+  },
+  "pokemon_828": {
+    "name": "Thievul",
+    "image_url": "https://cdn.poketwo.net/images/828.png"
+  },
+  "pokemon_829": {
+    "name": "Gossifleur",
+    "image_url": "https://cdn.poketwo.net/images/829.png"
+  },
+  "pokemon_830": {
+    "name": "Eldegoss",
+    "image_url": "https://cdn.poketwo.net/images/830.png"
+  },
+  "pokemon_831": {
+    "name": "Wooloo",
+    "image_url": "https://cdn.poketwo.net/images/831.png"
+  },
+  "pokemon_832": {
+    "name": "Dubwool",
+    "image_url": "https://cdn.poketwo.net/images/832.png"
+  },
+  "pokemon_833": {
+    "name": "Chewtle",
+    "image_url": "https://cdn.poketwo.net/images/833.png"
+  },
+  "pokemon_834": {
+    "name": "Drednaw",
+    "image_url": "https://cdn.poketwo.net/images/834.png"
+  },
+  "pokemon_835": {
+    "name": "Yamper",
+    "image_url": "https://cdn.poketwo.net/images/835.png"
+  },
+  "pokemon_836": {
+    "name": "Boltund",
+    "image_url": "https://cdn.poketwo.net/images/836.png"
+  },
+  "pokemon_837": {
+    "name": "Rolycoly",
+    "image_url": "https://cdn.poketwo.net/images/837.png"
+  },
+  "pokemon_838": {
+    "name": "Carkol",
+    "image_url": "https://cdn.poketwo.net/images/838.png"
+  },
+  "pokemon_839": {
+    "name": "Coalossal",
+    "image_url": "https://cdn.poketwo.net/images/839.png"
+  },
+  "pokemon_840": {
+    "name": "Applin",
+    "image_url": "https://cdn.poketwo.net/images/840.png"
+  },
+  "pokemon_841": {
+    "name": "Flapple",
+    "image_url": "https://cdn.poketwo.net/images/841.png"
+  },
+  "pokemon_842": {
+    "name": "Appletun",
+    "image_url": "https://cdn.poketwo.net/images/842.png"
+  },
+  "pokemon_843": {
+    "name": "Silicobra",
+    "image_url": "https://cdn.poketwo.net/images/843.png"
+  },
+  "pokemon_844": {
+    "name": "Sandaconda",
+    "image_url": "https://cdn.poketwo.net/images/844.png"
+  },
+  "pokemon_845": {
+    "name": "Cramorant",
+    "image_url": "https://cdn.poketwo.net/images/845.png"
+  },
+  "pokemon_846": {
+    "name": "Arrokuda",
+    "image_url": "https://cdn.poketwo.net/images/846.png"
+  },
+  "pokemon_847": {
+    "name": "Barraskewda",
+    "image_url": "https://cdn.poketwo.net/images/847.png"
+  },
+  "pokemon_848": {
+    "name": "Toxel",
+    "image_url": "https://cdn.poketwo.net/images/848.png"
+  },
+  "pokemon_849": {
+    "name": "Amped Toxtricity",
+    "image_url": "https://cdn.poketwo.net/images/849.png"
+  },
+  "pokemon_850": {
+    "name": "Sizzlipede",
+    "image_url": "https://cdn.poketwo.net/images/850.png"
+  },
+  "pokemon_851": {
+    "name": "Centiskorch",
+    "image_url": "https://cdn.poketwo.net/images/851.png"
+  },
+  "pokemon_852": {
+    "name": "Clobbopus",
+    "image_url": "https://cdn.poketwo.net/images/852.png"
+  },
+  "pokemon_853": {
+    "name": "Grapploct",
+    "image_url": "https://cdn.poketwo.net/images/853.png"
+  },
+  "pokemon_854": {
+    "name": "Sinistea",
+    "image_url": "https://cdn.poketwo.net/images/854.png"
+  },
+  "pokemon_855": {
+    "name": "Polteageist",
+    "image_url": "https://cdn.poketwo.net/images/855.png"
+  },
+  "pokemon_856": {
+    "name": "Hatenna",
+    "image_url": "https://cdn.poketwo.net/images/856.png"
+  },
+  "pokemon_857": {
+    "name": "Hattrem",
+    "image_url": "https://cdn.poketwo.net/images/857.png"
+  },
+  "pokemon_858": {
+    "name": "Hatterene",
+    "image_url": "https://cdn.poketwo.net/images/858.png"
+  },
+  "pokemon_859": {
+    "name": "Impidimp",
+    "image_url": "https://cdn.poketwo.net/images/859.png"
+  },
+  "pokemon_860": {
+    "name": "Morgrem",
+    "image_url": "https://cdn.poketwo.net/images/860.png"
+  },
+  "pokemon_861": {
+    "name": "Grimmsnarl",
+    "image_url": "https://cdn.poketwo.net/images/861.png"
+  },
+  "pokemon_862": {
+    "name": "Obstagoon",
+    "image_url": "https://cdn.poketwo.net/images/862.png"
+  },
+  "pokemon_863": {
+    "name": "Perrserker",
+    "image_url": "https://cdn.poketwo.net/images/863.png"
+  },
+  "pokemon_864": {
+    "name": "Cursola",
+    "image_url": "https://cdn.poketwo.net/images/864.png"
+  },
+  "pokemon_865": {
+    "name": "Sirfetch'd",
+    "image_url": "https://cdn.poketwo.net/images/865.png"
+  },
+  "pokemon_866": {
+    "name": "Mr. Rime",
+    "image_url": "https://cdn.poketwo.net/images/866.png"
+  },
+  "pokemon_867": {
+    "name": "Runerigus",
+    "image_url": "https://cdn.poketwo.net/images/867.png"
+  },
+  "pokemon_868": {
+    "name": "Milcery",
+    "image_url": "https://cdn.poketwo.net/images/868.png"
+  },
+  "pokemon_869": {
+    "name": "Alcremie",
+    "image_url": "https://cdn.poketwo.net/images/869.png"
+  },
+  "pokemon_870": {
+    "name": "Falinks",
+    "image_url": "https://cdn.poketwo.net/images/870.png"
+  },
+  "pokemon_871": {
+    "name": "Pincurchin",
+    "image_url": "https://cdn.poketwo.net/images/871.png"
+  },
+  "pokemon_872": {
+    "name": "Snom",
+    "image_url": "https://cdn.poketwo.net/images/872.png"
+  },
+  "pokemon_873": {
+    "name": "Frosmoth",
+    "image_url": "https://cdn.poketwo.net/images/873.png"
+  },
+  "pokemon_874": {
+    "name": "Stonjourner",
+    "image_url": "https://cdn.poketwo.net/images/874.png"
+  },
+  "pokemon_875": {
+    "name": "Eiscue",
+    "image_url": "https://cdn.poketwo.net/images/875.png"
+  },
+  "pokemon_876": {
+    "name": "Indeedee",
+    "image_url": "https://cdn.poketwo.net/images/876.png"
+  },
+  "pokemon_876_female": {
+    "name": "Indeedee",
+    "image_url": "https://cdn.poketwo.net/images/876F.png"
+  },
+  "pokemon_877": {
+    "name": "Morpeko",
+    "image_url": "https://cdn.poketwo.net/images/877.png"
+  },
+  "pokemon_878": {
+    "name": "Cufant",
+    "image_url": "https://cdn.poketwo.net/images/878.png"
+  },
+  "pokemon_879": {
+    "name": "Copperajah",
+    "image_url": "https://cdn.poketwo.net/images/879.png"
+  },
+  "pokemon_880": {
+    "name": "Dracozolt",
+    "image_url": "https://cdn.poketwo.net/images/880.png"
+  },
+  "pokemon_881": {
+    "name": "Arctozolt",
+    "image_url": "https://cdn.poketwo.net/images/881.png"
+  },
+  "pokemon_882": {
+    "name": "Dracovish",
+    "image_url": "https://cdn.poketwo.net/images/882.png"
+  },
+  "pokemon_883": {
+    "name": "Arctovish",
+    "image_url": "https://cdn.poketwo.net/images/883.png"
+  },
+  "pokemon_884": {
+    "name": "Duraludon",
+    "image_url": "https://cdn.poketwo.net/images/884.png"
+  },
+  "pokemon_885": {
+    "name": "Dreepy",
+    "image_url": "https://cdn.poketwo.net/images/885.png"
+  },
+  "pokemon_886": {
+    "name": "Drakloak",
+    "image_url": "https://cdn.poketwo.net/images/886.png"
+  },
+  "pokemon_887": {
+    "name": "Dragapult",
+    "image_url": "https://cdn.poketwo.net/images/887.png"
+  },
+  "pokemon_888": {
+    "name": "Zacian",
+    "image_url": "https://cdn.poketwo.net/images/888.png"
+  },
+  "pokemon_889": {
+    "name": "Zamazenta",
+    "image_url": "https://cdn.poketwo.net/images/889.png"
+  },
+  "pokemon_890": {
+    "name": "Eternatus",
+    "image_url": "https://cdn.poketwo.net/images/890.png"
+  },
+  "pokemon_891": {
+    "name": "Kubfu",
+    "image_url": "https://cdn.poketwo.net/images/891.png"
+  },
+  "pokemon_892": {
+    "name": "Urshifu",
+    "image_url": "https://cdn.poketwo.net/images/892.png"
+  },
+  "pokemon_893": {
+    "name": "Zarude",
+    "image_url": "https://cdn.poketwo.net/images/893.png"
+  },
+  "pokemon_894": {
+    "name": "Regieleki",
+    "image_url": "https://cdn.poketwo.net/images/894.png"
+  },
+  "pokemon_895": {
+    "name": "Regidrago",
+    "image_url": "https://cdn.poketwo.net/images/895.png"
+  },
+  "pokemon_896": {
+    "name": "Glastrier",
+    "image_url": "https://cdn.poketwo.net/images/896.png"
+  },
+  "pokemon_897": {
+    "name": "Spectrier",
+    "image_url": "https://cdn.poketwo.net/images/897.png"
+  },
+  "pokemon_898": {
+    "name": "Calyrex",
+    "image_url": "https://cdn.poketwo.net/images/898.png"
+  },
+  "pokemon_899": {
+    "name": "Wyrdeer",
+    "image_url": "https://cdn.poketwo.net/images/899.png"
+  },
+  "pokemon_900": {
+    "name": "Kleavor",
+    "image_url": "https://cdn.poketwo.net/images/900.png"
+  },
+  "pokemon_901": {
+    "name": "Ursaluna",
+    "image_url": "https://cdn.poketwo.net/images/901.png"
+  },
+  "pokemon_902_female": {
+    "name": "Basculegion",
+    "image_url": "https://cdn.poketwo.net/images/902F.png"
+  },
+  "pokemon_902": {
+    "name": "Basculegion",
+    "image_url": "https://cdn.poketwo.net/images/902.png"
+  },
+  "pokemon_903": {
+    "name": "Sneasler",
+    "image_url": "https://cdn.poketwo.net/images/903.png"
+  },
+  "pokemon_904": {
+    "name": "Overqwil",
+    "image_url": "https://cdn.poketwo.net/images/904.png"
+  },
+  "pokemon_905": {
+    "name": "Enamorus",
+    "image_url": "https://cdn.poketwo.net/images/905.png"
+  },
+  "pokemon_906": {
+    "name": "Sprigatito",
+    "image_url": "https://cdn.poketwo.net/images/906.png"
+  },
+  "pokemon_907": {
+    "name": "Floragato",
+    "image_url": "https://cdn.poketwo.net/images/907.png"
+  },
+  "pokemon_908": {
+    "name": "Meowscarada",
+    "image_url": "https://cdn.poketwo.net/images/908.png"
+  },
+  "pokemon_909": {
+    "name": "Fuecoco",
+    "image_url": "https://cdn.poketwo.net/images/909.png"
+  },
+  "pokemon_910": {
+    "name": "Crocalor",
+    "image_url": "https://cdn.poketwo.net/images/910.png"
+  },
+  "pokemon_911": {
+    "name": "Skeledirge",
+    "image_url": "https://cdn.poketwo.net/images/911.png"
+  },
+  "pokemon_912": {
+    "name": "Quaxly",
+    "image_url": "https://cdn.poketwo.net/images/912.png"
+  },
+  "pokemon_913": {
+    "name": "Quaxwell",
+    "image_url": "https://cdn.poketwo.net/images/913.png"
+  },
+  "pokemon_914": {
+    "name": "Quaquaval",
+    "image_url": "https://cdn.poketwo.net/images/914.png"
+  },
+  "pokemon_915": {
+    "name": "Lechonk",
+    "image_url": "https://cdn.poketwo.net/images/915.png"
+  },
+  "pokemon_916": {
+    "name": "Oinkologne",
+    "image_url": "https://cdn.poketwo.net/images/916.png"
+  },
+  "pokemon_916_female": {
+    "name": "Oinkologne",
+    "image_url": "https://cdn.poketwo.net/images/916F.png"
+  },
+  "pokemon_917": {
+    "name": "Tarountula",
+    "image_url": "https://cdn.poketwo.net/images/917.png"
+  },
+  "pokemon_918": {
+    "name": "Spidops",
+    "image_url": "https://cdn.poketwo.net/images/918.png"
+  },
+  "pokemon_919": {
+    "name": "Nymble",
+    "image_url": "https://cdn.poketwo.net/images/919.png"
+  },
+  "pokemon_920": {
+    "name": "Lokix",
+    "image_url": "https://cdn.poketwo.net/images/920.png"
+  },
+  "pokemon_921": {
+    "name": "Pawmi",
+    "image_url": "https://cdn.poketwo.net/images/921.png"
+  },
+  "pokemon_922": {
+    "name": "Pawmo",
+    "image_url": "https://cdn.poketwo.net/images/922.png"
+  },
+  "pokemon_923": {
+    "name": "Pawmot",
+    "image_url": "https://cdn.poketwo.net/images/923.png"
+  },
+  "pokemon_924": {
+    "name": "Tandemaus",
+    "image_url": "https://cdn.poketwo.net/images/924.png"
+  },
+  "pokemon_925": {
+    "name": "Maushold",
+    "image_url": "https://cdn.poketwo.net/images/925.png"
+  },
+  "pokemon_926": {
+    "name": "Fidough",
+    "image_url": "https://cdn.poketwo.net/images/926.png"
+  },
+  "pokemon_927": {
+    "name": "Dachsbun",
+    "image_url": "https://cdn.poketwo.net/images/927.png"
+  },
+  "pokemon_928": {
+    "name": "Smoliv",
+    "image_url": "https://cdn.poketwo.net/images/928.png"
+  },
+  "pokemon_929": {
+    "name": "Dolliv",
+    "image_url": "https://cdn.poketwo.net/images/929.png"
+  },
+  "pokemon_930": {
+    "name": "Arboliva",
+    "image_url": "https://cdn.poketwo.net/images/930.png"
+  },
+  "pokemon_931": {
+    "name": "Squawkabilly",
+    "image_url": "https://cdn.poketwo.net/images/931.png"
+  },
+  "pokemon_932": {
+    "name": "Nacli",
+    "image_url": "https://cdn.poketwo.net/images/932.png"
+  },
+  "pokemon_933": {
+    "name": "Naclstack",
+    "image_url": "https://cdn.poketwo.net/images/933.png"
+  },
+  "pokemon_934": {
+    "name": "Garganacl",
+    "image_url": "https://cdn.poketwo.net/images/934.png"
+  },
+  "pokemon_935": {
+    "name": "Charcadet",
+    "image_url": "https://cdn.poketwo.net/images/935.png"
+  },
+  "pokemon_936": {
+    "name": "Armarouge",
+    "image_url": "https://cdn.poketwo.net/images/936.png"
+  },
+  "pokemon_937": {
+    "name": "Ceruledge",
+    "image_url": "https://cdn.poketwo.net/images/937.png"
+  },
+  "pokemon_938": {
+    "name": "Tadbulb",
+    "image_url": "https://cdn.poketwo.net/images/938.png"
+  },
+  "pokemon_939": {
+    "name": "Bellibolt",
+    "image_url": "https://cdn.poketwo.net/images/939.png"
+  },
+  "pokemon_940": {
+    "name": "Wattrel",
+    "image_url": "https://cdn.poketwo.net/images/940.png"
+  },
+  "pokemon_941": {
+    "name": "Kilowattrel",
+    "image_url": "https://cdn.poketwo.net/images/941.png"
+  },
+  "pokemon_942": {
+    "name": "Maschiff",
+    "image_url": "https://cdn.poketwo.net/images/942.png"
+  },
+  "pokemon_943": {
+    "name": "Mabosstiff",
+    "image_url": "https://cdn.poketwo.net/images/943.png"
+  },
+  "pokemon_944": {
+    "name": "Shroodle",
+    "image_url": "https://cdn.poketwo.net/images/944.png"
+  },
+  "pokemon_945": {
+    "name": "Grafaiai",
+    "image_url": "https://cdn.poketwo.net/images/945.png"
+  },
+  "pokemon_946": {
+    "name": "Bramblin",
+    "image_url": "https://cdn.poketwo.net/images/946.png"
+  },
+  "pokemon_947": {
+    "name": "Brambleghast",
+    "image_url": "https://cdn.poketwo.net/images/947.png"
+  },
+  "pokemon_948": {
+    "name": "Toedscool",
+    "image_url": "https://cdn.poketwo.net/images/948.png"
+  },
+  "pokemon_949": {
+    "name": "Toedscruel",
+    "image_url": "https://cdn.poketwo.net/images/949.png"
+  },
+  "pokemon_950": {
+    "name": "Klawf",
+    "image_url": "https://cdn.poketwo.net/images/950.png"
+  },
+  "pokemon_951": {
+    "name": "Capsakid",
+    "image_url": "https://cdn.poketwo.net/images/951.png"
+  },
+  "pokemon_952": {
+    "name": "Scovillain",
+    "image_url": "https://cdn.poketwo.net/images/952.png"
+  },
+  "pokemon_953": {
+    "name": "Rellor",
+    "image_url": "https://cdn.poketwo.net/images/953.png"
+  },
+  "pokemon_954": {
+    "name": "Rabsca",
+    "image_url": "https://cdn.poketwo.net/images/954.png"
+  },
+  "pokemon_955": {
+    "name": "Flittle",
+    "image_url": "https://cdn.poketwo.net/images/955.png"
+  },
+  "pokemon_956": {
+    "name": "Espathra",
+    "image_url": "https://cdn.poketwo.net/images/956.png"
+  },
+  "pokemon_957": {
+    "name": "Tinkatink",
+    "image_url": "https://cdn.poketwo.net/images/957.png"
+  },
+  "pokemon_958": {
+    "name": "Tinkatuff",
+    "image_url": "https://cdn.poketwo.net/images/958.png"
+  },
+  "pokemon_959": {
+    "name": "Tinkaton",
+    "image_url": "https://cdn.poketwo.net/images/959.png"
+  },
+  "pokemon_960": {
+    "name": "Wiglett",
+    "image_url": "https://cdn.poketwo.net/images/960.png"
+  },
+  "pokemon_961": {
+    "name": "Wugtrio",
+    "image_url": "https://cdn.poketwo.net/images/961.png"
+  },
+  "pokemon_962": {
+    "name": "Bombirdier",
+    "image_url": "https://cdn.poketwo.net/images/962.png"
+  },
+  "pokemon_963": {
+    "name": "Finizen",
+    "image_url": "https://cdn.poketwo.net/images/963.png"
+  },
+  "pokemon_964": {
+    "name": "Palafin",
+    "image_url": "https://cdn.poketwo.net/images/964.png"
+  },
+  "pokemon_965": {
+    "name": "Varoom",
+    "image_url": "https://cdn.poketwo.net/images/965.png"
+  },
+  "pokemon_966": {
+    "name": "Revavroom",
+    "image_url": "https://cdn.poketwo.net/images/966.png"
+  },
+  "pokemon_967": {
+    "name": "Cyclizar",
+    "image_url": "https://cdn.poketwo.net/images/967.png"
+  },
+  "pokemon_968": {
+    "name": "Orthworm",
+    "image_url": "https://cdn.poketwo.net/images/968.png"
+  },
+  "pokemon_969": {
+    "name": "Glimmet",
+    "image_url": "https://cdn.poketwo.net/images/969.png"
+  },
+  "pokemon_970": {
+    "name": "Glimmora",
+    "image_url": "https://cdn.poketwo.net/images/970.png"
+  },
+  "pokemon_971": {
+    "name": "Greavard",
+    "image_url": "https://cdn.poketwo.net/images/971.png"
+  },
+  "pokemon_972": {
+    "name": "Houndstone",
+    "image_url": "https://cdn.poketwo.net/images/972.png"
+  },
+  "pokemon_973": {
+    "name": "Flamigo",
+    "image_url": "https://cdn.poketwo.net/images/973.png"
+  },
+  "pokemon_974": {
+    "name": "Cetoddle",
+    "image_url": "https://cdn.poketwo.net/images/974.png"
+  },
+  "pokemon_975": {
+    "name": "Cetitan",
+    "image_url": "https://cdn.poketwo.net/images/975.png"
+  },
+  "pokemon_976": {
+    "name": "Veluza",
+    "image_url": "https://cdn.poketwo.net/images/976.png"
+  },
+  "pokemon_977": {
+    "name": "Dondozo",
+    "image_url": "https://cdn.poketwo.net/images/977.png"
+  },
+  "pokemon_978": {
+    "name": "Tatsugiri",
+    "image_url": "https://cdn.poketwo.net/images/978.png"
+  },
+  "pokemon_979": {
+    "name": "Annihilape",
+    "image_url": "https://cdn.poketwo.net/images/979.png"
+  },
+  "pokemon_980": {
+    "name": "Clodsire",
+    "image_url": "https://cdn.poketwo.net/images/980.png"
+  },
+  "pokemon_981": {
+    "name": "Farigiraf",
+    "image_url": "https://cdn.poketwo.net/images/981.png"
+  },
+  "pokemon_982": {
+    "name": "Dudunsparce",
+    "image_url": "https://cdn.poketwo.net/images/982.png"
+  },
+  "pokemon_983": {
+    "name": "Kingambit",
+    "image_url": "https://cdn.poketwo.net/images/983.png"
+  },
+  "pokemon_984": {
+    "name": "Great Tusk",
+    "image_url": "https://cdn.poketwo.net/images/984.png"
+  },
+  "pokemon_985": {
+    "name": "Scream Tail",
+    "image_url": "https://cdn.poketwo.net/images/985.png"
+  },
+  "pokemon_986": {
+    "name": "Brute Bonnet",
+    "image_url": "https://cdn.poketwo.net/images/986.png"
+  },
+  "pokemon_987": {
+    "name": "Flutter Mane",
+    "image_url": "https://cdn.poketwo.net/images/987.png"
+  },
+  "pokemon_988": {
+    "name": "Slither Wing",
+    "image_url": "https://cdn.poketwo.net/images/988.png"
+  },
+  "pokemon_989": {
+    "name": "Sandy Shocks",
+    "image_url": "https://cdn.poketwo.net/images/989.png"
+  },
+  "pokemon_990": {
+    "name": "Iron Treads",
+    "image_url": "https://cdn.poketwo.net/images/990.png"
+  },
+  "pokemon_991": {
+    "name": "Iron Bundle",
+    "image_url": "https://cdn.poketwo.net/images/991.png"
+  },
+  "pokemon_992": {
+    "name": "Iron Hands",
+    "image_url": "https://cdn.poketwo.net/images/992.png"
+  },
+  "pokemon_993": {
+    "name": "Iron Jugulis",
+    "image_url": "https://cdn.poketwo.net/images/993.png"
+  },
+  "pokemon_994": {
+    "name": "Iron Moth",
+    "image_url": "https://cdn.poketwo.net/images/994.png"
+  },
+  "pokemon_995": {
+    "name": "Iron Thorns",
+    "image_url": "https://cdn.poketwo.net/images/995.png"
+  },
+  "pokemon_996": {
+    "name": "Frigibax",
+    "image_url": "https://cdn.poketwo.net/images/996.png"
+  },
+  "pokemon_997": {
+    "name": "Arctibax",
+    "image_url": "https://cdn.poketwo.net/images/997.png"
+  },
+  "pokemon_998": {
+    "name": "Baxcalibur",
+    "image_url": "https://cdn.poketwo.net/images/998.png"
+  },
+  "pokemon_999": {
+    "name": "Gimmighoul",
+    "image_url": "https://cdn.poketwo.net/images/999.png"
+  },
+  "pokemon_1000": {
+    "name": "Gholdengo",
+    "image_url": "https://cdn.poketwo.net/images/1000.png"
+  },
+  "pokemon_1001": {
+    "name": "Wo-Chien",
+    "image_url": "https://cdn.poketwo.net/images/1001.png"
+  },
+  "pokemon_1002": {
+    "name": "Chien-Pao",
+    "image_url": "https://cdn.poketwo.net/images/1002.png"
+  },
+  "pokemon_1003": {
+    "name": "Ting-Lu",
+    "image_url": "https://cdn.poketwo.net/images/1003.png"
+  },
+  "pokemon_1004": {
+    "name": "Chi-Yu",
+    "image_url": "https://cdn.poketwo.net/images/1004.png"
+  },
+  "pokemon_1005": {
+    "name": "Roaring Moon",
+    "image_url": "https://cdn.poketwo.net/images/1005.png"
+  },
+  "pokemon_1006": {
+    "name": "Iron Valiant",
+    "image_url": "https://cdn.poketwo.net/images/1006.png"
+  },
+  "pokemon_1007": {
+    "name": "Koraidon",
+    "image_url": "https://cdn.poketwo.net/images/1007.png"
+  },
+  "pokemon_1008": {
+    "name": "Miraidon",
+    "image_url": "https://cdn.poketwo.net/images/1008.png"
+  },
+  "pokemon_1009": {
+    "name": "Walking Wake",
+    "image_url": "https://cdn.poketwo.net/images/1009.png"
+  },
+  "pokemon_1010": {
+    "name": "Iron Leaves",
+    "image_url": "https://cdn.poketwo.net/images/1010.png"
+  },
+  "pokemon_1011": {
+    "name": "Dipplin",
+    "image_url": "https://cdn.poketwo.net/images/1011.png"
+  },
+  "pokemon_1012": {
+    "name": "Poltchageist",
+    "image_url": "https://cdn.poketwo.net/images/1012.png"
+  },
+  "pokemon_1013": {
+    "name": "Sinistcha",
+    "image_url": "https://cdn.poketwo.net/images/1013.png"
+  },
+  "pokemon_1014": {
+    "name": "Okidogi",
+    "image_url": "https://cdn.poketwo.net/images/1014.png"
+  },
+  "pokemon_1015": {
+    "name": "Munkidori",
+    "image_url": "https://cdn.poketwo.net/images/1015.png"
+  },
+  "pokemon_1016": {
+    "name": "Fezandipiti",
+    "image_url": "https://cdn.poketwo.net/images/1016.png"
+  },
+  "pokemon_1017": {
+    "name": "Ogerpon",
+    "image_url": "https://cdn.poketwo.net/images/1017.png"
+  },
+  "pokemon_1018": {
+    "name": "Archaludon",
+    "image_url": "https://cdn.poketwo.net/images/1018.png"
+  },
+  "pokemon_1019": {
+    "name": "Hydrapple",
+    "image_url": "https://cdn.poketwo.net/images/1019.png"
+  },
+  "pokemon_1020": {
+    "name": "Gouging Fire",
+    "image_url": "https://cdn.poketwo.net/images/1020.png"
+  },
+  "pokemon_1021": {
+    "name": "Raging Bolt",
+    "image_url": "https://cdn.poketwo.net/images/1021.png"
+  },
+  "pokemon_1022": {
+    "name": "Iron Boulder",
+    "image_url": "https://cdn.poketwo.net/images/1022.png"
+  },
+  "pokemon_1023": {
+    "name": "Iron Crown",
+    "image_url": "https://cdn.poketwo.net/images/1023.png"
+  },
+  "pokemon_1024": {
+    "name": "Terapagos",
+    "image_url": "https://cdn.poketwo.net/images/1024.png"
+  },
+  "pokemon_1025": {
+    "name": "Pecharunt",
+    "image_url": "https://cdn.poketwo.net/images/1025.png"
+  },
+  "pokemon_50248": {
+    "name": "Chicombusken",
+    "image_url": "https://cdn.poketwo.net/images/50248.png"
+  },
+  "pokemon_50249": {
+    "name": "Soluna",
+    "image_url": "https://cdn.poketwo.net/images/50249.png"
+  },
+  "pokemon_50250": {
+    "name": "Drifboy",
+    "image_url": "https://cdn.poketwo.net/images/50250.png"
+  },
+  "pokemon_50251": {
+    "name": "Leavanette",
+    "image_url": "https://cdn.poketwo.net/images/50251.png"
+  },
+  "pokemon_50252": {
+    "name": "Foroark",
+    "image_url": "https://cdn.poketwo.net/images/50252.png"
+  },
+  "pokemon_50253": {
+    "name": "Bonnersby",
+    "image_url": "https://cdn.poketwo.net/images/50253.png"
+  },
+  "pokemon_50254": {
+    "name": "Fazwear",
+    "image_url": "https://cdn.poketwo.net/images/50254.png"
+  },
+  "pokemon_65": {
+    "name": "Alakazam",
+    "image_url": "https://cdn.poketwo.net/images/65.png"
+  },
+  "pokemon_208": {
+    "name": "Steelix",
+    "image_url": "https://cdn.poketwo.net/images/208.png"
+  },
+  "variant_386_Attack_Deoxys": {
+    "name": "Attack Deoxys",
+    "image_url": "https://cdn.poketwo.net/images/10001.png"
+  },
+  "variant_386_Defense_Deoxys": {
+    "name": "Defense Deoxys",
+    "image_url": "https://cdn.poketwo.net/images/10002.png"
+  },
+  "variant_386_Speed_Deoxys": {
+    "name": "Speed Deoxys",
+    "image_url": "https://cdn.poketwo.net/images/10003.png"
+  },
+  "variant_413_Sandy": {
+    "name": "Sandy Wormadam",
+    "image_url": "https://cdn.poketwo.net/images/10004.png"
+  },
+  "variant_413_Trash": {
+    "name": "Trash Wormadam",
+    "image_url": "https://cdn.poketwo.net/images/10005.png"
+  },
+  "variant_492_Sky": {
+    "name": "Sky Shaymin",
+    "image_url": "https://cdn.poketwo.net/images/10006.png"
+  },
+  "variant_487_Origin": {
+    "name": "Origin Giratina",
+    "image_url": "https://cdn.poketwo.net/images/10007.png"
+  },
+  "variant_479_Heat": {
+    "name": "Heat Rotom",
+    "image_url": "https://cdn.poketwo.net/images/10008.png"
+  },
+  "variant_479_Wash": {
+    "name": "Wash Rotom",
+    "image_url": "https://cdn.poketwo.net/images/10009.png"
+  },
+  "variant_479_Frost": {
+    "name": "Frost Rotom",
+    "image_url": "https://cdn.poketwo.net/images/10010.png"
+  },
+  "variant_479_Fan": {
+    "name": "Fan Rotom",
+    "image_url": "https://cdn.poketwo.net/images/10011.png"
+  },
+  "variant_479_Mow": {
+    "name": "Mow Rotom",
+    "image_url": "https://cdn.poketwo.net/images/10012.png"
+  },
+  "variant_351_Sunny_Castform": {
+    "name": "Sunny Castform",
+    "image_url": "https://cdn.poketwo.net/images/10013.png"
+  },
+  "variant_351_Rainy_Castform": {
+    "name": "Rainy Castform",
+    "image_url": "https://cdn.poketwo.net/images/10014.png"
+  },
+  "variant_351_Snowy_Castform": {
+    "name": "Snowy Castform",
+    "image_url": "https://cdn.poketwo.net/images/10015.png"
+  },
+  "variant_550_Blue-Striped": {
+    "name": "Blue-Striped Basculin",
+    "image_url": "https://cdn.poketwo.net/images/10016.png"
+  },
+  "variant_555_Zen": {
+    "name": "Zen Darmanitan",
+    "image_url": "https://cdn.poketwo.net/images/10017.png"
+  },
+  "variant_648_Pirouette": {
+    "name": "Pirouette Meloetta",
+    "image_url": "https://cdn.poketwo.net/images/10018.png"
+  },
+  "variant_641_Therian": {
+    "name": "Therian Tornadus",
+    "image_url": "https://cdn.poketwo.net/images/10019.png"
+  },
+  "variant_642_Therian": {
+    "name": "Therian Thundurus",
+    "image_url": "https://cdn.poketwo.net/images/10020.png"
+  },
+  "variant_645_Therian": {
+    "name": "Therian Landorus",
+    "image_url": "https://cdn.poketwo.net/images/10021.png"
+  },
+  "variant_646_Black_Kyurem": {
+    "name": "Black Kyurem",
+    "image_url": "https://cdn.poketwo.net/images/10022.png"
+  },
+  "variant_646_White_Kyurem": {
+    "name": "White Kyurem",
+    "image_url": "https://cdn.poketwo.net/images/10023.png"
+  },
+  "variant_647_Resolute_Keldeo": {
+    "name": "Resolute Keldeo",
+    "image_url": "https://cdn.poketwo.net/images/10024.png"
+  },
+  "variant_681_Blade": {
+    "name": "Blade Aegislash",
+    "image_url": "https://cdn.poketwo.net/images/10026.png"
+  },
+  "variant_710_Small": {
+    "name": "Small Pumpkaboo",
+    "image_url": "https://cdn.poketwo.net/images/10027.png"
+  },
+  "variant_710_Large": {
+    "name": "Large Pumpkaboo",
+    "image_url": "https://cdn.poketwo.net/images/10028.png"
+  },
+  "variant_710_Super": {
+    "name": "Super Pumpkaboo",
+    "image_url": "https://cdn.poketwo.net/images/10029.png"
+  },
+  "variant_711_Small": {
+    "name": "Small Gourgeist",
+    "image_url": "https://cdn.poketwo.net/images/10030.png"
+  },
+  "variant_711_Large": {
+    "name": "Large Gourgeist",
+    "image_url": "https://cdn.poketwo.net/images/10031.png"
+  },
+  "variant_711_Super": {
+    "name": "Super Gourgeist",
+    "image_url": "https://cdn.poketwo.net/images/10032.png"
+  },
+  "variant_3_Mega": {
+    "name": "Mega Venusaur",
+    "image_url": "https://cdn.poketwo.net/images/10033.png"
+  },
+  "variant_6_Mega": {
+    "name": "Mega Charizard X",
+    "image_url": "https://cdn.poketwo.net/images/10034.png"
+  },
+  "variant_9_Mega": {
+    "name": "Mega Blastoise",
+    "image_url": "https://cdn.poketwo.net/images/10036.png"
+  },
+  "variant_65_Mega": {
+    "name": "Mega Alakazam",
+    "image_url": "https://cdn.poketwo.net/images/10037.png"
+  },
+  "variant_94_Mega": {
+    "name": "Mega Gengar",
+    "image_url": "https://cdn.poketwo.net/images/10038.png"
+  },
+  "variant_115_Mega": {
+    "name": "Mega Kangaskhan",
+    "image_url": "https://cdn.poketwo.net/images/10039.png"
+  },
+  "variant_127_Mega": {
+    "name": "Mega Pinsir",
+    "image_url": "https://cdn.poketwo.net/images/10040.png"
+  },
+  "variant_130_Mega": {
+    "name": "Mega Gyarados",
+    "image_url": "https://cdn.poketwo.net/images/10041.png"
+  },
+  "variant_142_Mega": {
+    "name": "Mega Aerodactyl",
+    "image_url": "https://cdn.poketwo.net/images/10042.png"
+  },
+  "variant_150_Mega": {
+    "name": "Mega Mewtwo X",
+    "image_url": "https://cdn.poketwo.net/images/10043.png"
+  },
+  "variant_181_Mega": {
+    "name": "Mega Ampharos",
+    "image_url": "https://cdn.poketwo.net/images/10045.png"
+  },
+  "variant_212_Mega": {
+    "name": "Mega Scizor",
+    "image_url": "https://cdn.poketwo.net/images/10046.png"
+  },
+  "variant_214_Mega": {
+    "name": "Mega Heracross",
+    "image_url": "https://cdn.poketwo.net/images/10047.png"
+  },
+  "variant_229_Mega": {
+    "name": "Mega Houndoom",
+    "image_url": "https://cdn.poketwo.net/images/10048.png"
+  },
+  "variant_248_Mega": {
+    "name": "Mega Tyranitar",
+    "image_url": "https://cdn.poketwo.net/images/10049.png"
+  },
+  "variant_257_Mega": {
+    "name": "Mega Blaziken",
+    "image_url": "https://cdn.poketwo.net/images/10050.png"
+  },
+  "variant_282_Mega": {
+    "name": "Mega Gardevoir",
+    "image_url": "https://cdn.poketwo.net/images/10051.png"
+  },
+  "variant_303_Mega": {
+    "name": "Mega Mawile",
+    "image_url": "https://cdn.poketwo.net/images/10052.png"
+  },
+  "variant_306_Mega": {
+    "name": "Mega Aggron",
+    "image_url": "https://cdn.poketwo.net/images/10053.png"
+  },
+  "variant_308_Mega": {
+    "name": "Mega Medicham",
+    "image_url": "https://cdn.poketwo.net/images/10054.png"
+  },
+  "variant_310_Mega": {
+    "name": "Mega Manectric",
+    "image_url": "https://cdn.poketwo.net/images/10055.png"
+  },
+  "variant_354_Mega": {
+    "name": "Mega Banette",
+    "image_url": "https://cdn.poketwo.net/images/10056.png"
+  },
+  "variant_359_Mega": {
+    "name": "Mega Absol",
+    "image_url": "https://cdn.poketwo.net/images/10057.png"
+  },
+  "variant_445_Mega": {
+    "name": "Mega Garchomp",
+    "image_url": "https://cdn.poketwo.net/images/10058.png"
+  },
+  "variant_448_Mega": {
+    "name": "Mega Lucario",
+    "image_url": "https://cdn.poketwo.net/images/10059.png"
+  },
+  "variant_460_Mega": {
+    "name": "Mega Abomasnow",
+    "image_url": "https://cdn.poketwo.net/images/10060.png"
+  },
+  "variant_380_Mega": {
+    "name": "Mega Latias",
+    "image_url": "https://cdn.poketwo.net/images/10062.png"
+  },
+  "variant_381_Mega": {
+    "name": "Mega Latios",
+    "image_url": "https://cdn.poketwo.net/images/10063.png"
+  },
+  "variant_260_Mega": {
+    "name": "Mega Swampert",
+    "image_url": "https://cdn.poketwo.net/images/10064.png"
+  },
+  "variant_254_Mega": {
+    "name": "Mega Sceptile",
+    "image_url": "https://cdn.poketwo.net/images/10065.png"
+  },
+  "variant_302_Mega": {
+    "name": "Mega Sableye",
+    "image_url": "https://cdn.poketwo.net/images/10066.png"
+  },
+  "variant_334_Mega": {
+    "name": "Mega Altaria",
+    "image_url": "https://cdn.poketwo.net/images/10067.png"
+  },
+  "variant_475_Mega": {
+    "name": "Mega Gallade",
+    "image_url": "https://cdn.poketwo.net/images/10068.png"
+  },
+  "variant_531_Mega": {
+    "name": "Mega Audino",
+    "image_url": "https://cdn.poketwo.net/images/10069.png"
+  },
+  "variant_319_Mega": {
+    "name": "Mega Sharpedo",
+    "image_url": "https://cdn.poketwo.net/images/10070.png"
+  },
+  "variant_80_Mega": {
+    "name": "Mega Slowbro",
+    "image_url": "https://cdn.poketwo.net/images/10071.png"
+  },
+  "variant_208_Mega": {
+    "name": "Mega Steelix",
+    "image_url": "https://cdn.poketwo.net/images/10072.png"
+  },
+  "variant_18_Mega": {
+    "name": "Mega Pidgeot",
+    "image_url": "https://cdn.poketwo.net/images/10073.png"
+  },
+  "variant_362_Mega": {
+    "name": "Mega Glalie",
+    "image_url": "https://cdn.poketwo.net/images/10074.png"
+  },
+  "variant_719_Mega": {
+    "name": "Mega Diancie",
+    "image_url": "https://cdn.poketwo.net/images/10075.png"
+  },
+  "variant_376_Mega": {
+    "name": "Mega Metagross",
+    "image_url": "https://cdn.poketwo.net/images/10076.png"
+  },
+  "variant_382_Primal": {
+    "name": "Primal Kyogre",
+    "image_url": "https://cdn.poketwo.net/images/10077.png"
+  },
+  "variant_383_Primal": {
+    "name": "Primal Groudon",
+    "image_url": "https://cdn.poketwo.net/images/10078.png"
+  },
+  "variant_384_Mega": {
+    "name": "Mega Rayquaza",
+    "image_url": "https://cdn.poketwo.net/images/10079.png"
+  },
+  "variant_25_Pikachu_Rock_Star": {
+    "name": "Pikachu Rock Star",
+    "image_url": "https://cdn.poketwo.net/images/10080.png"
+  },
+  "variant_25_Pikachu_Belle": {
+    "name": "Pikachu Belle",
+    "image_url": "https://cdn.poketwo.net/images/10081.png"
+  },
+  "variant_25_Pikachu_Pop_Star": {
+    "name": "Pikachu Pop Star",
+    "image_url": "https://cdn.poketwo.net/images/10082.png"
+  },
+  "variant_25_Pikachu_Ph_D_": {
+    "name": "Pikachu Ph.D.",
+    "image_url": "https://cdn.poketwo.net/images/10083.png"
+  },
+  "variant_25_Pikachu_Libre": {
+    "name": "Pikachu Libre",
+    "image_url": "https://cdn.poketwo.net/images/10084.png"
+  },
+  "variant_720_Unbound": {
+    "name": "Hoopa Unbound",
+    "image_url": "https://cdn.poketwo.net/images/10086.png"
+  },
+  "variant_323_Mega": {
+    "name": "Mega Camerupt",
+    "image_url": "https://cdn.poketwo.net/images/10087.png"
+  },
+  "variant_428_Mega": {
+    "name": "Mega Lopunny",
+    "image_url": "https://cdn.poketwo.net/images/10088.png"
+  },
+  "variant_373_Mega": {
+    "name": "Mega Salamence",
+    "image_url": "https://cdn.poketwo.net/images/10089.png"
+  },
+  "variant_15_Mega": {
+    "name": "Mega Beedrill",
+    "image_url": "https://cdn.poketwo.net/images/10090.png"
+  },
+  "variant_19_Alolan": {
+    "name": "Alolan Rattata",
+    "image_url": "https://cdn.poketwo.net/images/10091.png"
+  },
+  "variant_20_Alolan": {
+    "name": "Alolan Raticate",
+    "image_url": "https://cdn.poketwo.net/images/10092.png"
+  },
+  "variant_25_Origin": {
+    "name": "Original Cap Pikachu",
+    "image_url": "https://cdn.poketwo.net/images/10094.png"
+  },
+  "variant_25_Hoenn_Cap_Pikachu": {
+    "name": "Hoenn Cap Pikachu",
+    "image_url": "https://cdn.poketwo.net/images/10095.png"
+  },
+  "variant_25_Sinnoh_Cap_Pikachu": {
+    "name": "Sinnoh Cap Pikachu",
+    "image_url": "https://cdn.poketwo.net/images/10096.png"
+  },
+  "variant_25_Unova_Cap_Pikachu": {
+    "name": "Unova Cap Pikachu",
+    "image_url": "https://cdn.poketwo.net/images/10097.png"
+  },
+  "variant_25_Kalos_Cap_Pikachu": {
+    "name": "Kalos Cap Pikachu",
+    "image_url": "https://cdn.poketwo.net/images/10098.png"
+  },
+  "variant_25_Alola_Cap_Pikachu": {
+    "name": "Alola Cap Pikachu",
+    "image_url": "https://cdn.poketwo.net/images/10099.png"
+  },
+  "variant_26_Alolan": {
+    "name": "Alolan Raichu",
+    "image_url": "https://cdn.poketwo.net/images/10100.png"
+  },
+  "variant_27_Alolan": {
+    "name": "Alolan Sandshrew",
+    "image_url": "https://cdn.poketwo.net/images/10101.png"
+  },
+  "variant_28_Alolan": {
+    "name": "Alolan Sandslash",
+    "image_url": "https://cdn.poketwo.net/images/10102.png"
+  },
+  "variant_37_Alolan": {
+    "name": "Alolan Vulpix",
+    "image_url": "https://cdn.poketwo.net/images/10103.png"
+  },
+  "variant_38_Alolan": {
+    "name": "Alolan Ninetales",
+    "image_url": "https://cdn.poketwo.net/images/10104.png"
+  },
+  "variant_50_Alolan": {
+    "name": "Alolan Diglett",
+    "image_url": "https://cdn.poketwo.net/images/10105.png"
+  },
+  "variant_51_Alolan": {
+    "name": "Alolan Dugtrio",
+    "image_url": "https://cdn.poketwo.net/images/10106.png"
+  },
+  "variant_52_Alolan": {
+    "name": "Alolan Meowth",
+    "image_url": "https://cdn.poketwo.net/images/10107.png"
+  },
+  "variant_53_Alolan": {
+    "name": "Alolan Persian",
+    "image_url": "https://cdn.poketwo.net/images/10108.png"
+  },
+  "variant_74_Alolan": {
+    "name": "Alolan Geodude",
+    "image_url": "https://cdn.poketwo.net/images/10109.png"
+  },
+  "variant_75_Alolan": {
+    "name": "Alolan Graveler",
+    "image_url": "https://cdn.poketwo.net/images/10110.png"
+  },
+  "variant_76_Alolan": {
+    "name": "Alolan Golem",
+    "image_url": "https://cdn.poketwo.net/images/10111.png"
+  },
+  "variant_88_Alolan": {
+    "name": "Alolan Grimer",
+    "image_url": "https://cdn.poketwo.net/images/10112.png"
+  },
+  "variant_89_Alolan": {
+    "name": "Alolan Muk",
+    "image_url": "https://cdn.poketwo.net/images/10113.png"
+  },
+  "variant_103_Alolan": {
+    "name": "Alolan Exeggutor",
+    "image_url": "https://cdn.poketwo.net/images/10114.png"
+  },
+  "variant_105_Alolan": {
+    "name": "Alolan Marowak",
+    "image_url": "https://cdn.poketwo.net/images/10115.png"
+  },
+  "variant_658_Ash_s_Greninja": {
+    "name": "Ash's Greninja",
+    "image_url": "https://cdn.poketwo.net/images/10117.png"
+  },
+  "variant_718_10__Zygarde": {
+    "name": "10% Zygarde",
+    "image_url": "https://cdn.poketwo.net/images/10118.png"
+  },
+  "variant_718_Complete_Zygarde": {
+    "name": "Complete Zygarde",
+    "image_url": "https://cdn.poketwo.net/images/10120.png"
+  },
+  "variant_741_Pom-pom_Oricorio": {
+    "name": "Pom-pom Oricorio",
+    "image_url": "https://cdn.poketwo.net/images/10123.png"
+  },
+  "variant_741_Pa_u": {
+    "name": "Pa'u Oricorio",
+    "image_url": "https://cdn.poketwo.net/images/10124.png"
+  },
+  "variant_741_Sensu": {
+    "name": "Sensu Oricorio",
+    "image_url": "https://cdn.poketwo.net/images/10125.png"
+  },
+  "variant_745_Midnight": {
+    "name": "Midnight Lycanroc",
+    "image_url": "https://cdn.poketwo.net/images/10126.png"
+  },
+  "variant_746_School": {
+    "name": "School Wishiwashi",
+    "image_url": "https://cdn.poketwo.net/images/10127.png"
+  },
+  "variant_774_Red_Meteor_Minior": {
+    "name": "Red Meteor Minior",
+    "image_url": "https://cdn.poketwo.net/images/10130.png"
+  },
+  "variant_774_Orange_Meteor_Minior": {
+    "name": "Orange Meteor Minior",
+    "image_url": "https://cdn.poketwo.net/images/10131.png"
+  },
+  "variant_774_Yellow_Meteor_Minior": {
+    "name": "Yellow Meteor Minior",
+    "image_url": "https://cdn.poketwo.net/images/10132.png"
+  },
+  "variant_774_Green_Meteor_Minior": {
+    "name": "Green Meteor Minior",
+    "image_url": "https://cdn.poketwo.net/images/10133.png"
+  },
+  "variant_774_Blue_Meteor_Minior": {
+    "name": "Blue Meteor Minior",
+    "image_url": "https://cdn.poketwo.net/images/10134.png"
+  },
+  "variant_774_Indigo_Meteor_Minior": {
+    "name": "Indigo Meteor Minior",
+    "image_url": "https://cdn.poketwo.net/images/10135.png"
+  },
+  "variant_774_Violet_Meteor_Minior": {
+    "name": "Violet Meteor Minior",
+    "image_url": "https://cdn.poketwo.net/images/10136.png"
+  },
+  "variant_774_Red_Core_Minior": {
+    "name": "Red Core Minior",
+    "image_url": "https://cdn.poketwo.net/images/10137.png"
+  },
+  "variant_774_Orange_Core_Minior": {
+    "name": "Orange Core Minior",
+    "image_url": "https://cdn.poketwo.net/images/10138.png"
+  },
+  "variant_774_Yellow_Core_Minior": {
+    "name": "Yellow Core Minior",
+    "image_url": "https://cdn.poketwo.net/images/10139.png"
+  },
+  "variant_774_Green_Core_Minior": {
+    "name": "Green Core Minior",
+    "image_url": "https://cdn.poketwo.net/images/10140.png"
+  },
+  "variant_774_Blue_Core_Minior": {
+    "name": "Blue Core Minior",
+    "image_url": "https://cdn.poketwo.net/images/10141.png"
+  },
+  "variant_774_Indigo_Core_Minior": {
+    "name": "Indigo Core Minior",
+    "image_url": "https://cdn.poketwo.net/images/10142.png"
+  },
+  "variant_778_Busted": {
+    "name": "Busted Mimikyu",
+    "image_url": "https://cdn.poketwo.net/images/10143.png"
+  },
+  "variant_801_Origin": {
+    "name": "Original Magearna",
+    "image_url": "https://cdn.poketwo.net/images/10147.png"
+  },
+  "variant_25_Partner_Cap_Pikachu": {
+    "name": "Partner Cap Pikachu",
+    "image_url": "https://cdn.poketwo.net/images/10148.png"
+  },
+  "variant_745_Dusk": {
+    "name": "Dusk Lycanroc",
+    "image_url": "https://cdn.poketwo.net/images/10152.png"
+  },
+  "variant_800_Dusk": {
+    "name": "Dusk Mane Necrozma",
+    "image_url": "https://cdn.poketwo.net/images/10155.png"
+  },
+  "variant_800_Dawn_Wings_Necrozma": {
+    "name": "Dawn Wings Necrozma",
+    "image_url": "https://cdn.poketwo.net/images/10156.png"
+  },
+  "variant_800_Ultra_Necrozma": {
+    "name": "Ultra Necrozma",
+    "image_url": "https://cdn.poketwo.net/images/10157.png"
+  },
+  "variant_52_Galarian": {
+    "name": "Galarian Meowth",
+    "image_url": "https://cdn.poketwo.net/images/10158.png"
+  },
+  "variant_79_Galarian": {
+    "name": "Galarian Slowpoke",
+    "image_url": "https://cdn.poketwo.net/images/10161.png"
+  },
+  "variant_80_Galarian": {
+    "name": "Galarian Slowbro",
+    "image_url": "https://cdn.poketwo.net/images/10162.png"
+  },
+  "variant_77_Galarian": {
+    "name": "Galarian Ponyta",
+    "image_url": "https://cdn.poketwo.net/images/10159.png"
+  },
+  "variant_78_Galarian": {
+    "name": "Galarian Rapidash",
+    "image_url": "https://cdn.poketwo.net/images/10160.png"
+  },
+  "variant_83_Galarian": {
+    "name": "Galarian Farfetch'd",
+    "image_url": "https://cdn.poketwo.net/images/10163.png"
+  },
+  "variant_110_Galarian": {
+    "name": "Galarian Weezing",
+    "image_url": "https://cdn.poketwo.net/images/10164.png"
+  },
+  "variant_122_Galarian": {
+    "name": "Galarian Mr. Mime",
+    "image_url": "https://cdn.poketwo.net/images/10165.png"
+  },
+  "variant_144_Galarian": {
+    "name": "Galarian Articuno",
+    "image_url": "https://cdn.poketwo.net/images/10166.png"
+  },
+  "variant_145_Galarian": {
+    "name": "Galarian Zapdos",
+    "image_url": "https://cdn.poketwo.net/images/10167.png"
+  },
+  "variant_146_Galarian": {
+    "name": "Galarian Moltres",
+    "image_url": "https://cdn.poketwo.net/images/10168.png"
+  },
+  "variant_199_Galarian": {
+    "name": "Galarian Slowking",
+    "image_url": "https://cdn.poketwo.net/images/10169.png"
+  },
+  "variant_222_Galarian": {
+    "name": "Galarian Corsola",
+    "image_url": "https://cdn.poketwo.net/images/10170.png"
+  },
+  "variant_263_Galarian": {
+    "name": "Galarian Zigzagoon",
+    "image_url": "https://cdn.poketwo.net/images/10171.png"
+  },
+  "variant_264_Galarian": {
+    "name": "Galarian Linoone",
+    "image_url": "https://cdn.poketwo.net/images/10172.png"
+  },
+  "variant_554_Galarian": {
+    "name": "Galarian Darumaka",
+    "image_url": "https://cdn.poketwo.net/images/10173.png"
+  },
+  "variant_555_Galarian": {
+    "name": "Galarian Zen Darmanitan",
+    "image_url": "https://cdn.poketwo.net/images/10175.png"
+  },
+  "variant_562_Galarian": {
+    "name": "Galarian Yamask",
+    "image_url": "https://cdn.poketwo.net/images/10176.png"
+  },
+  "variant_618_Galarian": {
+    "name": "Galarian Stunfisk",
+    "image_url": "https://cdn.poketwo.net/images/10177.png"
+  },
+  "variant_849_Low_Key_Toxtricity": {
+    "name": "Low Key Toxtricity",
+    "image_url": "https://cdn.poketwo.net/images/10178.png"
+  },
+  "variant_875_Noice_Face_Eiscue": {
+    "name": "Noice Face Eiscue",
+    "image_url": "https://cdn.poketwo.net/images/10179.png"
+  },
+  "variant_888_Crowned_Zacian": {
+    "name": "Crowned Zacian",
+    "image_url": "https://cdn.poketwo.net/images/10181.png"
+  },
+  "variant_889_Crowned_Zamazenta": {
+    "name": "Crowned Zamazenta",
+    "image_url": "https://cdn.poketwo.net/images/10182.png"
+  },
+  "variant_892_Rapid_Strike_Urshifu": {
+    "name": "Rapid Strike Urshifu",
+    "image_url": "https://cdn.poketwo.net/images/10183.png"
+  },
+  "variant_898_Ice_Rider_Calyrex": {
+    "name": "Ice Rider Calyrex",
+    "image_url": "https://cdn.poketwo.net/images/10184.png"
+  },
+  "variant_898_Shadow_Rider_Calyrex": {
+    "name": "Shadow Rider Calyrex",
+    "image_url": "https://cdn.poketwo.net/images/10185.png"
+  },
+  "variant_3_Gigantamax_Venusaur": {
+    "name": "Gigantamax Venusaur",
+    "image_url": "https://cdn.poketwo.net/images/10186.png"
+  },
+  "variant_6_Gigantamax_Charizard": {
+    "name": "Gigantamax Charizard",
+    "image_url": "https://cdn.poketwo.net/images/10187.png"
+  },
+  "variant_9_Gigantamax_Blastoise": {
+    "name": "Gigantamax Blastoise",
+    "image_url": "https://cdn.poketwo.net/images/10188.png"
+  },
+  "variant_12_Gigantamax_Butterfree": {
+    "name": "Gigantamax Butterfree",
+    "image_url": "https://cdn.poketwo.net/images/10189.png"
+  },
+  "variant_25_Gigantamax_Pikachu": {
+    "name": "Gigantamax Pikachu",
+    "image_url": "https://cdn.poketwo.net/images/10190.png"
+  },
+  "variant_52_Gigantamax_Meowth": {
+    "name": "Gigantamax Meowth",
+    "image_url": "https://cdn.poketwo.net/images/10191.png"
+  },
+  "variant_68_Gigantamax_Machamp": {
+    "name": "Gigantamax Machamp",
+    "image_url": "https://cdn.poketwo.net/images/10192.png"
+  },
+  "variant_94_Gigantamax_Gengar": {
+    "name": "Gigantamax Gengar",
+    "image_url": "https://cdn.poketwo.net/images/10193.png"
+  },
+  "variant_99_Gigantamax_Kingler": {
+    "name": "Gigantamax Kingler",
+    "image_url": "https://cdn.poketwo.net/images/10194.png"
+  },
+  "variant_131_Gigantamax_Lapras": {
+    "name": "Gigantamax Lapras",
+    "image_url": "https://cdn.poketwo.net/images/10195.png"
+  },
+  "variant_133_Gigantamax_Eevee": {
+    "name": "Gigantamax Eevee",
+    "image_url": "https://cdn.poketwo.net/images/10196.png"
+  },
+  "variant_143_Gigantamax_Snorlax": {
+    "name": "Gigantamax Snorlax",
+    "image_url": "https://cdn.poketwo.net/images/10197.png"
+  },
+  "variant_569_Gigantamax_Garbodor": {
+    "name": "Gigantamax Garbodor",
+    "image_url": "https://cdn.poketwo.net/images/10198.png"
+  },
+  "variant_809_Gigantamax_Melmetal": {
+    "name": "Gigantamax Melmetal",
+    "image_url": "https://cdn.poketwo.net/images/10199.png"
+  },
+  "variant_812_Gigantamax_Rillaboom": {
+    "name": "Gigantamax Rillaboom",
+    "image_url": "https://cdn.poketwo.net/images/10200.png"
+  },
+  "variant_815_Gigantamax_Cinderace": {
+    "name": "Gigantamax Cinderace",
+    "image_url": "https://cdn.poketwo.net/images/10201.png"
+  },
+  "variant_818_Gigantamax_Inteleon": {
+    "name": "Gigantamax Inteleon",
+    "image_url": "https://cdn.poketwo.net/images/10202.png"
+  },
+  "variant_823_Gigantamax_Corviknight": {
+    "name": "Gigantamax Corviknight",
+    "image_url": "https://cdn.poketwo.net/images/10203.png"
+  },
+  "variant_826_Gigantamax_Orbeetle": {
+    "name": "Gigantamax Orbeetle",
+    "image_url": "https://cdn.poketwo.net/images/10204.png"
+  },
+  "variant_834_Gigantamax_Drednaw": {
+    "name": "Gigantamax Drednaw",
+    "image_url": "https://cdn.poketwo.net/images/10205.png"
+  },
+  "variant_839_Gigantamax_Coalossal": {
+    "name": "Gigantamax Coalossal",
+    "image_url": "https://cdn.poketwo.net/images/10206.png"
+  },
+  "variant_841_Gigantamax_Flapple": {
+    "name": "Gigantamax Flapple",
+    "image_url": "https://cdn.poketwo.net/images/10207.png"
+  },
+  "variant_842_Gigantamax_Appletun": {
+    "name": "Gigantamax Appletun",
+    "image_url": "https://cdn.poketwo.net/images/10208.png"
+  },
+  "variant_844_Gigantamax_Sandaconda": {
+    "name": "Gigantamax Sandaconda",
+    "image_url": "https://cdn.poketwo.net/images/10209.png"
+  },
+  "variant_849_Gigantamax_Amped_Toxtricity": {
+    "name": "Gigantamax Amped Toxtricity",
+    "image_url": "https://cdn.poketwo.net/images/10210.png"
+  },
+  "variant_851_Gigantamax_Centiskorch": {
+    "name": "Gigantamax Centiskorch",
+    "image_url": "https://cdn.poketwo.net/images/10211.png"
+  },
+  "variant_858_Gigantamax_Hatterene": {
+    "name": "Gigantamax Hatterene",
+    "image_url": "https://cdn.poketwo.net/images/10212.png"
+  },
+  "variant_861_Gigantamax_Grimmsnarl": {
+    "name": "Gigantamax Grimmsnarl",
+    "image_url": "https://cdn.poketwo.net/images/10213.png"
+  },
+  "variant_869_Gigantamax_Alcremie": {
+    "name": "Gigantamax Alcremie",
+    "image_url": "https://cdn.poketwo.net/images/10214.png"
+  },
+  "variant_879_Gigantamax_Copperajah": {
+    "name": "Gigantamax Copperajah",
+    "image_url": "https://cdn.poketwo.net/images/10215.png"
+  },
+  "variant_884_Gigantamax_Duraludon": {
+    "name": "Gigantamax Duraludon",
+    "image_url": "https://cdn.poketwo.net/images/10216.png"
+  },
+  "variant_890_Eternamax_Eternatus": {
+    "name": "Eternamax Eternatus",
+    "image_url": "https://cdn.poketwo.net/images/10217.png"
+  },
+  "variant_892_Gigantamax_Single_Strike_Urshifu": {
+    "name": "Gigantamax Single Strike Urshifu",
+    "image_url": "https://cdn.poketwo.net/images/10218.png"
+  },
+  "variant_892_Gigantamax_Rapid_Strike_Urshifu": {
+    "name": "Gigantamax Rapid Strike Urshifu",
+    "image_url": "https://cdn.poketwo.net/images/10219.png"
+  },
+  "variant_849_Gigantamax_Low_Key_Toxtricity": {
+    "name": "Gigantamax Low Key Toxtricity",
+    "image_url": "https://cdn.poketwo.net/images/10220.png"
+  },
+  "variant_869_Gigantamax_Vanilla_Cream_Berry_Sweet_Alcremie": {
+    "name": "Gigantamax Vanilla Cream Berry Sweet Alcremie",
+    "image_url": "https://cdn.poketwo.net/images/10214.png"
+  },
+  "variant_869_Gigantamax_Vanilla_Cream_Love_Sweet_Alcremie": {
+    "name": "Gigantamax Vanilla Cream Love Sweet Alcremie",
+    "image_url": "https://cdn.poketwo.net/images/10214.png"
+  },
+  "variant_869_Gigantamax_Vanilla_Cream_Star_Sweet_Alcremie": {
+    "name": "Gigantamax Vanilla Cream Star Sweet Alcremie",
+    "image_url": "https://cdn.poketwo.net/images/10214.png"
+  },
+  "variant_869_Gigantamax_Vanilla_Cream_Clover_Sweet_Alcremie": {
+    "name": "Gigantamax Vanilla Cream Clover Sweet Alcremie",
+    "image_url": "https://cdn.poketwo.net/images/10214.png"
+  },
+  "variant_869_Gigantamax_Vanilla_Cream_Flower_Sweet_Alcremie": {
+    "name": "Gigantamax Vanilla Cream Flower Sweet Alcremie",
+    "image_url": "https://cdn.poketwo.net/images/10214.png"
+  },
+  "variant_869_Gigantamax_Vanilla_Cream_Ribbon_Sweet_Alcremie": {
+    "name": "Gigantamax Vanilla Cream Ribbon Sweet Alcremie",
+    "image_url": "https://cdn.poketwo.net/images/10214.png"
+  },
+  "variant_58_Hisuian": {
+    "name": "Hisuian Growlithe",
+    "image_url": "https://cdn.poketwo.net/images/10221.png"
+  },
+  "variant_59_Hisuian": {
+    "name": "Hisuian Arcanine",
+    "image_url": "https://cdn.poketwo.net/images/10222.png"
+  },
+  "variant_100_Hisuian": {
+    "name": "Hisuian Voltorb",
+    "image_url": "https://cdn.poketwo.net/images/10223.png"
+  },
+  "variant_101_Hisuian": {
+    "name": "Hisuian Electrode",
+    "image_url": "https://cdn.poketwo.net/images/10224.png"
+  },
+  "variant_157_Hisuian": {
+    "name": "Hisuian Typhlosion",
+    "image_url": "https://cdn.poketwo.net/images/10225.png"
+  },
+  "variant_211_Hisuian": {
+    "name": "Hisuian Qwilfish",
+    "image_url": "https://cdn.poketwo.net/images/10226.png"
+  },
+  "variant_215_Hisuian": {
+    "name": "Hisuian Sneasel",
+    "image_url": "https://cdn.poketwo.net/images/10227F.png"
+  },
+  "variant_503_Hisuian": {
+    "name": "Hisuian Samurott",
+    "image_url": "https://cdn.poketwo.net/images/10228.png"
+  },
+  "variant_549_Hisuian": {
+    "name": "Hisuian Lilligant",
+    "image_url": "https://cdn.poketwo.net/images/10229.png"
+  },
+  "variant_570_Hisuian": {
+    "name": "Hisuian Zorua",
+    "image_url": "https://cdn.poketwo.net/images/10230.png"
+  },
+  "variant_571_Hisuian": {
+    "name": "Hisuian Zoroark",
+    "image_url": "https://cdn.poketwo.net/images/10231.png"
+  },
+  "variant_628_Hisuian": {
+    "name": "Hisuian Braviary",
+    "image_url": "https://cdn.poketwo.net/images/10232.png"
+  },
+  "variant_705_Hisuian": {
+    "name": "Hisuian Sliggoo",
+    "image_url": "https://cdn.poketwo.net/images/10233.png"
+  },
+  "variant_706_Hisuian": {
+    "name": "Hisuian Goodra",
+    "image_url": "https://cdn.poketwo.net/images/10234.png"
+  },
+  "variant_713_Hisuian": {
+    "name": "Hisuian Avalugg",
+    "image_url": "https://cdn.poketwo.net/images/10235.png"
+  },
+  "variant_724_Hisuian": {
+    "name": "Hisuian Decidueye",
+    "image_url": "https://cdn.poketwo.net/images/10236.png"
+  },
+  "variant_484_Origin": {
+    "name": "Origin Palkia",
+    "image_url": "https://cdn.poketwo.net/images/10237.png"
+  },
+  "variant_483_Origin": {
+    "name": "Origin Dialga",
+    "image_url": "https://cdn.poketwo.net/images/10238.png"
+  },
+  "variant_25_Partner_Pikachu": {
+    "name": "Partner Pikachu",
+    "image_url": "https://cdn.poketwo.net/images/10239.png"
+  },
+  "variant_133_Partner_Eevee": {
+    "name": "Partner Eevee",
+    "image_url": "https://cdn.poketwo.net/images/10240.png"
+  },
+  "variant_845_Gulping_Cramorant": {
+    "name": "Gulping Cramorant",
+    "image_url": "https://cdn.poketwo.net/images/10243.png"
+  },
+  "variant_845_Gorging_Cramorant": {
+    "name": "Gorging Cramorant",
+    "image_url": "https://cdn.poketwo.net/images/10244.png"
+  },
+  "variant_877_Hangry_Morpeko": {
+    "name": "Hangry Morpeko",
+    "image_url": "https://cdn.poketwo.net/images/10245.png"
+  },
+  "variant_893_Dada_Zarude": {
+    "name": "Dada Zarude",
+    "image_url": "https://cdn.poketwo.net/images/10246.png"
+  },
+  "variant_550_White-Striped_Basculin": {
+    "name": "White-Striped Basculin",
+    "image_url": "https://cdn.poketwo.net/images/10247.png"
+  },
+  "variant_905_Therian": {
+    "name": "Therian Enamorus",
+    "image_url": "https://cdn.poketwo.net/images/10249.png"
+  },
+  "variant_128_Combat_Breed_Tauros": {
+    "name": "Combat Breed Tauros",
+    "image_url": "https://cdn.poketwo.net/images/10250.png"
+  },
+  "variant_128_Blaze_Breed_Tauros": {
+    "name": "Blaze Breed Tauros",
+    "image_url": "https://cdn.poketwo.net/images/10251.png"
+  },
+  "variant_128_Aqua_Breed_Tauros": {
+    "name": "Aqua Breed Tauros",
+    "image_url": "https://cdn.poketwo.net/images/10252.png"
+  },
+  "variant_194_Paldean": {
+    "name": "Paldean Wooper",
+    "image_url": "https://cdn.poketwo.net/images/10253.png"
+  },
+  "variant_982_Three-Segment_Dudunsparce": {
+    "name": "Three-Segment Dudunsparce",
+    "image_url": "https://cdn.poketwo.net/images/10255.png"
+  },
+  "variant_964_Hero_Palafin": {
+    "name": "Hero Palafin",
+    "image_url": "https://cdn.poketwo.net/images/10256.png"
+  },
+  "variant_925_Family_of_Three_Maushold": {
+    "name": "Family of Three Maushold",
+    "image_url": "https://cdn.poketwo.net/images/10257.png"
+  },
+  "variant_978_Droopy_Tatsugiri": {
+    "name": "Droopy Tatsugiri",
+    "image_url": "https://cdn.poketwo.net/images/10258.png"
+  },
+  "variant_978_Stretchy_Tatsugiri": {
+    "name": "Stretchy Tatsugiri",
+    "image_url": "https://cdn.poketwo.net/images/10259.png"
+  },
+  "variant_931_Blue_Plumage_Squawkabilly": {
+    "name": "Blue Plumage Squawkabilly",
+    "image_url": "https://cdn.poketwo.net/images/10260.png"
+  },
+  "variant_931_Yellow_Plumage_Squawkabilly": {
+    "name": "Yellow Plumage Squawkabilly",
+    "image_url": "https://cdn.poketwo.net/images/10261.png"
+  },
+  "variant_931_White_Plumage_Squawkabilly": {
+    "name": "White Plumage Squawkabilly",
+    "image_url": "https://cdn.poketwo.net/images/10262.png"
+  },
+  "variant_999_Roaming_Gimmighoul": {
+    "name": "Roaming Gimmighoul",
+    "image_url": "https://cdn.poketwo.net/images/10263.png"
+  },
+  "variant_1007_Sprinting_Build_Koraidon": {
+    "name": "Sprinting Build Koraidon",
+    "image_url": "https://cdn.poketwo.net/images/10265.png"
+  },
+  "variant_1007_Gliding_Build_Koraidon": {
+    "name": "Gliding Build Koraidon",
+    "image_url": "https://cdn.poketwo.net/images/10267.png"
+  },
+  "variant_1008_Drive_Mode_Miraidon": {
+    "name": "Drive Mode Miraidon",
+    "image_url": "https://cdn.poketwo.net/images/10269.png"
+  },
+  "variant_1008_Glide_Mode_Miraidon": {
+    "name": "Glide Mode Miraidon",
+    "image_url": "https://cdn.poketwo.net/images/10271.png"
+  },
+  "variant_901_Bloodmoon_Ursaluna": {
+    "name": "Bloodmoon Ursaluna",
+    "image_url": "https://cdn.poketwo.net/images/10272.png"
+  },
+  "variant_1017_Wellspring_Mask_Ogerpon": {
+    "name": "Wellspring Mask Ogerpon",
+    "image_url": "https://cdn.poketwo.net/images/10273.png"
+  },
+  "variant_1017_Hearthflame_Mask_Ogerpon": {
+    "name": "Hearthflame Mask Ogerpon",
+    "image_url": "https://cdn.poketwo.net/images/10274.png"
+  },
+  "variant_1017_Cornerstone_Mask_Ogerpon": {
+    "name": "Cornerstone Mask Ogerpon",
+    "image_url": "https://cdn.poketwo.net/images/10275.png"
+  },
+  "variant_1024_Terastal_Terapagos": {
+    "name": "Terastal Terapagos",
+    "image_url": "https://cdn.poketwo.net/images/10276.png"
+  },
+  "variant_201_Unown_A": {
+    "name": "Unown A",
+    "image_url": "https://cdn.poketwo.net/images/10278.png"
+  },
+  "variant_201_Unown_B": {
+    "name": "Unown B",
+    "image_url": "https://cdn.poketwo.net/images/10279.png"
+  },
+  "variant_201_Unown_C": {
+    "name": "Unown C",
+    "image_url": "https://cdn.poketwo.net/images/10280.png"
+  },
+  "variant_201_Unown_D": {
+    "name": "Unown D",
+    "image_url": "https://cdn.poketwo.net/images/10281.png"
+  },
+  "variant_201_Unown_E": {
+    "name": "Unown E",
+    "image_url": "https://cdn.poketwo.net/images/10282.png"
+  },
+  "variant_201_Unown_G": {
+    "name": "Unown G",
+    "image_url": "https://cdn.poketwo.net/images/10283.png"
+  },
+  "variant_201_Unown_H": {
+    "name": "Unown H",
+    "image_url": "https://cdn.poketwo.net/images/10284.png"
+  },
+  "variant_201_Unown_I": {
+    "name": "Unown I",
+    "image_url": "https://cdn.poketwo.net/images/10285.png"
+  },
+  "variant_201_Unown_J": {
+    "name": "Unown J",
+    "image_url": "https://cdn.poketwo.net/images/10286.png"
+  },
+  "variant_201_Unown_K": {
+    "name": "Unown K",
+    "image_url": "https://cdn.poketwo.net/images/10287.png"
+  },
+  "variant_201_Unown_L": {
+    "name": "Unown L",
+    "image_url": "https://cdn.poketwo.net/images/10288.png"
+  },
+  "variant_201_Unown_M": {
+    "name": "Unown M",
+    "image_url": "https://cdn.poketwo.net/images/10289.png"
+  },
+  "variant_201_Unown_N": {
+    "name": "Unown N",
+    "image_url": "https://cdn.poketwo.net/images/10290.png"
+  },
+  "variant_201_Unown_O": {
+    "name": "Unown O",
+    "image_url": "https://cdn.poketwo.net/images/10291.png"
+  },
+  "variant_201_Unown_P": {
+    "name": "Unown P",
+    "image_url": "https://cdn.poketwo.net/images/10292.png"
+  },
+  "variant_201_Unown_Q": {
+    "name": "Unown Q",
+    "image_url": "https://cdn.poketwo.net/images/10293.png"
+  },
+  "variant_201_Unown_R": {
+    "name": "Unown R",
+    "image_url": "https://cdn.poketwo.net/images/10294.png"
+  },
+  "variant_201_Unown_S": {
+    "name": "Unown S",
+    "image_url": "https://cdn.poketwo.net/images/10295.png"
+  },
+  "variant_201_Unown_T": {
+    "name": "Unown T",
+    "image_url": "https://cdn.poketwo.net/images/10296.png"
+  },
+  "variant_201_Unown_U": {
+    "name": "Unown U",
+    "image_url": "https://cdn.poketwo.net/images/10297.png"
+  },
+  "variant_201_Unown_V": {
+    "name": "Unown V",
+    "image_url": "https://cdn.poketwo.net/images/10298.png"
+  },
+  "variant_201_Unown_W": {
+    "name": "Unown W",
+    "image_url": "https://cdn.poketwo.net/images/10299.png"
+  },
+  "variant_201_Unown_X": {
+    "name": "Unown X",
+    "image_url": "https://cdn.poketwo.net/images/10300.png"
+  },
+  "variant_201_Unown_Y": {
+    "name": "Unown Y",
+    "image_url": "https://cdn.poketwo.net/images/10301.png"
+  },
+  "variant_201_Unown_Z": {
+    "name": "Unown Z",
+    "image_url": "https://cdn.poketwo.net/images/10302.png"
+  },
+  "variant_201_Unown_Exclamation": {
+    "name": "Unown Exclamation",
+    "image_url": "https://cdn.poketwo.net/images/10303.png"
+  },
+  "variant_201_Unown_Question": {
+    "name": "Unown Question",
+    "image_url": "https://cdn.poketwo.net/images/10304.png"
+  },
+  "variant_669_Yellow_Flower_Flabébé": {
+    "name": "Yellow Flower Flabébé",
+    "image_url": "https://cdn.poketwo.net/images/10305.png"
+  },
+  "variant_669_Orange_Flower_Flabébé": {
+    "name": "Orange Flower Flabébé",
+    "image_url": "https://cdn.poketwo.net/images/10306.png"
+  },
+  "variant_669_Blue_Flower_Flabébé": {
+    "name": "Blue Flower Flabébé",
+    "image_url": "https://cdn.poketwo.net/images/10307.png"
+  },
+  "variant_669_White_Flower_Flabébé": {
+    "name": "White Flower Flabébé",
+    "image_url": "https://cdn.poketwo.net/images/10308.png"
+  },
+  "variant_670_Yellow_Flower_Floette": {
+    "name": "Yellow Flower Floette",
+    "image_url": "https://cdn.poketwo.net/images/10309.png"
+  },
+  "variant_670_Orange_Flower_Floette": {
+    "name": "Orange Flower Floette",
+    "image_url": "https://cdn.poketwo.net/images/10310.png"
+  },
+  "variant_670_Blue_Flower_Floette": {
+    "name": "Blue Flower Floette",
+    "image_url": "https://cdn.poketwo.net/images/10311.png"
+  },
+  "variant_670_White_Flower_Floette": {
+    "name": "White Flower Floette",
+    "image_url": "https://cdn.poketwo.net/images/10312.png"
+  },
+  "variant_671_Yellow_Flower_Florges": {
+    "name": "Yellow Flower Florges",
+    "image_url": "https://cdn.poketwo.net/images/10313.png"
+  },
+  "variant_671_Orange_Flower_Florges": {
+    "name": "Orange Flower Florges",
+    "image_url": "https://cdn.poketwo.net/images/10314.png"
+  },
+  "variant_671_Blue_Flower_Florges": {
+    "name": "Blue Flower Florges",
+    "image_url": "https://cdn.poketwo.net/images/10315.png"
+  },
+  "variant_671_White_Flower_Florges": {
+    "name": "White Flower Florges",
+    "image_url": "https://cdn.poketwo.net/images/10316.png"
+  },
+  "variant_172_Spiky-eared_Pichu": {
+    "name": "Spiky-eared Pichu",
+    "image_url": "https://cdn.poketwo.net/images/10317.png"
+  },
+  "variant_421_Sunshine": {
+    "name": "Sunshine Cherrim",
+    "image_url": "https://cdn.poketwo.net/images/10318.png"
+  },
+  "variant_422_East": {
+    "name": "East Sea Shellos",
+    "image_url": "https://cdn.poketwo.net/images/10319.png"
+  },
+  "variant_423_East": {
+    "name": "East Sea Gastrodon",
+    "image_url": "https://cdn.poketwo.net/images/10320.png"
+  },
+  "variant_666_Icy_Snow_Vivillon": {
+    "name": "Icy Snow Vivillon",
+    "image_url": "https://cdn.poketwo.net/images/10321.png"
+  },
+  "variant_666_Polar_Vivillon": {
+    "name": "Polar Vivillon",
+    "image_url": "https://cdn.poketwo.net/images/10322.png"
+  },
+  "variant_666_Tundra_Vivillon": {
+    "name": "Tundra Vivillon",
+    "image_url": "https://cdn.poketwo.net/images/10323.png"
+  },
+  "variant_666_Continental_Vivillon": {
+    "name": "Continental Vivillon",
+    "image_url": "https://cdn.poketwo.net/images/10324.png"
+  },
+  "variant_666_Garden_Vivillon": {
+    "name": "Garden Vivillon",
+    "image_url": "https://cdn.poketwo.net/images/10325.png"
+  },
+  "variant_666_Elegant_Vivillon": {
+    "name": "Elegant Vivillon",
+    "image_url": "https://cdn.poketwo.net/images/10326.png"
+  },
+  "variant_666_Modern_Vivillon": {
+    "name": "Modern Vivillon",
+    "image_url": "https://cdn.poketwo.net/images/10327.png"
+  },
+  "variant_666_Marine_Vivillon": {
+    "name": "Marine Vivillon",
+    "image_url": "https://cdn.poketwo.net/images/10328.png"
+  },
+  "variant_666_Archipelago_Vivillon": {
+    "name": "Archipelago Vivillon",
+    "image_url": "https://cdn.poketwo.net/images/10329.png"
+  },
+  "variant_666_High_Plain_Vivillon": {
+    "name": "High Plain Vivillon",
+    "image_url": "https://cdn.poketwo.net/images/10330.png"
+  },
+  "variant_666_Sandstorm_Vivillon": {
+    "name": "Sandstorm Vivillon",
+    "image_url": "https://cdn.poketwo.net/images/10331.png"
+  },
+  "variant_666_River_Vivillon": {
+    "name": "River Vivillon",
+    "image_url": "https://cdn.poketwo.net/images/10332.png"
+  },
+  "variant_666_Monsoon_Vivillon": {
+    "name": "Monsoon Vivillon",
+    "image_url": "https://cdn.poketwo.net/images/10333.png"
+  },
+  "variant_666_Savanna_Vivillon": {
+    "name": "Savanna Vivillon",
+    "image_url": "https://cdn.poketwo.net/images/10334.png"
+  },
+  "variant_666_Sun_Vivillon": {
+    "name": "Sun Vivillon",
+    "image_url": "https://cdn.poketwo.net/images/10335.png"
+  },
+  "variant_666_Ocean_Vivillon": {
+    "name": "Ocean Vivillon",
+    "image_url": "https://cdn.poketwo.net/images/10336.png"
+  },
+  "variant_666_Jungle_Vivillon": {
+    "name": "Jungle Vivillon",
+    "image_url": "https://cdn.poketwo.net/images/10337.png"
+  },
+  "variant_666_Fan": {
+    "name": "Fancy Vivillon",
+    "image_url": "https://cdn.poketwo.net/images/10338.png"
+  },
+  "variant_666_Poké_Ball_Vivillon": {
+    "name": "Poké Ball Vivillon",
+    "image_url": "https://cdn.poketwo.net/images/10339.png"
+  },
+  "variant_585_Summer": {
+    "name": "Summer Deerling",
+    "image_url": "https://cdn.poketwo.net/images/10340.png"
+  },
+  "variant_585_Autumn": {
+    "name": "Autumn Deerling",
+    "image_url": "https://cdn.poketwo.net/images/10341.png"
+  },
+  "variant_585_Winter": {
+    "name": "Winter Deerling",
+    "image_url": "https://cdn.poketwo.net/images/10342.png"
+  },
+  "variant_586_Summer": {
+    "name": "Summer Sawsbuck",
+    "image_url": "https://cdn.poketwo.net/images/10343.png"
+  },
+  "variant_586_Autumn": {
+    "name": "Autumn Sawsbuck",
+    "image_url": "https://cdn.poketwo.net/images/10344.png"
+  },
+  "variant_586_Winter": {
+    "name": "Winter Sawsbuck",
+    "image_url": "https://cdn.poketwo.net/images/10345.png"
+  },
+  "variant_716_Neutral_Xerneas": {
+    "name": "Neutral Xerneas",
+    "image_url": "https://cdn.poketwo.net/images/10346.png"
+  },
+  "variant_493_Bug_Arceus": {
+    "name": "Bug Arceus",
+    "image_url": "https://cdn.poketwo.net/images/10347.png"
+  },
+  "variant_493_Dark_Arceus": {
+    "name": "Dark Arceus",
+    "image_url": "https://cdn.poketwo.net/images/10348.png"
+  },
+  "variant_493_Dragon_Arceus": {
+    "name": "Dragon Arceus",
+    "image_url": "https://cdn.poketwo.net/images/10349.png"
+  },
+  "variant_493_Electric_Arceus": {
+    "name": "Electric Arceus",
+    "image_url": "https://cdn.poketwo.net/images/10350.png"
+  },
+  "variant_493_Fighting_Arceus": {
+    "name": "Fighting Arceus",
+    "image_url": "https://cdn.poketwo.net/images/10351.png"
+  },
+  "variant_493_Fire_Arceus": {
+    "name": "Fire Arceus",
+    "image_url": "https://cdn.poketwo.net/images/10352.png"
+  },
+  "variant_493_Flying_Arceus": {
+    "name": "Flying Arceus",
+    "image_url": "https://cdn.poketwo.net/images/10353.png"
+  },
+  "variant_493_Ghost_Arceus": {
+    "name": "Ghost Arceus",
+    "image_url": "https://cdn.poketwo.net/images/10354.png"
+  },
+  "variant_493_Grass_Arceus": {
+    "name": "Grass Arceus",
+    "image_url": "https://cdn.poketwo.net/images/10355.png"
+  },
+  "variant_493_Ground_Arceus": {
+    "name": "Ground Arceus",
+    "image_url": "https://cdn.poketwo.net/images/10356.png"
+  },
+  "variant_493_Ice_Arceus": {
+    "name": "Ice Arceus",
+    "image_url": "https://cdn.poketwo.net/images/10357.png"
+  },
+  "variant_493_Poison_Arceus": {
+    "name": "Poison Arceus",
+    "image_url": "https://cdn.poketwo.net/images/10358.png"
+  },
+  "variant_493_Psychic_Arceus": {
+    "name": "Psychic Arceus",
+    "image_url": "https://cdn.poketwo.net/images/10359.png"
+  },
+  "variant_493_Rock_Arceus": {
+    "name": "Rock Arceus",
+    "image_url": "https://cdn.poketwo.net/images/10360.png"
+  },
+  "variant_493_Steel_Arceus": {
+    "name": "Steel Arceus",
+    "image_url": "https://cdn.poketwo.net/images/10361.png"
+  },
+  "variant_493_Water_Arceus": {
+    "name": "Water Arceus",
+    "image_url": "https://cdn.poketwo.net/images/10362.png"
+  },
+  "variant_493_Fairy_Arceus": {
+    "name": "Fairy Arceus",
+    "image_url": "https://cdn.poketwo.net/images/10363.png"
+  },
+  "variant_773_Bug_Silvally": {
+    "name": "Bug Silvally",
+    "image_url": "https://cdn.poketwo.net/images/10364.png"
+  },
+  "variant_773_Dark_Silvally": {
+    "name": "Dark Silvally",
+    "image_url": "https://cdn.poketwo.net/images/10365.png"
+  },
+  "variant_773_Dragon_Silvally": {
+    "name": "Dragon Silvally",
+    "image_url": "https://cdn.poketwo.net/images/10366.png"
+  },
+  "variant_773_Electric_Silvally": {
+    "name": "Electric Silvally",
+    "image_url": "https://cdn.poketwo.net/images/10367.png"
+  },
+  "variant_773_Fighting_Silvally": {
+    "name": "Fighting Silvally",
+    "image_url": "https://cdn.poketwo.net/images/10368.png"
+  },
+  "variant_773_Fire_Silvally": {
+    "name": "Fire Silvally",
+    "image_url": "https://cdn.poketwo.net/images/10369.png"
+  },
+  "variant_773_Flying_Silvally": {
+    "name": "Flying Silvally",
+    "image_url": "https://cdn.poketwo.net/images/10370.png"
+  },
+  "variant_773_Ghost_Silvally": {
+    "name": "Ghost Silvally",
+    "image_url": "https://cdn.poketwo.net/images/10371.png"
+  },
+  "variant_773_Grass_Silvally": {
+    "name": "Grass Silvally",
+    "image_url": "https://cdn.poketwo.net/images/10372.png"
+  },
+  "variant_773_Ground_Silvally": {
+    "name": "Ground Silvally",
+    "image_url": "https://cdn.poketwo.net/images/10373.png"
+  },
+  "variant_773_Ice_Silvally": {
+    "name": "Ice Silvally",
+    "image_url": "https://cdn.poketwo.net/images/10374.png"
+  },
+  "variant_773_Poison_Silvally": {
+    "name": "Poison Silvally",
+    "image_url": "https://cdn.poketwo.net/images/10375.png"
+  },
+  "variant_773_Psychic_Silvally": {
+    "name": "Psychic Silvally",
+    "image_url": "https://cdn.poketwo.net/images/10376.png"
+  },
+  "variant_773_Rock_Silvally": {
+    "name": "Rock Silvally",
+    "image_url": "https://cdn.poketwo.net/images/10377.png"
+  },
+  "variant_773_Steel_Silvally": {
+    "name": "Steel Silvally",
+    "image_url": "https://cdn.poketwo.net/images/10378.png"
+  },
+  "variant_773_Water_Silvally": {
+    "name": "Water Silvally",
+    "image_url": "https://cdn.poketwo.net/images/10379.png"
+  },
+  "variant_773_Fairy_Silvally": {
+    "name": "Fairy Silvally",
+    "image_url": "https://cdn.poketwo.net/images/10380.png"
+  },
+  "variant_676_Heart_Trim_Furfrou": {
+    "name": "Heart Trim Furfrou",
+    "image_url": "https://cdn.poketwo.net/images/10381.png"
+  },
+  "variant_676_Star_Trim_Furfrou": {
+    "name": "Star Trim Furfrou",
+    "image_url": "https://cdn.poketwo.net/images/10382.png"
+  },
+  "variant_676_Diamond_Trim_Furfrou": {
+    "name": "Diamond Trim Furfrou",
+    "image_url": "https://cdn.poketwo.net/images/10383.png"
+  },
+  "variant_676_Debutante_Trim_Furfrou": {
+    "name": "Debutante Trim Furfrou",
+    "image_url": "https://cdn.poketwo.net/images/10384.png"
+  },
+  "variant_676_Matron_Trim_Furfrou": {
+    "name": "Matron Trim Furfrou",
+    "image_url": "https://cdn.poketwo.net/images/10385.png"
+  },
+  "variant_676_Dandy_Trim_Furfrou": {
+    "name": "Dandy Trim Furfrou",
+    "image_url": "https://cdn.poketwo.net/images/10386.png"
+  },
+  "variant_676_La_Reine_Trim_Furfrou": {
+    "name": "La Reine Trim Furfrou",
+    "image_url": "https://cdn.poketwo.net/images/10387.png"
+  },
+  "variant_676_Kabuki_Trim_Furfrou": {
+    "name": "Kabuki Trim Furfrou",
+    "image_url": "https://cdn.poketwo.net/images/10388.png"
+  },
+  "variant_676_Pharaoh_Trim_Furfrou": {
+    "name": "Pharaoh Trim Furfrou",
+    "image_url": "https://cdn.poketwo.net/images/10389.png"
+  },
+  "variant_869_Vanilla_Cream_Berry_Sweet_Alcremie": {
+    "name": "Vanilla Cream Berry Sweet Alcremie",
+    "image_url": "https://cdn.poketwo.net/images/10398.png"
+  },
+  "variant_869_Vanilla_Cream_Love_Sweet_Alcremie": {
+    "name": "Vanilla Cream Love Sweet Alcremie",
+    "image_url": "https://cdn.poketwo.net/images/10407.png"
+  },
+  "variant_869_Vanilla_Cream_Star_Sweet_Alcremie": {
+    "name": "Vanilla Cream Star Sweet Alcremie",
+    "image_url": "https://cdn.poketwo.net/images/10416.png"
+  },
+  "variant_869_Vanilla_Cream_Clover_Sweet_Alcremie": {
+    "name": "Vanilla Cream Clover Sweet Alcremie",
+    "image_url": "https://cdn.poketwo.net/images/10425.png"
+  },
+  "variant_869_Vanilla_Cream_Flower_Sweet_Alcremie": {
+    "name": "Vanilla Cream Flower Sweet Alcremie",
+    "image_url": "https://cdn.poketwo.net/images/10434.png"
+  },
+  "variant_869_Vanilla_Cream_Ribbon_Sweet_Alcremie": {
+    "name": "Vanilla Cream Ribbon Sweet Alcremie",
+    "image_url": "https://cdn.poketwo.net/images/10443.png"
+  },
+  "variant_412_Sandy": {
+    "name": "Sandy Burmy",
+    "image_url": "https://cdn.poketwo.net/images/10452.png"
+  },
+  "variant_412_Trash": {
+    "name": "Trash Burmy",
+    "image_url": "https://cdn.poketwo.net/images/10453.png"
+  },
+  "variant_718_Zygarde_Cell": {
+    "name": "Zygarde Cell",
+    "image_url": "https://cdn.poketwo.net/images/20000.png"
+  },
+  "variant_718_Zygarde_Core": {
+    "name": "Zygarde Core",
+    "image_url": "https://cdn.poketwo.net/images/20001.png"
+  },
+  "variant_802_Zenith_Marshadow": {
+    "name": "Zenith Marshadow",
+    "image_url": "https://cdn.poketwo.net/images/20002.png"
+  },
+  "variant_967_Battle_Cyclizar": {
+    "name": "Battle Cyclizar",
+    "image_url": "https://cdn.poketwo.net/images/20003.png"
+  },
+  "variant_967_Ride_Cyclizar": {
+    "name": "Ride Cyclizar",
+    "image_url": "https://cdn.poketwo.net/images/20004.png"
+  },
+  "variant_649_High-speed_Flight_Configuration_Genesect": {
+    "name": "High-speed Flight Configuration Genesect",
+    "image_url": "https://cdn.poketwo.net/images/20005.png"
+  },
+  "variant_479_Rotom_Pokédex": {
+    "name": "Rotom Pokédex",
+    "image_url": "https://cdn.poketwo.net/images/20006.png"
+  },
+  "variant_479_Rotom_Phone": {
+    "name": "Rotom Phone",
+    "image_url": "https://cdn.poketwo.net/images/20007.png"
+  },
+  "variant_479_Rotom_Drone": {
+    "name": "Rotom Drone",
+    "image_url": "https://cdn.poketwo.net/images/20008.png"
+  },
+  "variant_774_Violet_Core_Minior": {
+    "name": "Violet Core Minior",
+    "image_url": "https://cdn.poketwo.net/images/20009.png"
+  }
+}
